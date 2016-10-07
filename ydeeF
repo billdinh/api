@@ -46,52 +46,7 @@
   },
   {
     "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/Eh3ujreHzezf_A49YJr7u7D8YmQ\"",
-    "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi4yODlGNEE0NkRGMEEzMEQy",
-    "snippet": {
-      "publishedAt": "2016-10-07T04:40:05.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Hướng dẫn cách làm bánh mì nướng trứng phô mai - Baked bread with egg and cheese",
-      "description": "Hướng dẫn cách làm bánh mì nướng trứng phô mai - Baked bread with egg and cheese\n---------\n✿ Cùng Feedy chia sẻ nhiều hơn nhé!\n♪ Offcial fanpage: https://www.facebook.com/feedy.vn\n♪ Official Contact Email: contact@eyeplus.vn\n--------\nHướng dẫn làm món bánh mì sữa Hokkaido thơm ngon - Hokkaido Milky Bread: https://www.youtube.com/watch?v=XSBuSuhjyLM\nHướng dẫn cách làm món bánh mì nướng muối ớt đang gây sốt - Baked Vietnamese Bread: https://www.youtube.com/watch?v=tCG9eVd-a6A\nHướng dẫn làm món bánh mì kẹp kem chiên mới lạ - Deep Fried Ice Cream : https://www.youtube.com/watch?v=a-unL0e_uBM\nHướng dẫn cách làm món Bánh gạo chiên lắc phô mai - Fried Rice Cakes Delicious Cheese Powder Shake: https://www.youtube.com/watch?v=A8iYEZ1K6cU\nHướng dẫn cách làm bột chiên nóng hổi ngon ngon - Pan-fried scrambled egg rice cake: https://www.youtube.com/watch?v=tZzKL-G-ays",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/S7NNYaJXv1Q/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/S7NNYaJXv1Q/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/S7NNYaJXv1Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/S7NNYaJXv1Q/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/S7NNYaJXv1Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
-      "position": 1,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "S7NNYaJXv1Q"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/6Ea6RzpjcmRYxNxDCAzjntX6QcM\"",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/mvF-d8Abpd9BmaqnNWf2qtEw08Y\"",
     "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi4wMTcyMDhGQUE4NTIzM0Y5",
     "snippet": {
       "publishedAt": "2016-10-07T04:40:27.000Z",
@@ -127,7 +82,7 @@
       },
       "channelTitle": "DJT",
       "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
-      "position": 2,
+      "position": 1,
       "resourceId": {
         "kind": "youtube#video",
         "videoId": "iVMrgd5QMCQ"
@@ -136,7 +91,7 @@
   },
   {
     "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/NuCaARCcJs0JyQF524tCq-jBAHg\"",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/Vf7iQvjiKOW4Y9y9Zr1CLYocRMM\"",
     "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi41MjE1MkI0OTQ2QzJGNzNG",
     "snippet": {
       "publishedAt": "2016-10-07T04:40:40.000Z",
@@ -172,7 +127,7 @@
       },
       "channelTitle": "DJT",
       "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
-      "position": 3,
+      "position": 2,
       "resourceId": {
         "kind": "youtube#video",
         "videoId": "aBpKpdAiy9k"
@@ -181,7 +136,7 @@
   },
   {
     "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/sf1YvoZNSzQ-4VMSCty9tNqrKCU\"",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/JeFS6IWFikmP0SGfCeGtITyv7tQ\"",
     "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi4wOTA3OTZBNzVEMTUzOTMy",
     "snippet": {
       "publishedAt": "2016-10-07T04:40:53.000Z",
@@ -217,7 +172,7 @@
       },
       "channelTitle": "DJT",
       "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
-      "position": 4,
+      "position": 3,
       "resourceId": {
         "kind": "youtube#video",
         "videoId": "HDdLLTUb6OY"
@@ -226,7 +181,7 @@
   },
   {
     "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/v1Eohw8C17V5Y-oL3kWxSx-rikY\"",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/R-r-dvzuQrul5R4qbNTF4-84laM\"",
     "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi4xMkVGQjNCMUM1N0RFNEUx",
     "snippet": {
       "publishedAt": "2016-10-07T04:41:07.000Z",
@@ -262,7 +217,7 @@
       },
       "channelTitle": "DJT",
       "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
-      "position": 5,
+      "position": 4,
       "resourceId": {
         "kind": "youtube#video",
         "videoId": "_jnfE9erTQM"
@@ -271,7 +226,7 @@
   },
   {
     "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/oQIiglKp1yFe4e_cvUDlcNf6y34\"",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/WA6JSzQEioWtpbF-QxuiQW2NVy4\"",
     "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi41MzJCQjBCNDIyRkJDN0VD",
     "snippet": {
       "publishedAt": "2016-10-07T04:41:22.000Z",
@@ -307,10 +262,190 @@
       },
       "channelTitle": "DJT",
       "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
-      "position": 6,
+      "position": 5,
       "resourceId": {
         "kind": "youtube#video",
         "videoId": "uHcT28hKsNA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/nruhkBiihS_BA2E-COV89O4zC6Y\"",
+    "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2016-10-07T04:50:37.000Z",
+      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+      "title": "Hướng dẫn cách làm chả giò cốm - Sping rolls",
+      "description": "Hướng dẫn cách làm chả giò cốm - Sping rolls\n---------\n✿ Cùng Feedy chia sẻ nhiều hơn nhé!\n♪ Offcial fanpage: https://www.facebook.com/feedy.vn\n♪ Official Contact Email: contact@eyeplus.vn\n---------\nHướng dẫn cách làm chả đậu thịt viên - Tofu Meatballs: https://www.youtube.com/watch?v=WE4GUNsWGW4\nHướng dẫn cách làm món Canh chả cá Hàn Quốc - Grilled Fish Soup: https://www.youtube.com/watch?v=4HqUsA7ex4s\nHướng dẫn cách làm chả hạt sen - Lotus seed meat ball : https://www.youtube.com/watch?v=0Vls1JWAGiE\nHướng dẫn cách làm chả gà xiên que kiểu Nhật - Fried Chicken Skewers: https://www.youtube.com/watch?v=sfdidInxUjI\nHướng dẫn cách làm món Chả Cá Rô Phi đậm vị - Tilapia Balls: https://www.youtube.com/watch?v=OqO42-eISIo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/REnRmezRrEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/REnRmezRrEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/REnRmezRrEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/REnRmezRrEg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/REnRmezRrEg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DJT",
+      "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "REnRmezRrEg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/KsVk3IiZXbJm9HBPhH3cZAWuAmo\"",
+    "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2016-10-07T04:50:49.000Z",
+      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+      "title": "Hướng dẫn cách làm ngao xào sa tế - Satay stir fry clams",
+      "description": "Hướng dẫn cách làm ngao xào sa tế - Satay stir fry clams\n---------\n✿ Cùng Feedy chia sẻ nhiều hơn nhé!\n♪ Offcial fanpage: https://www.facebook.com/feedy.vn\n♪ Official Contact Email: contact@eyeplus.vn\n--------\nHướng dẫn cách làm món Ngao xóc tỏi ngon cơm - Clams in Garlic: https://www.youtube.com/watch?v=3bpGlAnNT58\nHướng dẫn làm CANH NGAO NẤU SẤU CHUA - Clam with dracontomelon soup: https://www.youtube.com/watch?v=1nMz1oHALNQ\nHướng dẫn cách làm cánh gà xào húng quế - Stir fried chicken with basil: https://www.youtube.com/watch?v=JuNxtLbSDTw\nHướng dẫn cách làm đậu xào sả ớt - StirFried Tofu With Lemongrass And Chili: https://www.youtube.com/watch?v=YD9cvlJat24\nHướng dẫn cách làm dê xào sả ớt độc lạ - Goat Meat Chili: https://www.youtube.com/watch?v=ANOH1_YC6yY",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QhGG2erqBr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QhGG2erqBr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QhGG2erqBr4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QhGG2erqBr4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QhGG2erqBr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DJT",
+      "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "QhGG2erqBr4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/MMvZYnKy7Gu6jbklk_hFSsgB7Bo\"",
+    "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2016-10-07T04:51:02.000Z",
+      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+      "title": "Hướng dẫn cách làm bánh maringues - Maringues recipe",
+      "description": "Hướng dẫn cách làm bánh maringues - Maringues recipe\n---------\n✿ Cùng Feedy chia sẻ nhiều hơn nhé!\n♪ Offcial fanpage: https://www.facebook.com/feedy.vn\n♪ Official Contact Email: contact@eyeplus.vn\n---------\nHướng dẫn cách làm bánh chuối chiên phô mai - Fried Banana with Cheese: https://www.youtube.com/watch?v=CYL8d-jo11k\nHướng dẫn cách làm cupcake chanh thơm dịu - Lemon Cupcake: https://www.youtube.com/watch?v=Kuyt9MT3TbM\nHướng dẫn cách làm panna cotta dâu tây - Strawberry Panna Cotta: https://www.youtube.com/watch?v=PODLCbWt63Q\nHướng dẫn cách làm bánh su kem truyền thống - Cream Puffs: https://www.youtube.com/watch?v=EKORaxVxbQc\nHướng dẫn cách làm bánh sữa dừa thơm phức - Coconut Milk Cake: https://www.youtube.com/watch?v=xi_pmHs9FrQ",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F5aC2jblkps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F5aC2jblkps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F5aC2jblkps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F5aC2jblkps/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F5aC2jblkps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DJT",
+      "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "F5aC2jblkps"
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/-IXWyjuUzLa3G0t1-6R2_6Y5Pis\"",
+    "id": "UExaRHJSSGhBdTlxNGVoS0JKU0pIQUN0QnBBSGtXMTFCbi40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2016-10-07T04:51:18.000Z",
+      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+      "title": "Hướng dẫn cách nấu bữa cơm 6 người chỉ với 70k",
+      "description": "Hướng dẫn cách nấu bữa cơm 6 người chỉ với 70k\n---------\n✿ Cùng Feedy chia sẻ nhiều hơn nhé!\n♪ Offcial fanpage: https://www.facebook.com/feedy.vn\n♪ Official Contact Email: contact@eyeplus.vn",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yn2I3I3J_cw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yn2I3I3J_cw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yn2I3I3J_cw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yn2I3I3J_cw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yn2I3I3J_cw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DJT",
+      "playlistId": "PLZDrRHhAu9q4ehKBJSJHACtBpAHkW11Bn",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yn2I3I3J_cw"
       }
     }
   }

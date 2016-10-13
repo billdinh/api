@@ -1,0 +1,227 @@
+[
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/CFGcD0hQrMAjO0vUv_8Y6KC0JIs\"",
+   "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2016-10-13T13:54:13.000Z",
+    "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+    "title": "Tình đổi tiền, nên không? [Bình loạn với Leo]",
+    "description": "Lịch diễn hài độc thoại hàng tuần http://bit.ly/lichdienhaidocthoai\nFB tui https://www.facebook.com/DuaLeo.Stand.up.comedian",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QmDCxhrVwmo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QmDCxhrVwmo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QmDCxhrVwmo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QmDCxhrVwmo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QmDCxhrVwmo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DJT",
+    "playlistId": "PLZDrRHhAu9q5tGdMrXV9uNQz6zfSMwVTj",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QmDCxhrVwmo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/WXHptuNQ8QA6IWi25K3EWjYiHKw\"",
+   "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2016-10-13T13:54:31.000Z",
+    "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+    "title": "Giáo dục VN - hãy học hỏi Sơn Tùng! [Bình loạn với Leo]",
+    "description": "Lịch diễn hài độc thoại hàng tuần http://bit.ly/lichdienhaidocthoai\nFB tui https://www.facebook.com/DuaLeo.Stand.up.comedian",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zeQoBP258NI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zeQoBP258NI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zeQoBP258NI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zeQoBP258NI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zeQoBP258NI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DJT",
+    "playlistId": "PLZDrRHhAu9q5tGdMrXV9uNQz6zfSMwVTj",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zeQoBP258NI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/HE6Q-YMhOGzU0ThLOyXHPZgR9Gk\"",
+   "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2016-10-13T13:54:45.000Z",
+    "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+    "title": "Phẫu thuật thẩm mỹ - Bình loạn với Leo",
+    "description": "Lịch diễn hài độc thoại hàng tuần http://bit.ly/lichdienhaidocthoai\nFB tui https://www.facebook.com/DuaLeo.Stand.up.comedian\nCharming Spa http://www.deptoandien.vn",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fzwCk9ToeNs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fzwCk9ToeNs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fzwCk9ToeNs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fzwCk9ToeNs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fzwCk9ToeNs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DJT",
+    "playlistId": "PLZDrRHhAu9q5tGdMrXV9uNQz6zfSMwVTj",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fzwCk9ToeNs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/6Ol1ICfQAyArhv8RCXXSlHYCDuM\"",
+   "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2016-10-13T13:54:59.000Z",
+    "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+    "title": "Bone Tomahawk - Phim hay Leo giới thiệu",
+    "description": "Lịch diễn hài độc thoại hàng tuần http://bit.ly/lichdienhaidocthoai\nFB tui https://www.facebook.com/DuaLeo.Stand.up.comedian",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DJT",
+    "playlistId": "PLZDrRHhAu9q5tGdMrXV9uNQz6zfSMwVTj",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ph9jCG9zTxI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/TQbfdufPq-_p9PKNbQDL7bCuBoo\"",
+   "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2016-10-13T13:55:38.000Z",
+    "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+    "title": "Tay tật, tự tin và giựt cô hồn",
+    "description": "- Đăng ký DZỰT CÔ HỒN Online tại: https://dzut.tiki.vn/\n- Thời gian 12h ngày 17/08/2016\n- Mẹo vặt:\n* Đăng ký email trước để đủ điều kiện tham gia DZỰT CÔ HỒN\n* DZỰT  trên app Tiki.vn nhanh hơn\n* Tải app cho IOS: https://itunes.apple.com/vn/app/id958100553\n* Tải app cho  Android: https://play.google.com/store/apps/details?id=vn.tiki.app.tikiandroid\n\nLịch diễn hài độc thoại hàng tuần http://bit.ly/lichdienhaidocthoai\nFB tui https://www.facebook.com/DuaLeo.Stand.up.comedian",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nw0goDNMM-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nw0goDNMM-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nw0goDNMM-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nw0goDNMM-U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nw0goDNMM-U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "DJT",
+    "playlistId": "PLZDrRHhAu9q5tGdMrXV9uNQz6zfSMwVTj",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nw0goDNMM-U"
+    }
+   }
+  }
+ ]

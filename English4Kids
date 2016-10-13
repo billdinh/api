@@ -1,0 +1,108 @@
+ [
+  {
+  "group": "Animals",
+  "words": [
+            {
+            "name": "Ant",
+            "definition": "Any of numerous black, red, brown, or yellow social insects of the family Formicidae, of worldwide distribution especially in warm climates, having a large head with inner jaws for chewing and outer jaws for carrying and digging, and living in highly organized colonies containing wingless female workers, a winged queen, and, during breeding seasons, winged males, some species being noted for engaging in warfare, slavemaking, or the cultivation of food sources."
+            },
+            {
+            "name": "Bat",
+            "definition": "Any of numerous flying mammals of the order Chiroptera, of worldwide distribution in tropical and temperate regions, having modified forelimbs that serve as wings and are covered with a membranous skin extending to the hind limbs."
+            },
+            {
+            "name": "Bear",
+            "definition": "Any of the plantigrade, carnivorous or omnivorous mammals of the family Ursidae, having massive bodies, coarse heavy fur, relatively short limbs, and almost rudimentary tails."
+            },
+            {
+            "name": "Bee",
+            "definition": "Any hymenopterous insect of the superfamily Apoidea, including social and solitary species of several families, as the bumblebees, honeybees, etc."
+            },
+            {
+            "name": "Buffalo",
+            "definition": "Any of several large wild oxen of the family Bovidae."
+            },
+            {
+            "name": "Butterfly",
+            "definition": "Any of numerous diurnal insects of the order Lepidoptera, characterized by clubbed antennae, a slender body, and large, broad, often conspicuously marked wings."
+            },
+            {
+            "name": "Cat",
+            "definition": "A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties."
+            },
+            {
+            "name": "Crab",
+            "definition": "Any decapod crustacean of the suborder Brachyura, having the eyes on short stalks and a short, broad, more or less flattened body, the abdomen being small and folded under the thorax."
+            },
+            {
+            "name": "Dog",
+            "definition": "Any carnivore of the dogfamily Canidae, having prominent canine teeth and, in the wild state, a long and slender muzzle, a deep-chested muscular body, a bushy tail, and large, erect ears."
+            },
+            {
+            "name": "Duck",
+            "definition": "Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body."
+            },
+            {
+            "name": "Fox",
+            "definition": "Any of several carnivores of the dog family, especially those of the genus Vulpes, smaller than wolves, having a pointed, slightly upturned muzzle, erect ears, and a long, bushy tail."
+            },
+            {
+            "name": "Frog",
+            "definition": "Any tailless, stout-bodied amphibian of the order Anura, including the smooth, moist-skinned frog species that live in a damp or semiaquatic habitat and the warty, drier-skinned toad species that are mostly terrestrial as adults."
+            }
+            ]
+  },
+  {
+  "group": "Fruits",
+  "words": [
+            {
+            "name": "Apple",
+            "definition": "The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family."
+            },
+            {
+            "name": "Avocado",
+            "definition": "Also called alligator pear. a large, usually pear-shaped fruit having green to blackish skin, a single large seed, and soft, light-green pulp, borne by the tropical American tree Persea americana and its variety P. adrymifolia, often eaten raw, especially in salads."
+            },
+            {
+            "name": "Banana",
+            "definition": "A tropical plant of the genus Musa, certain species of which are cultivated for their nutritious fruit."
+            },
+            {
+            "name": "Blackberry",
+            "definition": "The fruit, black or very dark purple when ripe, of certain species of the genus Rubus."
+            },
+            {
+            "name": "Cherry",
+            "definition": "The fruit of any of various trees belonging to the genus Prunus, of the rose family, consisting of a pulpy, globular drupe enclosing a one-seeded smooth stone."
+            },
+            {
+            "name": "Coconut",
+            "definition": "The large, hard-shelled seed of the coconut palm, lined with a white edible meat, and containing a milky liquid."
+            },
+            {
+            "name": "Grape",
+            "definition": "The edible, pulpy, smooth-skinned berry or fruit that grows in clusters on vines of the genus Vitis, and from which wine is made."
+            },
+            {
+            "name": "Kiwi",
+            "definition": "Any of several flightless, ratite birds of the genus Apteryx, of New Zealand, allied to the extinct moas."
+            },
+            {
+            "name": "Lemon",
+            "definition": "The yellowish, acid fruit of a subtropical citrus tree, Citrus limon."
+            },
+            {
+            "name": "Lychee",
+            "definition": "The fruit of a Chinese tree, Litchi chinensis, of the soapberry family, consisting of a thin, brittle shell enclosing a sweet, jellylike pulp and a single seed."
+            },
+            {
+            "name": "Melon",
+            "definition": "The fruit of any of various plants of the gourd family, as the muskmelon or watermelon."
+            },
+            {
+            "name": "Papaya",
+            "definition": "The large, yellow, melonlike fruit of a tropical American shrub or small tree, Carica papaya, eaten raw or cooked."
+            }
+            ]
+  }
+  ]

@@ -136,51 +136,6 @@
   },
   {
     "kind": "youtube#playlistItem",
-    "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/6Ol1ICfQAyArhv8RCXXSlHYCDuM\"",
-    "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4wOTA3OTZBNzVEMTUzOTMy",
-    "snippet": {
-      "publishedAt": "2016-10-13T13:54:59.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bone Tomahawk - Phim hay Leo giới thiệu",
-      "description": "Lịch diễn hài độc thoại hàng tuần http://bit.ly/lichdienhaidocthoai\nFB tui https://www.facebook.com/DuaLeo.Stand.up.comedian",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ph9jCG9zTxI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
-        }
-      },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q5tGdMrXV9uNQz6zfSMwVTj",
-      "position": 3,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "ph9jCG9zTxI"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
     "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/TQbfdufPq-_p9PKNbQDL7bCuBoo\"",
     "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4xMkVGQjNCMUM1N0RFNEUx",
     "snippet": {

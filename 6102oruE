@@ -1,0 +1,496 @@
+[
+  {
+    "title": "GROUP STAGE - MD 1",
+    "matches": [
+      {
+        "teamA": "FRA",
+        "teamB": "ROU",
+        "flagA": "France",
+        "flagB": "Romania",
+        "result": "2 - 1",
+        "extra": null,
+        "link": "https://goo.gl/kqHppo"
+      },
+      {
+        "teamA": "ALB",
+        "teamB": "SUI",
+        "flagA": "Albania",
+        "flagB": "Switzerland",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/vlgIBx"
+      },
+      {
+        "teamA": "WAL",
+        "teamB": "SVK",
+        "flagA": "Wales",
+        "flagB": "Slovakia",
+        "result": "2 - 1",
+        "extra": null,
+        "link": "https://goo.gl/RjT1Ie"
+      },
+      {
+        "teamA": "ENG",
+        "teamB": "RUS",
+        "flagA": "England",
+        "flagB": "Russia",
+        "result": "1 - 1",
+        "extra": null,
+        "link": "https://goo.gl/ekbgcj"
+      },
+      {
+        "teamA": "TUR",
+        "teamB": "CRO",
+        "flagA": "Turkey",
+        "flagB": "Croatia",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/TO4uq8"
+      },
+      {
+        "teamA": "POL",
+        "teamB": "NIR",
+        "flagA": "Poland",
+        "flagB": "Northern Ireland",
+        "result": "1 - 0",
+        "extra": null,
+        "link": "https://goo.gl/bv1aVW"
+      },
+      {
+        "teamA": "GER",
+        "teamB": "UKR",
+        "flagA": "Germany",
+        "flagB": "Ukraine",
+        "result": "2 - 0",
+        "extra": null,
+        "link": "https://goo.gl/7I8nPp"
+      },
+      {
+        "teamA": "ESP",
+        "teamB": "CZE",
+        "flagA": "Spain",
+        "flagB": "Czech Republic",
+        "result": "1 - 0",
+        "extra": null,
+        "link": "https://goo.gl/GiVtIy"
+      },
+      {
+        "teamA": "IRL",
+        "teamB": "SWE",
+        "flagA": "Rep of Ireland",
+        "flagB": "Sweden",
+        "result": "1 - 1",
+        "extra": null,
+        "link": "https://goo.gl/C749VW"
+      },
+      {
+        "teamA": "BEL",
+        "teamB": "ITA",
+        "flagA": "Belgium",
+        "flagB": "Italy",
+        "result": "0 - 2",
+        "extra": null,
+        "link": "https://goo.gl/fEUVkS"
+      },
+      {
+        "teamA": "AUT",
+        "teamB": "HUN",
+        "flagA": "Austria",
+        "flagB": "Hungary",
+        "result": "0 - 2",
+        "extra": null,
+        "link": "https://goo.gl/3kvgUQ"
+      },
+      {
+        "teamA": "POR",
+        "teamB": "ISL",
+        "flagA": "Portugal",
+        "flagB": "Iceland",
+        "result": "1 - 1",
+        "extra": null,
+        "link": "https://goo.gl/lvS1Bq"
+      }
+    ]
+  },
+  {
+    "title": "GROUP STAGE - MD 2",
+    "matches": [
+      {
+        "teamA": "RUS",
+        "teamB": "SVK",
+        "flagA": "Russia",
+        "flagB": "Slovakia",
+        "result": "1 - 2",
+        "extra": null,
+        "link": "https://goo.gl/GiFC9t"
+      },
+      {
+        "teamA": "ROU",
+        "teamB": "SUI",
+        "flagA": "Romania",
+        "flagB": "Switzerland",
+        "result": "1 - 1",
+        "extra": null,
+        "link": "https://goo.gl/CkHhcE"
+      },
+      {
+        "teamA": "FRA",
+        "teamB": "ALB",
+        "flagA": "France",
+        "flagB": "Albania",
+        "result": "2 - 0",
+        "extra": null,
+        "link": "https://goo.gl/CLnvYo"
+      },
+      {
+        "teamA": "ENG",
+        "teamB": "WAL",
+        "flagA": "England",
+        "flagB": "Wales",
+        "result": "2 - 1",
+        "extra": null,
+        "link": "https://goo.gl/1az5sk"
+      },
+      {
+        "teamA": "UKR",
+        "teamB": "NIR",
+        "flagA": "Ukraine",
+        "flagB": "Northern Ireland",
+        "result": "0 - 2",
+        "extra": null,
+        "link": "https://goo.gl/Co4u3i"
+      },
+      {
+        "teamA": "POL",
+        "teamB": "NIR",
+        "flagA": "Poland",
+        "flagB": "Northern Ireland",
+        "result": "0 - 2",
+        "extra": null,
+        "link": "https://goo.gl/bv1aVW"
+      },
+      {
+        "teamA": "GER",
+        "teamB": "POL",
+        "flagA": "Germany",
+        "flagB": "Poland",
+        "result": "0 - 0",
+        "extra": null,
+        "link": "https://goo.gl/N2TJxi"
+      },
+      {
+        "teamA": "ITA",
+        "teamB": "SWE",
+        "flagA": "Italy",
+        "flagB": "Sweden",
+        "result": "1 - 0",
+        "extra": null,
+        "link": "https://goo.gl/R2b69f"
+      },
+      {
+        "teamA": "CZE",
+        "teamB": "CRO",
+        "flagA": "Czech Republic",
+        "flagB": "Croatia",
+        "result": "2 - 2",
+        "extra": null,
+        "link": "https://goo.gl/XRd2rD"
+      },
+      {
+        "teamA": "ESP",
+        "teamB": "TUR",
+        "flagA": "Spain",
+        "flagB": "Turkey",
+        "result": "3 - 0",
+        "extra": null,
+        "link": "https://goo.gl/dqxwez"
+      },
+      {
+        "teamA": "ISL",
+        "teamB": "HUN",
+        "flagA": "Iceland",
+        "flagB": "Hungary",
+        "result": "1 - 1",
+        "extra": null,
+        "link": "https://goo.gl/KOfgqg"
+      },
+      {
+        "teamA": "POR",
+        "teamB": "AUT",
+        "flagA": "Portugal",
+        "flagB": "Austria",
+        "result": "0 - 0",
+        "extra": null,
+        "link": "https://goo.gl/TPZg8y"
+      }
+    ]
+  },
+  {
+    "title": "GROUP STAGE - MD 3",
+    "matches": [
+      {
+        "teamA": "ROU",
+        "teamB": "ALB",
+        "flagA": "Romania",
+        "flagB": "Albania",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/4wDEt0"
+      },
+      {
+        "teamA": "SUI",
+        "teamB": "FRA",
+        "flagA": "Switzerland",
+        "flagB": "France",
+        "result": "0 - 0",
+        "extra": null,
+        "link": "https://goo.gl/S6Zg3y"
+      },
+      {
+        "teamA": "RUS",
+        "teamB": "WAL",
+        "flagA": "Russia",
+        "flagB": "Wales",
+        "result": "0 - 3",
+        "extra": null,
+        "link": "https://goo.gl/voBlVi"
+      },
+      {
+        "teamA": "SVK",
+        "teamB": "ENG",
+        "flagA": "Slovakia",
+        "flagB": "England",
+        "result": "0 - 0",
+        "extra": null,
+        "link": "https://goo.gl/8qckog"
+      },
+      {
+        "teamA": "UKR",
+        "teamB": "POL",
+        "flagA": "Ukraine",
+        "flagB": "Poland",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/z8kEii"
+      },
+      {
+        "teamA": "NIR",
+        "teamB": "GER",
+        "flagA": "Northern Ireland",
+        "flagB": "Germany",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/D8mzFh"
+      },
+      {
+        "teamA": "CZE",
+        "teamB": "TUR",
+        "flagA": "Czech Republic",
+        "flagB": "Turkey",
+        "result": "0 - 2",
+        "extra": null,
+        "link": "https://goo.gl/NjeleA"
+      },
+      {
+        "teamA": "CRO",
+        "teamB": "ESP",
+        "flagA": "Croatia",
+        "flagB": "Spain",
+        "result": "2 - 1",
+        "extra": null,
+        "link": "https://goo.gl/cLe2Ox"
+      },
+      {
+        "teamA": "ISL",
+        "teamB": "AUT",
+        "flagA": "Iceland",
+        "flagB": "Austria",
+        "result": "2 - 1",
+        "extra": null,
+        "link": "https://goo.gl/VlP1yH"
+      },
+      {
+        "teamA": "HUN",
+        "teamB": "POR",
+        "flagA": "Hungary",
+        "flagB": "Portugal",
+        "result": "3 - 3",
+        "extra": null,
+        "link": "https://goo.gl/2malhO"
+      },
+      {
+        "teamA": "ITA",
+        "teamB": "IRL",
+        "flagA": "Italy",
+        "flagB": "Rep of Ireland",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/2pzVrl"
+      },
+      {
+        "teamA": "SWE",
+        "teamB": "BEL",
+        "flagA": "Sweden",
+        "flagB": "Belgium",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/5dmc5W"
+      }
+    ]
+  },
+  {
+    "title": "ROUND OF 16",
+    "matches": [
+      {
+        "teamA": "SUI",
+        "teamB": "POL",
+        "flagA": "Switzerland",
+        "flagB": "Poland",
+        "result": "1 - 1",
+        "extra": "(4-5 p)",
+        "link": "https://goo.gl/IZqPfB"
+      },
+      {
+        "teamA": "WAL",
+        "teamB": "NIR",
+        "flagA": "Wales",
+        "flagB": "Northern Ireland",
+        "result": "1 - 0",
+        "extra": "(a.e.t.)",
+        "link": "https://goo.gl/bI3kHt"
+      },
+      {
+        "teamA": "CRO",
+        "teamB": "POR",
+        "flagA": "Croatia",
+        "flagB": "Portugal",
+        "result": "0 - 1",
+        "extra": null,
+        "link": "https://goo.gl/Ko0oJJ"
+      },
+      {
+        "teamA": "FRA",
+        "teamB": "IRL",
+        "flagA": "France",
+        "flagB": "Rep of Ireland",
+        "result": "2 - 1",
+        "extra": null,
+        "link": "https://goo.gl/myUEHj"
+      },
+      {
+        "teamA": "GER",
+        "teamB": "SVK",
+        "flagA": "Germany",
+        "flagB": "Slovakia",
+        "result": "3 - 0",
+        "extra": null,
+        "link": "https://goo.gl/3vuRXJ"
+      },
+      {
+        "teamA": "HUN",
+        "teamB": "BEL",
+        "flagA": "Hungary",
+        "flagB": "Belgium",
+        "result": "0 - 4",
+        "extra": null,
+        "link": "https://goo.gl/r7W9rP"
+      },
+      {
+        "teamA": "ITA",
+        "teamB": "ESP",
+        "flagA": "Italy",
+        "flagB": "Spain",
+        "result": "2 - 0",
+        "extra": null,
+        "link": "https://goo.gl/YROhLo"
+      },
+      {
+        "teamA": "ENG",
+        "teamB": "ISL",
+        "flagA": "England",
+        "flagB": "Iceland",
+        "result": "1 - 2",
+        "extra": null,
+        "link": "https://goo.gl/gCEPNm"
+      }
+    ]
+  },
+  {
+    "title": "QUARTER-FINALS",
+    "matches": [
+      {
+        "teamA": "POL",
+        "teamB": "POR",
+        "flagA": "Poland",
+        "flagB": "Portugal",
+        "result": "1 - 1",
+        "extra": "(3-5 p)",
+        "link": "https://goo.gl/kD5Ypi"
+      },
+      {
+        "teamA": "WAL",
+        "teamB": "BEL",
+        "flagA": "Wales",
+        "flagB": "Belgium",
+        "result": "3 - 1",
+        "extra": null,
+        "link": "https://goo.gl/fKW7D7"
+      },
+      {
+        "teamA": "GER",
+        "teamB": "ITA",
+        "flagA": "Germany",
+        "flagB": "Italy",
+        "result": "1 - 1",
+        "extra": "(6-5 p)",
+        "link": "https://goo.gl/fYwilF"
+      },
+      {
+        "teamA": "FRA",
+        "teamB": "IRL",
+        "flagA": "France",
+        "flagB": "Rep of Ireland",
+        "result": "5 - 2",
+        "extra": null,
+        "link": "https://goo.gl/jZVmDL"
+      }
+    ]
+  },
+  {
+    "title": "SEMI-FINALS",
+    "matches": [
+      {
+        "teamA": "POR",
+        "teamB": "WAL",
+        "flagA": "Portugal",
+        "flagB": "Wales",
+        "result": "2 - 0",
+        "extra": null,
+        "link": "https://goo.gl/4SHShP"
+      },
+      {
+        "teamA": "GER",
+        "teamB": "FRA",
+        "flagA": "Germany",
+        "flagB": "France",
+        "result": "0 - 2",
+        "extra": null,
+        "link": "https://goo.gl/Xwt56j"
+      }
+    ]
+  },
+  {
+    "title": "FINAL",
+    "matches": [
+      {
+        "teamA": "POR",
+        "teamB": "FRA",
+        "flagA": "Portugal",
+        "flagB": "France",
+        "result": "1 - 0",
+        "extra": null,
+        "link": "https://goo.gl/GWjBIS"
+      }
+    ]
+  }
+]

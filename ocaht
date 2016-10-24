@@ -12,16 +12,16 @@
           "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Kinh%20chan%20gio.png"
         },
         {
-          "name": "Ngoai that 2",
-          "image": "image2"
+          "name": "Đèn pha",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_den%20pha.png"
         },
         {
           "name": "Ngoai that 3",
-          "image": "image2"
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Dau%20cabin.png"
         },
         {
-          "name": "Ngoai that 4",
-          "image": "image2"
+          "name": "Đầu Cabin",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Dau%20cabin.png"
         }
       ]
     },
@@ -29,24 +29,20 @@
       "title": "NỘI THẤT",
       "photos": [
         {
-          "name": "Noi that 1",
-          "image": "image2"
+          "name": "Tay lái",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_tay%20lai.jpg"
         },
         {
-          "name": "Noi that 2",
-          "image": "image2"
+          "name": "Radio",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Radio.jpg"
         },
         {
-          "name": "Noi that 3",
-          "image": "image2"
+          "name": "Nội thất tổng quan",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_noi%20that.jpg"
         },
         {
-          "name": "Noi that 4",
-          "image": "image2"
-        },
-        {
-          "name": "Noi that 5",
-          "image": "image2"
+          "name": "La phông trần",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_la%20phong%20tran.jpg"
         }
       ]
     },
@@ -54,28 +50,36 @@
       "title": "ĐỘNG CƠ & KHUNG GẦM",
       "photos": [
         {
-          "name": "Dong co 1",
-          "image": "image2"
+          "name": "Ty ben chữ A",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_ty%20ben%20chu%20A.png"
         },
         {
-          "name": "Dong co 2",
-          "image": "image2"
+          "name": "Nhíp xe",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_nhip%20sau.jpg"
         },
         {
-          "name": "Dong co 3",
-          "image": "image2"
+          "name": "Lốp xe",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_lop.png"
         },
         {
-          "name": "Dong co 4",
-          "image": "image2"
+          "name": "Hộp số",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Hop%20so.jpg"
         },
         {
-          "name": "Dong co 5",
-          "image": "image2"
+          "name": "Động cơ xe",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Dong%20co.png"
         },
         {
-          "name": "Dong co 6",
-          "image": "image2"
+          "name": "Chassic",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Chacsic.jpg"
+        },
+        {
+          "name": "Cầu sau",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_cau%20sau.jpg"
+        },
+        {
+          "name": "Bình nhiên liệu",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_binh%20nhien%20lieu.png"
         }
       ]
     }

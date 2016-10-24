@@ -1,0 +1,115 @@
+{
+  "categories": [
+    {
+      "name": "NGOẠI THẤT",
+      "apps": [
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        }
+      ]
+    },
+    {
+      "name": "NỘI THẤT",
+      "apps": [
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        }
+      ]
+    },
+    {
+      "name": "ĐỘNG CƠ & KHUNG GẦM",
+      "apps": [
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        },
+        {
+          "Name": "Kính chắn gió",
+          "ImageName": "image2"
+        }
+      ]
+    }
+  ]
+}

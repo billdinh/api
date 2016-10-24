@@ -5,8 +5,8 @@
   },
   "albums": [
     {
-      "album": "NGOẠI THẤT",
-      "collection": [
+      "title": "NGOẠI THẤT",
+      "photos": [
         {
           "name": "Ngoai that 1",
           "image": "image2"
@@ -26,8 +26,8 @@
       ]
     },
     {
-      "album": "NỘI THẤT",
-      "collection": [
+      "title": "NỘI THẤT",
+      "photos": [
         {
           "name": "Kính chắn gió",
           "image": "image2"
@@ -51,8 +51,8 @@
       ]
     },
     {
-      "album": "ĐỘNG CƠ & KHUNG GẦM",
-      "collection": [
+      "title": "ĐỘNG CƠ & KHUNG GẦM",
+      "photos": [
         {
           "name": "Kính chắn gió",
           "image": "image2"

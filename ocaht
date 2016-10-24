@@ -1,7 +1,7 @@
 {
   "banner": {
     "image": "image1",
-    "description": "Dòng sản phẩm xe ben thông dụng đa dạng về tải trọng (từ 1 – 10 tấn) và cấu hình; đáp ứng yêu cầu sử dụng; chất lượng hướng đến sự ổn định; giá cả phù hợp."
+    "desc": "Dòng sản phẩm xe ben thông dụng đa dạng về tải trọng (từ 1 – 10 tấn) và cấu hình; đáp ứng yêu cầu sử dụng; chất lượng hướng đến sự ổn định; giá cả phù hợp."
   },
   "albums": [
     {
@@ -29,23 +29,23 @@
       "album": "NỘI THẤT",
       "collection": [
         {
-          "name": "Noi that 1",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Noi that 2",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Noi that 3",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Noi that 4",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Noi that 5",
+          "name": "Kính chắn gió",
           "image": "image2"
         }
       ]
@@ -54,27 +54,27 @@
       "album": "ĐỘNG CƠ & KHUNG GẦM",
       "collection": [
         {
-          "name": "Dong co 1",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Dong co 2",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Dong co 3",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Dong co 4",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Dong co 5",
+          "name": "Kính chắn gió",
           "image": "image2"
         },
         {
-          "name": "Dong co 6",
+          "name": "Kính chắn gió",
           "image": "image2"
         }
       ]

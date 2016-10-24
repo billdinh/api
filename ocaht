@@ -1,6 +1,6 @@
 {
   "banner": {
-    "image": "image1",
+    "image": "http://www.thacotrucks.vn/Userimages/sanpham/FLD150C/1000x400-FLD150C.jpg",
     "desc": "Dòng sản phẩm xe ben thông dụng đa dạng về tải trọng (từ 1 – 10 tấn) và cấu hình; đáp ứng yêu cầu sử dụng; chất lượng hướng đến sự ổn định; giá cả phù hợp."
   },
   "albums": [
@@ -8,8 +8,8 @@
       "title": "NGOẠI THẤT",
       "photos": [
         {
-          "name": "Ngoai that 1",
-          "image": "image2"
+          "name": "Kính chắn gió",
+          "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFLD250C/240x155_Kinh%20chan%20gio.png"
         },
         {
           "name": "Ngoai that 2",

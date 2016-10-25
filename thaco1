@@ -238,32 +238,36 @@
         "title": "ĐỘNG CƠ & KHUNG GẦM",
         "photos": [
           {
+            "name": "Phanh lốc kê",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/thang%20loc%20ke%20240x155.jpg"
+          },
+          {
             "name": "Nhíp xe",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/nhip%20240x155.png"
-          },
-          {
-            "name": "Ty ben",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_ty%20ben.png"
-          },
-          {
-            "name": "Thùng nhiên liệu",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_lthung%20dau.jpg"
-          },
-          {
-            "name": "Lốp xe",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_lop.png"
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/nhip%20240x155.jpg"
           },
           {
             "name": "Hộp số",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_hop%20so.jpg"
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/Hop%20so%20240x155.png"
           },
           {
-            "name": "Động cơ xe",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_dong%20co.jpg"
+            "name": "Động cơ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/dong%20co%20240x155.png"
+          },
+          {
+            "name": "Ty ben",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/240x155_ty%20ben.png"
+          },
+          {
+            "name": "Thùng nhiên liệu",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/240x155_lthung%20dau.jpg"
+          },
+          {
+            "name": "Lốp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/240x155_lop.png"
           },
           {
             "name": "Cầu sau",
-            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_Cau%20sau.jpg"
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C/240x155_Cau%20sau.jpg"
           }
         ]
       }

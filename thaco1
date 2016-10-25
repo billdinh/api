@@ -274,6 +274,104 @@
     ]
   },
   {
+    "thumbnail": "http://www.thacotrucks.vn/Userimages/sanpham/FLD490C-4WD/FLD490C-4W-220x180-nonew.jpg",
+    "product": "FORLAND FLD490C-4WD",
+    "load": "Tải Trọng: 4.9 Tấn",
+    "banner": {
+      "image": "http://www.thacotrucks.vn/Userimages/sanpham/FLD490C-4WD/1000x400-FLD490C-4WD.jpg",
+      "desc": "Dòng sản phẩm xe ben thông dụng đa dạng về tải trọng (từ 1 – 10 tấn) và cấu hình; đáp ứng yêu cầu sử dụng; chất lượng hướng đến sự ổn định; giá cả phù hợp."
+    },
+    "albums": [
+      {
+        "title": "NGOẠI THẤT",
+        "photos": [
+          {
+            "name": "Kính chiếu hậu",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_kinh%20chieu%20hau.jpg"
+          },
+          {
+            "name": "Kính chắn gió",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_Kinh%20chan%20gio.png"
+          },
+          {
+            "name": "Đèn pha",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_den%20pha.png"
+          },
+          {
+            "name": "Đầu Cabin mới",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_Dau%20cabin%20moi.png"
+          }
+        ]
+      },
+      {
+        "title": "NỘI THẤT",
+        "photos": [
+          {
+            "name": "Tay lái",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_tay%20lai.jpg"
+          },
+          {
+            "name": "Radio",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_Radio.png"
+          },
+          {
+            "name": "Nội thất tổng quan",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_noi%20that.jpg"
+          },
+          {
+            "name": "Ghế",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_ghe.jpg"
+          },
+          {
+            "name": "Mặt đồng hồ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_dong%20ho.jpg"
+          }
+        ]
+      },
+      {
+        "title": "ĐỘNG CƠ & KHUNG GẦM",
+        "photos": [
+          {
+            "name": "Phanh lốc kê",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/Phanh%20hoi%20loc%20ke%20240x155.png"
+          },
+          {
+            "name": "Nhíp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/nhip%20240x155.png"
+          },
+          {
+            "name": "Hộp số",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/Hop%20so%20240x155.png"
+          },
+          {
+            "name": "Động cơ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/dong%20co%20240x155.png"
+          },
+          {
+            "name": "Ty ben",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_ty%20ben.png"
+          },
+          {
+            "name": "Thùng nhiên liệu",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_lthung%20dau.jpg"
+          },
+          {
+            "name": "Lốp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_lop.png"
+          },
+          {
+            "name": "Cầu trước",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_Cau%20truoc.png"
+          },
+          {
+            "name": "Cầu sau",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD490C4WD/240x155_Cau%20sau.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "thumbnail": "http://www.thacotrucks.vn/Userimages/sanpham/FLD600C/FLD600C-220x180-nonew.jpg",
     "product": "FORLAND FLD600C",
     "load": "Tải Trọng: 6 Tấn",

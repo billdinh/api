@@ -796,5 +796,99 @@
         ]
       }
     ]
+  },
+  {
+    "thumbnail": "http://www.thacotrucks.vn/Userimages/sanpham/FD9500/FD9500_220x180_new.png",
+    "product": "FORLAND FD9500",
+    "load": "Tải Trọng: 9.1 Tấn",
+    "banner": {
+      "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/BG%20FD9500_1000x400.jpg",
+      "desc": "Dòng sản phẩm xe ben thông dụng đa dạng về tải trọng (từ 1 – 10 tấn) và cấu hình; đáp ứng yêu cầu sử dụng; chất lượng hướng đến sự ổn định; giá cả phù hợp."
+    },
+    "albums": [
+      {
+        "title": "NGOẠI THẤT",
+        "photos": [
+          {
+            "name": "Kính chiếu hậu",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/guong%20chieu%20hau.jpg"
+          },
+          {
+            "name": "Kính chắn gió",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/Kinh%20chan%20gio.jpg"
+          },
+          {
+            "name": "Góc mở cửa 80 độ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/goc%20mo%20cua%2080%20do_1.jpg"
+          },
+          {
+            "name": "Đèn Halogen",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/Den%20halogen.jpg"
+          }
+        ]
+      },
+      {
+        "title": "NỘI THẤT",
+        "photos": [
+          {
+            "name": "Tay lái gật gù",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/Tay%20lai%20gat%20gu.jpg"
+          },
+          {
+            "name": "Mặt đồng hồ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/Dong%20ho.jpg"
+          },
+          {
+            "name": "Cabin",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/Cabin.jpg"
+          },
+          {
+            "name": "Ghế Simili",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/240x155_ghe%20simili.png"
+          }
+        ]
+      },
+      {
+        "title": "ĐỘNG CƠ & KHUNG GẦM",
+        "photos": [
+          {
+            "name": "Phanh khí xả",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/phanh%20khi%20xa.jpg"
+          },
+          {
+            "name": "Phanh lốc kê",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/phanh%20hoi%20locke.jpg"
+          },
+          {
+            "name": "Nhíp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/nhip.jpg"
+          },
+          {
+            "name": "Hộp số",
+            "image": ""
+          },
+          {
+            "name": "Động cơ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/dong%20co.jpg"
+          },
+          {
+            "name": "Chassic",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/chassis.jpg"
+          },
+          {
+            "name": "Bình khí nén",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/binh%20khi%20nen.jpg"
+          },
+          {
+            "name": "Lốp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/lop.jpg"
+          },
+          {
+            "name": "Cầu",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9500/Cau.jpg"
+          }
+        ]
+      }
+    ]
   }
 ]

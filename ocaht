@@ -710,5 +710,91 @@
         ]
       }
     ]
+  },
+  {
+    "thumbnail": "http://www.thacotrucks.vn/Userimages/sanpham/FD9000/FD9000_220x180_new.png",
+    "product": " FORLAND FD9000",
+    "load": "Tải Trọng: 8.7 Tấn",
+    "banner": {
+      "image": "http://www.thacotrucks.vn/Userimages/sanpham/FD9000/FD9000_1000x400.jpg",
+      "desc": "Dòng sản phẩm xe ben thông dụng đa dạng về tải trọng (từ 1 – 10 tấn) và cấu hình; đáp ứng yêu cầu sử dụng; chất lượng hướng đến sự ổn định; giá cả phù hợp."
+    },
+    "albums": [
+      {
+        "title": "NGOẠI THẤT",
+        "photos": [
+          {
+            "name": "Kính chiếu hậu",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_kinh%20chieu%20hau.jpg"
+          },
+          {
+            "name": "Kính chắn gió",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_Kinh%20chan%20gio.png"
+          },
+          {
+            "name": "Đèn pha",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_den%20pha.png"
+          },
+          {
+            "name": "Đầu Cabin mới",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_Dau%20cabin%20moi.png"
+          }
+        ]
+      },
+      {
+        "title": "NỘI THẤT",
+        "photos": [
+          {
+            "name": "Tay lái",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFD8500A-4WD/240x155_tay%20lai.jpg"
+          },
+          {
+            "name": "Radio",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_Radio.png"
+          },
+          {
+            "name": "Nội thất tổng quan",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_noi%20that.jpg"
+          },
+          {
+            "name": "Nội thất ghế nằm",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/ForlandFD8500-4WD/240x155_noi%20that%20ghe%20nam.png"
+          },
+          {
+            "name": "Ghế Simili",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_ghe.jpg"
+          },
+          {
+            "name": "Mặt đồng hồ",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FLD345C/240x155_dong%20ho.jpg"
+          }
+        ]
+      },
+      {
+        "title": "ĐỘNG CƠ & KHUNG GẦM",
+        "photos": [
+          {
+            "name": "Ty ben",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_ty%20ben%20chu%20A.png"
+          },
+          {
+            "name": "Nhíp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/1.png"
+          },
+          {
+            "name": "Chassic",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_Chacsic.png"
+          },
+          {
+            "name": "Lốp xe",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_lop.png"
+          },
+          {
+            "name": "Cầu sau",
+            "image": "http://www.thacotrucks.vn/Userimages/sanpham/2016/FD9000/240x155_Cau%20sau.png"
+          }
+        ]
+      }
+    ]
   }
 ]

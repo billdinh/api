@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Bánh pancake khoai tây với cá hồi muối củ dền",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057634_957368041052969_1211301645_n.jpg",
+    "price": "₫120,000"
+  },
+  {
+    "name": "Mandarin Splash",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058471_1071695309584889_424308748_n.jpg",
+    "price": "₫55,000"
+  },
+  {
+    "name": "Cá hồi áp chảo với rau củ hầm chua ngọt kiểu Ý, ăn kèm sốt kem chua",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057489_973171192805865_2104788142_n.jpg",
+    "price": "₫170,000"
+  },
+  {
+    "name": "Bánh mì Brioche phết mứt trái cây",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057527_1031708053612149_863974130_n.jpg",
+    "price": "₫40,000"
+  },
+  {
+    "name": "Sa-lát cà chua",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058625_1053554081418510_375699794_n.jpg",
+    "price": "₫80,000"
+  },
+  {
+    "name": "Spaghetti Amatriciana",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058395_1121397301272392_2053648071_n.jpg",
+    "price": "₫115,000"
+  },
+  {
+    "name": "Bánh mì sandwich bò nướng kiểu Úc",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057518_1051778614907981_1857591592_n.jpg",
+    "price": "₫110,000"
+  },
+  {
+    "name": "Caeser Salad",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058639_1099684873453433_1799783102_n.jpg",
+    "price": "₫85,000"
+  },
+  {
+    "name": "Sa-lát mì Soba với cà tím nướng ngọt và ức vịt áp chảo",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057660_1406271986055522_1256652909_n.jpg",
+    "price": "₫125,000"
+  },
+  {
+    "name": "Trà táo bạc hà",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057450_1260008054018299_301319370_n.png",
+    "price": "₫45,000"
+  },
+  {
+    "name": "Thịt nướng hỗn hơp the KAfe",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057635_1182493811802624_166800546_n.jpg",
+    "price": "₫170,000"
+  },
+  {
+    "name": "Mini Chocolate Tart and Mini Raspberry Tart",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057520_1621160811243190_476489892_n.jpg",
+    "price": "₫50,000"
+  },
+  {
+    "name": "Thịt viên xíu mại bỏ lò, sốt cà chua và phô mai Cheddar",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057527_1264441880232858_248732912_n.jpg",
+    "price": "₫85,000"
+  },
+  {
+    "name": "Bữa sáng lành mạnh",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057443_1278770892147576_1690204002_n.jpg",
+    "price": "₫75,000"
+  },
+  {
+    "name": "Bánh mì nhúng trứng chiên kiểu Pháp với mật ong và kem tươi",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058545_1301863803179935_2017496376_n.jpg",
+    "price": "₫50,000"
+  },
+  {
+    "name": "Bread Pudding",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057467_962470653880413_873082291_n.png",
+    "price": "₫40,000"
+  },
+  {
+    "name": "Khoai tây chiên với sốt Aioli tỏi",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057469_930388557090176_245947315_n.jpg",
+    "price": "₫35,000"
+  },
+  {
+    "name": "Mỳ Ý tươi sốt Ragu thịt bò",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058366_928766850582271_160933140_n.jpg",
+    "price": "₫160,000"
+  },
+  {
+    "name": "Gà nướng BBQ kiểu Mexico với sốt cay Achiote và ngô nướng, chanh và mùi tàu",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14057608_1095170343864544_988423966_n.jpg",
+    "price": "₫125,000"
+  },
+  {
+    "name": "Thịt ba chỉ xá xíu sốt nấm hỗn hợp, rau cải chíp và xôi chiên phồng",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058546_1157247767647109_534563835_n.jpg",
+    "price": "₫95,000"
+  },
+  {
+    "name": "Trứng chấn / trứng khuấy / trứng ốp la và bánh mì nướng",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/l/t45.5328-0/c0.0.540.540/p180x540/14057726_1181212185269711_1948697850_n.jpg",
+    "price": "₫35,000"
+  },
+  {
+    "name": "The KAfe English Breakfast",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058583_1269459633088308_186279004_n.jpg",
+    "price": "₫85,000"
+  },
+  {
+    "name": "Eggs Benedict",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058521_1160292560696598_366932969_n.jpg",
+    "price": "₫95,000"
+  },
+  {
+    "name": "DIY Waffle",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058427_1144776452248715_648180402_n.png",
+    "price": "₫25,000"
+  },
+  {
+    "name": "Croquettes \"Cơm nắm mini chiên giòn\"",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058352_1026735490734129_1077546328_n.jpg",
+    "price": "₫60,000"
+  }
+]

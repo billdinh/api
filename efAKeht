@@ -100,6 +100,11 @@
     "price": "₫95,000"
   },
   {
+    "name": "Croquettes \"Cơm nắm mini chiên giòn\"",
+    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058352_1026735490734129_1077546328_n.jpg",
+    "price": "₫60,000"
+  },
+  {
     "name": "Trứng chấn / trứng khuấy / trứng ốp la và bánh mì nướng",
     "image": "https://scontent-sea1-1.xx.fbcdn.net/l/t45.5328-0/c0.0.540.540/p180x540/14057726_1181212185269711_1948697850_n.jpg",
     "price": "₫35,000"
@@ -113,15 +118,5 @@
     "name": "Eggs Benedict",
     "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058521_1160292560696598_366932969_n.jpg",
     "price": "₫95,000"
-  },
-  {
-    "name": "DIY Waffle",
-    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058427_1144776452248715_648180402_n.png",
-    "price": "₫25,000"
-  },
-  {
-    "name": "Croquettes \"Cơm nắm mini chiên giòn\"",
-    "image": "https://scontent-sea1-1.xx.fbcdn.net/t45.5328-0/c0.0.540.540/p180x540/14058352_1026735490734129_1077546328_n.jpg",
-    "price": "₫60,000"
   }
 ]

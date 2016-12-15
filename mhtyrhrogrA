@@ -1,0 +1,91 @@
+ [
+  {
+  "title": "Rise and Shine",
+  "desc": "Get your morning going by singing along to these classic tracks as you hit the shower bright and early!",
+  "icon": "coffee",
+  "image": "coffee_large",
+  "artists": [
+              "American Authors",
+              "Vacationer",
+              "Matt and Kim",
+              "MGMT",
+              "Echosmith",
+              "Tokyo Police Club",
+              "La Femme"
+              ]
+  },
+  {
+  "title": "Runner's Rampage",
+  "desc": "Hit the track hard and get in beast mode with everything from dance tracks to classic hip hop. All the right fuel to motivate you to push your limits.",
+  "icon": "running",
+  "image": "running_large",
+  "artists": [
+              "Avicii",
+              "Calvin Harris",
+              "Pitbull",
+              "Iggy Azalea",
+              "Rita Ora",
+              "Drake",
+              "Lil Wayne"
+              ]
+  },
+  {
+  "title": "Joy Ride",
+  "desc": "Let this eclectic playlist take you wherever your heart desires. Cruise along in style to these energetic beats.",
+  "icon": "helmet",
+  "image": "helmet_large",
+  "artists": [
+              "Afrojack",
+              "Kid Cudi",
+              "Daft Punk",
+              "Icona Pop",
+              "Gesaffelstien",
+              "Roksnoix"
+              ]
+  },
+  {
+  "title": "In The Zone",
+  "desc": "Keep calm and focus. Shut out the noise around you and grind away with some mind sharpening instrumental tunes.",
+  "icon": "laptop",
+  "image": "laptop_large",
+  "artists": [
+              "Dr. Dre",
+              "Snoop Dogg",
+              "Com Truise",
+              "D12",
+              "Flying Lotus",
+              "Kanye West",
+              "Rundfunk"
+              ]
+  },
+  {
+  "title": "Button Masher",
+  "desc": "Turn up the speakers and get out of my way! The ultimate gaming playlist to get you hyped up and ready for the crazy fun that’s about to happen.",
+  "icon": "joystick",
+  "image": "joystick_large",
+  "artists": [
+              "Skrillex",
+              "The Game",
+              "2 Chainz",
+              "Jay Z",
+              "T.I.",
+              "Rihanna",
+              "Eminem"
+              ]
+  },
+  {
+  "title": "Futbal Remix",
+  "desc": "There’s nothing like the world’s game. Kick around the field with this eclectic playlist from around the world. Futbal for life.",
+  "icon": "ball",
+  "image": "ball_large",
+  "artists": [
+              "Shakira",
+              "Santana",
+              "Wyclef Jean",
+              "Aloe Blacc",
+              "Pitbull",
+              "Enrique Iglesias",
+              "Ricky Martin"
+              ]
+  }
+  ]

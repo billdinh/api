@@ -1,62 +1,62 @@
 [
   {
     "avatar": "tyrion",
-    "name": "Tyrion Lannister",
-    "phone": "+44 28 9018 0848",
+    "name": "TyrionLannister",
+    "phone": "+442890180848",
     "email": "tyrion@lannisters.clan"
   },
   {
     "avatar": "eddard",
-    "name": "Eddard Stark",
-    "phone": "+44 28 9018 0337",
+    "name": "EddardStark",
+    "phone": "+442890180337",
     "email": "ned@starks.clan"
   },
   {
     "avatar": "daenerys",
-    "name": "Daenerys Targaryen",
-    "phone": "+44 28 9018 0457",
+    "name": "DaenerysTargaryen",
+    "phone": "+442890180457",
     "email": "ned@starks.clan"
   },
   {
     "avatar": "jon",
-    "name": "Jon Snow",
-    "phone": "+44 28 9018 0549",
+    "name": "JonSnow",
+    "phone": "+442890180549",
     "email": "jon@starks.clan"
   },
   {
     "avatar": "jorah",
-    "name": "Jorah Mormont",
-    "phone": "+44 28 9018 0410",
+    "name": "JorahMormont",
+    "phone": "+442890180410",
     "email": "jorah@mormonts.clan"
   },
   {
     "avatar": "cersei",
-    "name": "Cersei Lannister",
-    "phone": "+44 28 9018 0006",
+    "name": "CerseiLannister",
+    "phone": "+442890180006",
     "email": "cersei@lannisters.clan"
   },
   {
     "avatar": "melisandre",
-    "name": "Lady Melisandre",
-    "phone": "+44 28 9013 1506",
+    "name": "LadyMelisandre",
+    "phone": "+442890131506",
     "email": "melisandre@asshai.place"
   },
   {
     "avatar": "theon",
-    "name": "Theon Greyjoy",
-    "phone": "+44 28 1890 1062",
+    "name": "TheonGreyjoy",
+    "phone": "+442818901062",
     "email": "theon@greyjoys.clan"
   },
   {
     "avatar": "drogo",
-    "name": "Khal Drogo",
-    "phone": "+44 28 9981 9436",
+    "name": "KhalDrogo",
+    "phone": "+442899819436",
     "email": "drogo@dothrakis.clan"
   },
   {
     "avatar": "placeholder",
-    "name": "Supporting Role",
-    "phone": "+44 28 9018 1234",
+    "name": "SupportingRole",
+    "phone": "+442890181234",
     "email": "supporting1@roles.clan"
   }
 ]

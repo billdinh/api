@@ -1,56 +1,62 @@
- [
+[
   {
-  "avatar": "img-avatar-tyrion",
-  "name": "Tyrion Lannister",
-  "phone": "+44 28 9018 0848",
-  "email": "tyrion@lannisters.clan"
+    "avatar": "tyrion",
+    "name": "Tyrion Lannister",
+    "phone": "+44 28 9018 0848",
+    "email": "tyrion@lannisters.clan"
   },
   {
-  "avatar": "img-avatar-eddard",
-  "name": "Eddard Stark",
-  "phone": "+44 28 9018 0337",
-  "email": "ned@starks.clan"
+    "avatar": "eddard",
+    "name": "Eddard Stark",
+    "phone": "+44 28 9018 0337",
+    "email": "ned@starks.clan"
   },
   {
-  "avatar": "img-avatar-daenerys",
-  "name": "Daenerys Targaryen",
-  "phone": "+44 28 9018 0457",
-  "email": "ned@starks.clan"
+    "avatar": "daenerys",
+    "name": "Daenerys Targaryen",
+    "phone": "+44 28 9018 0457",
+    "email": "ned@starks.clan"
   },
   {
-  "avatar": "img-avatar-jon",
-  "name": "Jon Snow",
-  "phone": "+44 28 9018 0549",
-  "email": "jon@starks.clan"
+    "avatar": "jon",
+    "name": "Jon Snow",
+    "phone": "+44 28 9018 0549",
+    "email": "jon@starks.clan"
   },
   {
-  "avatar": "img-avatar-jorah",
-  "name": "Jorah Mormont",
-  "phone": "+44 28 9018 0410",
-  "email": "jorah@mormonts.clan"
+    "avatar": "jorah",
+    "name": "Jorah Mormont",
+    "phone": "+44 28 9018 0410",
+    "email": "jorah@mormonts.clan"
   },
   {
-  "avatar": "img-avatar-cersei",
-  "name": "Cersei Lannister",
-  "phone": "+44 28 9018 0006",
-  "email": "cersei@lannisters.clan"
+    "avatar": "cersei",
+    "name": "Cersei Lannister",
+    "phone": "+44 28 9018 0006",
+    "email": "cersei@lannisters.clan"
   },
   {
-  "avatar": "img-avatar-melisandre",
-  "name": "Lady Melisandre",
-  "phone": "+44 28 9013 1506",
-  "email": "melisandre@starks.clan"
+    "avatar": "melisandre",
+    "name": "Lady Melisandre",
+    "phone": "+44 28 9013 1506",
+    "email": "melisandre@asshai.place"
   },
   {
-  "avatar": "img-avatar-theon",
-  "name": "Theon Greyjoy",
-  "phone": "+44 28 1890 1062",
-  "email": "theon@greyjoys.clan"
+    "avatar": "theon",
+    "name": "Theon Greyjoy",
+    "phone": "+44 28 1890 1062",
+    "email": "theon@greyjoys.clan"
   },
   {
-  "avatar": "img-avatar-drogo",
-  "name": "Khal Drogo",
-  "phone": "+44 28 9981 9436",
-  "email": "drogo@dothrakis.clan"
+    "avatar": "drogo",
+    "name": "Khal Drogo",
+    "phone": "+44 28 9981 9436",
+    "email": "drogo@dothrakis.clan"
+  },
+  {
+    "avatar": "placeholder",
+    "name": "Supporting Role",
+    "phone": "+44 28 9018 1234",
+    "email": "supporting1@roles.clan"
   }
-  ]
+]

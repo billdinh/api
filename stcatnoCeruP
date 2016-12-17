@@ -1,61 +1,61 @@
 [
   {
     "avatar": "tyrion",
-    "name": "TyrionLannister",
+    "name": "Tyrion Lannister",
     "phone": "+442890180848",
     "email": "tyrion@lannisters.clan"
   },
   {
     "avatar": "eddard",
-    "name": "EddardStark",
+    "name": "Eddard Stark",
     "phone": "+442890180337",
     "email": "ned@starks.clan"
   },
   {
     "avatar": "daenerys",
-    "name": "DaenerysTargaryen",
+    "name": "Daenerys Targaryen",
     "phone": "+442890180457",
     "email": "ned@starks.clan"
   },
   {
     "avatar": "jon",
-    "name": "JonSnow",
+    "name": "Jon Snow",
     "phone": "+442890180549",
     "email": "jon@starks.clan"
   },
   {
     "avatar": "jorah",
-    "name": "JorahMormont",
+    "name": "Jorah Mormont",
     "phone": "+442890180410",
     "email": "jorah@mormonts.clan"
   },
   {
     "avatar": "cersei",
-    "name": "CerseiLannister",
+    "name": "Cersei Lannister",
     "phone": "+442890180006",
     "email": "cersei@lannisters.clan"
   },
   {
     "avatar": "melisandre",
-    "name": "LadyMelisandre",
+    "name": "Lady Melisandre",
     "phone": "+442890131506",
     "email": "melisandre@asshai.place"
   },
   {
     "avatar": "theon",
-    "name": "TheonGreyjoy",
+    "name": "Theon Greyjoy",
     "phone": "+442818901062",
     "email": "theon@greyjoys.clan"
   },
   {
     "avatar": "drogo",
-    "name": "KhalDrogo",
+    "name": "Khal Drogo",
     "phone": "+442899819436",
     "email": "drogo@dothrakis.clan"
   },
   {
     "avatar": "placeholder",
-    "name": "SupportingRole",
+    "name": "Supporting Role",
     "phone": "+442890181234",
     "email": "supporting1@roles.clan"
   }

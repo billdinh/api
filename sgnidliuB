@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Apple Infinite Loop",
+    "location": {
+      "latitude": 37.331804,
+      "longitude": -122.029749
+    },
+    "description": "Apple retail store selling iPhones, iPads & more in sleekly designed spaces."
+  },
+  {
+    "name": "Googleplex",
+    "location": {
+      "latitude": 37.422529,
+      "longitude": -122.084119
+    },
+    "description": "The global headquarters of Google, this campus encompasses offices, green space & recreation areas. "
+  }
+]

@@ -38,5 +38,13 @@
     "price": "100.000đ - 280.000đ",
     "rating": 3.75,
     "image": "https://media.foody.vn/res/g13/122209/prof/s480x300/foody-mobile-bototayning640-jpg-330-635918374114817518.jpg"
+  },
+  {
+    "name": "King BBQ Deli Buffet",
+    "address": "Tầng 1, Mipec Tower, 229 Tây Sơn, Quận Đống Đa, Hà Nội",
+    "opening": "08:00 AM - 10:00 PM",
+    "price": "150.000đ - 500.000đ",
+    "rating": 3.65,
+    "image": "https://media.foody.vn/res/g9/83772/prof/s480x300/foody-mobile-bbq1-jpg-719-635786186753025077.jpg"
   }
 ]

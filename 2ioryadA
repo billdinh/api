@@ -30,5 +30,13 @@
     "price": "20.000đ - 45.000đ",
     "rating": 3,
     "image": "https://media.foody.vn/res/g9/89579/prof/s480x300/foody-mobile-buncha-jpg-531-636203499964351381.jpg"
+  },
+  {
+    "name": "Bò Tơ Tây Ninh Tài Sanh",
+    "address": "8 Chùa Bộc, Quận Đống Đa, Hà Nội",
+    "opening": "08:00 AM - 11:00 PM",
+    "price": "100.000đ - 280.000đ",
+    "rating": 3.75,
+    "image": "https://media.foody.vn/res/g13/122209/prof/s480x300/foody-mobile-bototayning640-jpg-330-635918374114817518.jpg"
   }
 ]

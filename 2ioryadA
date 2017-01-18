@@ -4,27 +4,31 @@
     "address": "20 Nguyễn Văn Huyên Kéo Dài, Quận Cầu Giấy, Hà Nội",
     "opening": "08:00 AM - 10:30 PM",
     "price": "50.000đ - 300.000đ",
-    "star": 4.5
+    "rating
+": 4.5
   },
   {
     "name": "Bún Ốc Cô Huệ",
     "address": "43 Nguyễn Siêu, Quận Hoàn Kiếm, Hà Nội",
     "opening": "06:30 AM - 02:00 PM",
     "price": "20.000đ - 50.000đ",
-    "star": 3.75
+    "rating
+": 3.75
   },
   {
     "name": "Chân Gà Nướng Mỹ Miều",
     "address": "25 B13, TT. Kim Liên, Ngõ 65 Phạm Ngọc Thạch, Quận Đống Đa, Hà Nội",
     "opening": "02:30 PM - 12:00 AM",
     "price": "20.000đ - 55.000đ",
-    "star": 3.15
+    "rating
+": 3.15
   },
   {
     "name": "Bún Chả Gia Truyền Dũng Tâm",
     "address": "77 Nguyễn Chính, Quận Hoàng Mai, Hà Nội",
     "opening": "07:30 AM - 02:00 PM",
     "price": "20.000đ - 45.000đ",
-    "star": 3
+    "rating
+": 3
   }
 ]

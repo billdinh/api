@@ -81,49 +81,10 @@
     "pages": null
   },
   {
-    "id": 0,
-    "title": "Steve Jobs",
-    "author": "Walter Isaacson",
-    "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/a0f2a8d5-76c2-49b8-9916-486835de4b3f",
-    "pages": [
-      {
-        "id": 1,
-        "text": "Introduction to Steve Jobs"
-      },
-      {
-        "id": 2,
-        "text": "Steve Jobs was the greatest innovator known to man. He invented many great things for Apple that revolutionized the way we do things."
-      }
-    ]
-  },
-  {
     "id": 4,
     "title": "How to Win Friends & Influence People",
     "author": "Dale Carnegie",
     "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/9125c617-0724-454e-b111-93edf0ec3458",
     "pages": null
-  },
-  {
-    "id": 5,
-    "title": "Atlas Shrugged",
-    "author": "Ayn Rand",
-    "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/d7225f17-834b-4fac-85c6-49ac71f624f0",
-    "pages": null
-  },
-  {
-    "id": 0,
-    "title": "Steve Jobs",
-    "author": "Walter Isaacson",
-    "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/a0f2a8d5-76c2-49b8-9916-486835de4b3f",
-    "pages": [
-      {
-        "id": 1,
-        "text": "Introduction to Steve Jobs"
-      },
-      {
-        "id": 2,
-        "text": "Steve Jobs was the greatest innovator known to man. He invented many great things for Apple that revolutionized the way we do things."
-      }
-    ]
   }
 ]

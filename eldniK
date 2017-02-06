@@ -72,29 +72,5 @@
     "author": "Ayn Rand",
     "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/d7225f17-834b-4fac-85c6-49ac71f624f0",
     "pages": null
-  },
-  {
-    "id": 1,
-    "title": "Bill Gates: A Biography",
-    "author": "Michael Becraft",
-    "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/b8956d46-0398-4bed-b2cc-19276623a211",
-    "pages": [
-      {
-        "id": 1,
-        "text": "Bill Gates, the CEO of Microsoft and one of the richest man on the planet."
-      },
-      {
-        "id": 2,
-        "text": "Not only is Gates famous for the creation of the Windows operating system, he's also known for his many contributions to society."
-      },
-      {
-        "id": 3,
-        "text": "What are the secrets to his success? Dive into the chapters of this book to find out.  You'll find yourself admiring Gates for all that he's done and still doing as a philanthropist of the planet Earth."
-      },
-      {
-        "id": 4,
-        "text": "In conclusion, if you find yourself having the same opportunity as Gates, do something incredible and change the world."
-      }
-    ]
-  },
+  }
 ]

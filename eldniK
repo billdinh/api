@@ -91,7 +91,20 @@
     "id": 5,
     "title": "The Warren Buffett Way",
     "author": "Robert G. Hagstrom",
-    "coverImageUrl": "https://images-na.ssl-images-amazon.com/images/I/512MGXypdCL.jpg",
-    "pages": null
+    "coverImageUrl": "http://www.wsrbooks.com/admin/book/thumb1/9788126546435.jpg",
+    "pages": [
+      {
+        "id": 1,
+        "text": "Warren Buffett is the most famous investor of all time and one of today’s most admired business leaders. He became a billionaire and investment sage by looking at companies as businesses rather than prices on a stock screen. The first two editions of The Warren Buffett Way gave investors their first in-depth look at the innovative investment and business strategies behind Buffett’s spectacular success. The new edition updates readers on the latest investments by Buffett. And, more importantly, it draws on the new field of behavioral finance to explain how investors can overcome the common obstacles that prevent them from investing like Buffett."
+      },
+      {
+        "id": 2,
+        "text": "New material includes: \n\nHow to think like a long-term investor – just like Buffett\nWhy “loss aversion”, the tendency of most investors to overweight the pain of losing money, is one of the biggest obstacles that investors must overcome.\nWhy behaving rationally in the face of the ups and downs of the market has been the key to Buffett’s investing success\nAnalysis of Buffett’s recent acquisition of H.J. Heinz and his investment in IBM stock"
+      },
+      {
+        "id": 3,
+        "text": "The greatest challenge to emulating Buffett is not in the selection of the right stocks, Hagstrom writes, but in having the fortitude to stick with sound investments in the face of economic and market uncertainty. The new edition explains the psychological foundations of Buffett’s approach, thus giving readers the best roadmap yet for mastering both the principles and behaviors that have made Buffett the greatest investor of our generation."
+      }
+    ]
   }
 ]

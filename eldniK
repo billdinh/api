@@ -106,5 +106,25 @@
         "text": "The greatest challenge to emulating Buffett is not in the selection of the right stocks, Hagstrom writes, but in having the fortitude to stick with sound investments in the face of economic and market uncertainty. The new edition explains the psychological foundations of Buffett’s approach, thus giving readers the best roadmap yet for mastering both the principles and behaviors that have made Buffett the greatest investor of our generation."
       }
     ]
+  },
+  {
+    "id": 5,
+    "title": "Losing My Virginity",
+    "author": "Richard Branson",
+    "coverImageUrl": "https://image-store.slidesharecdn.com/97f1e1ae-2bf3-4faf-a764-4b742443f7d4-large.jpeg",
+    "pages": [
+      {
+        "id": 1,
+        "text": "This is the worldwide bestselling autobiography of iconic entrepreneur Sir Richard Branson, featuring his take on his latest business ventures, personal achievements and intrepid adventures."
+      },
+      {
+        "id": 2,
+        "text": "In Losing my Virginity, you'll discover how Sir Richard is committed to building a better world through responsible, holistic business practices and ventures such as the Virgin Health Bank, which is contributing to regenerative medicine, Virgin Fuels, which has pledged £200 million to renewable energy projects, and his company's charitable arm, Virgin Unite. You'll also learn about how Sir Richard and his company are reaching for the stars in a new era of commercial space travel with Virgin Galactic."
+      },
+      {
+        "id": 3,
+        "text": "With insights into this very public figure's personal life as well as his business successes and the lessons he's learned along the way, this is an amazing memoir, motivational business guide and inspiring story that will capture your imagination."
+      }
+    ]
   }
 ]

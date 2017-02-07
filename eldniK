@@ -68,13 +68,6 @@
     "title": "The Secret",
     "author": "Rhonda Byrne",
     "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/3e1dafc2-3f31-4847-9768-8667227fc224",
-    "pages": null
-  },
-  {
-    "id": 5,
-    "title": "Atlas Shrugged",
-    "author": "Ayn Rand",
-    "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/d7225f17-834b-4fac-85c6-49ac71f624f0",
     "pages": [
       {
         "id": 1,
@@ -93,5 +86,12 @@
         "text": "The Secret contains wisdom from modern-day teachers—men and women who have used it to achieve health, wealth, and happiness. By applying the knowledge of The Secret, they bring to light compelling stories of eradicating disease, acquiring massive wealth, overcoming obstacles, and achieving what many would regard as impossible."
       }
     ]
+  },
+  {
+    "id": 5,
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "coverImageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/d7225f17-834b-4fac-85c6-49ac71f624f0",
+    "pages": null
   }
 ]

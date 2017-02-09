@@ -1,677 +1,1362 @@
 [
   {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vgLzLkQUeR-Pb2WqeCU48hW6b3A\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41NkI0NEY2RDEwNTU3Q0M2",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:36:42.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 1: Kết nối năng lượng và vẻ đẹp",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+    "title": "30 NGÀY ĐÁNH THỨC SỨC MẠNH VÀ VẺ ĐẸP",
+    "videos": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vgLzLkQUeR-Pb2WqeCU48hW6b3A\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:36:42.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 1: Kết nối năng lượng và vẻ đẹp",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BSF6mjAw6UA"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 0,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "BSF6mjAw6UA"
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RPl2eH7_FvyA7qfRythnM45ZMzc\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:37:05.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 2:Thanh lọc cơ thể",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6wbNKuUnpDY"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CcoQdSkLF2ubpFD4uQA-6ksH7bI\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:37:31.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 3: Kích hoạt năng lượng tiềm ẩn.",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mHWllHBb4xU"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RTGpBxyuuWX89M5XymNIFpttuek\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:47:49.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 4: Dẻo dai cột sống",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yI6coRBBDQA"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/oZGgiKYMVBVkKFIHBnZtDSiiEl4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:48:19.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 5: Tăng cường sức mạnh",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vCF4yv21uQw"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/5VH7pOxU4iKF5n9D79LODlH4fQQ\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:48:59.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 6: Tạo dáng mềm mại",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_FmKlnLHYEA"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6i6JHcySmMQiy-ujtb8nRgggWVw\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:49:34.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 7: Săn gọn cơ toàn thân",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ARQUgMEWPRQ"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/sXhQ6aJQtaNt7LYgC6H6Phr2r9M\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:50:01.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 8: Tăng tuần hoàn máu",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QhHhZ9FagqI"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/yRCtNEyTNvY2kMjpS_viTdh89_4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:50:23.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 9: Đánh thức năng lượng cơ thể",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 8,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "l27csZIotvk"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/S53vZPxoKWNqR4tc4csnyOliJy4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:50:53.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 10: Thon gọn toàn thân",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 9,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vfTcgndVm4M"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CpO7TAkGJcLnJG617P3wpLV2Ov4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:51:18.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 11: Mềm dẻo toàn thân",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 10,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q2Hj8I08iVE"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/fJUCF9idHHdGVR9iZrP2fXGOrbY\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:51:38.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 12: Thải độc",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 11,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "V73Y1GpYB6g"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ri1TwMwZqjqY05vCqysmmLQi12U\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:53:24.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 13: Làm sạch hệ hô hấp",
+          "description": "Bạn muốn có một sức khỏe dẻo dai, bạn muốn có một thân hình hoàn hảo với vòng eo con kiến, bạn muốn có một làn da căng mịn tràn sức sống, hay bạn muốn mình trở nên đẹp đẽ lạ thường trước người mình yêu....\nRất đơn giản để có được tất cả những điều đó, bạn hãy đến với \"YOGA\". \nYoga là gì? : Yoga (sa. yoga), hay còn gọi là Du-già (zh. 瑜伽), là một họ các phương pháp luyện tâm và luyện thân cổ xưa bắt nguồn từ Ấn Độ. Các nhà nghiên cứu cho rằng, thế giới tâm linh của Ấn Độ được phổ biến chính qua khái niệm Yoga này. Người nam luyện Yoga được gọi là (Du-già) Hành giả (sa. yogin), người nữ là Nữ hành giả (sa. yoginī). Có lúc ta cũng thấy cách gọi Du-già sư, Du-già tăng.(wiki).\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://nguyenhieuyoga.gr8.com/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Happy Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0982833455, 01674964853\n►Address: Số 9, Đường Mỹ Đình, Mỹ Đình 2, Nam Từ Liêm, Hà Nội (trong trường tiểu học Mỹ Đình 2)\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 12,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "t8pKNjea4wU"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ppOJXEw9nH_oNMDsK7Iom6p2XWs\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4zMDg5MkQ5MEVDMEM1NTg2",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:53:52.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 14: Hệ tiêu hóa khỏe mạnh",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 13,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xryj-9990WY"
+          }
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/cIl6_UM7Stdc6LGaB1BdPRJPh_M\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41Mzk2QTAxMTkzNDk4MDhF",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:54:09.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 15: Bảo toàn năng lượng",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 14,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2NiSyq9TAqE"
+          }
+        }
       }
-    }
+    ]
   },
   {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RPl2eH7_FvyA7qfRythnM45ZMzc\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yODlGNEE0NkRGMEEzMEQy",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:37:05.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 2:Thanh lọc cơ thể",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+    "title": "YOGA giảm cân",
+    "videos": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vgLzLkQUeR-Pb2WqeCU48hW6b3A\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:36:42.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 1: Kết nối năng lượng và vẻ đẹp",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BSF6mjAw6UA"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 1,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "6wbNKuUnpDY"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CcoQdSkLF2ubpFD4uQA-6ksH7bI\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wMTcyMDhGQUE4NTIzM0Y5",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:37:31.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 3: Kích hoạt năng lượng tiềm ẩn.",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/mHWllHBb4xU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/mHWllHBb4xU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/mHWllHBb4xU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/mHWllHBb4xU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/mHWllHBb4xU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RPl2eH7_FvyA7qfRythnM45ZMzc\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:37:05.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 2:Thanh lọc cơ thể",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "6wbNKuUnpDY"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 2,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "mHWllHBb4xU"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RTGpBxyuuWX89M5XymNIFpttuek\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MjE1MkI0OTQ2QzJGNzNG",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:47:49.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 4: Dẻo dai cột sống",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/yI6coRBBDQA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/yI6coRBBDQA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/yI6coRBBDQA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/yI6coRBBDQA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/yI6coRBBDQA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CcoQdSkLF2ubpFD4uQA-6ksH7bI\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:37:31.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 3: Kích hoạt năng lượng tiềm ẩn.",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "mHWllHBb4xU"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 3,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "yI6coRBBDQA"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/oZGgiKYMVBVkKFIHBnZtDSiiEl4\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wOTA3OTZBNzVEMTUzOTMy",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:48:19.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 5: Tăng cường sức mạnh",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vCF4yv21uQw/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vCF4yv21uQw/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vCF4yv21uQw/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/vCF4yv21uQw/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/vCF4yv21uQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RTGpBxyuuWX89M5XymNIFpttuek\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:47:49.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 4: Dẻo dai cột sống",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "yI6coRBBDQA"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 4,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "vCF4yv21uQw"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/5VH7pOxU4iKF5n9D79LODlH4fQQ\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4xMkVGQjNCMUM1N0RFNEUx",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:48:59.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 6: Tạo dáng mềm mại",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/oZGgiKYMVBVkKFIHBnZtDSiiEl4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:48:19.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 5: Tăng cường sức mạnh",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vCF4yv21uQw"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 5,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "_FmKlnLHYEA"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6i6JHcySmMQiy-ujtb8nRgggWVw\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MzJCQjBCNDIyRkJDN0VD",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:49:34.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 7: Săn gọn cơ toàn thân",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/5VH7pOxU4iKF5n9D79LODlH4fQQ\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:48:59.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 6: Tạo dáng mềm mại",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_FmKlnLHYEA"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 6,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "ARQUgMEWPRQ"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/sXhQ6aJQtaNt7LYgC6H6Phr2r9M\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DQUNERDQ2NkIzRUQxNTY1",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:50:01.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 8: Tăng tuần hoàn máu",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6i6JHcySmMQiy-ujtb8nRgggWVw\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:49:34.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 7: Săn gọn cơ toàn thân",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ARQUgMEWPRQ"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 7,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "QhHhZ9FagqI"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/yRCtNEyTNvY2kMjpS_viTdh89_4\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45NDk1REZENzhEMzU5MDQz",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:50:23.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 9: Đánh thức năng lượng cơ thể",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/l27csZIotvk/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/l27csZIotvk/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/l27csZIotvk/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/l27csZIotvk/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/l27csZIotvk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/sXhQ6aJQtaNt7LYgC6H6Phr2r9M\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:50:01.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 8: Tăng tuần hoàn máu",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "QhHhZ9FagqI"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 8,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "l27csZIotvk"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/S53vZPxoKWNqR4tc4csnyOliJy4\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5GNjNDRDREMDQxOThCMDQ2",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:50:53.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 10: Thon gọn toàn thân",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/vfTcgndVm4M/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/vfTcgndVm4M/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/vfTcgndVm4M/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/vfTcgndVm4M/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/vfTcgndVm4M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/yRCtNEyTNvY2kMjpS_viTdh89_4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:50:23.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 9: Đánh thức năng lượng cơ thể",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l27csZIotvk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 8,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "l27csZIotvk"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 9,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "vfTcgndVm4M"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CpO7TAkGJcLnJG617P3wpLV2Ov4\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy40NzZCMERDMjVEN0RFRThB",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:51:18.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 11: Mềm dẻo toàn thân",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/S53vZPxoKWNqR4tc4csnyOliJy4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5GNjNDRDREMDQxOThCMDQ2",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:50:53.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 10: Thon gọn toàn thân",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 9,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "vfTcgndVm4M"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 10,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "Q2Hj8I08iVE"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/fJUCF9idHHdGVR9iZrP2fXGOrbY\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5EMEEwRUY5M0RDRTU3NDJC",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:51:38.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 12: Thải độc",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CpO7TAkGJcLnJG617P3wpLV2Ov4\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy40NzZCMERDMjVEN0RFRThB",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:51:18.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 11: Mềm dẻo toàn thân",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 10,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "Q2Hj8I08iVE"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 11,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "V73Y1GpYB6g"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ri1TwMwZqjqY05vCqysmmLQi12U\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45ODRDNTg0QjA4NkFBNkQy",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:53:24.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 13: Làm sạch hệ hô hấp",
-      "description": "Bạn muốn có một sức khỏe dẻo dai, bạn muốn có một thân hình hoàn hảo với vòng eo con kiến, bạn muốn có một làn da căng mịn tràn sức sống, hay bạn muốn mình trở nên đẹp đẽ lạ thường trước người mình yêu....\nRất đơn giản để có được tất cả những điều đó, bạn hãy đến với \"YOGA\". \nYoga là gì? : Yoga (sa. yoga), hay còn gọi là Du-già (zh. 瑜伽), là một họ các phương pháp luyện tâm và luyện thân cổ xưa bắt nguồn từ Ấn Độ. Các nhà nghiên cứu cho rằng, thế giới tâm linh của Ấn Độ được phổ biến chính qua khái niệm Yoga này. Người nam luyện Yoga được gọi là (Du-già) Hành giả (sa. yogin), người nữ là Nữ hành giả (sa. yoginī). Có lúc ta cũng thấy cách gọi Du-già sư, Du-già tăng.(wiki).\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://nguyenhieuyoga.gr8.com/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Happy Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0982833455, 01674964853\n►Address: Số 9, Đường Mỹ Đình, Mỹ Đình 2, Nam Từ Liêm, Hà Nội (trong trường tiểu học Mỹ Đình 2)\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/t8pKNjea4wU/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/t8pKNjea4wU/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/t8pKNjea4wU/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/t8pKNjea4wU/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/t8pKNjea4wU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/fJUCF9idHHdGVR9iZrP2fXGOrbY\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5EMEEwRUY5M0RDRTU3NDJC",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:51:38.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 12: Thải độc",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 11,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "V73Y1GpYB6g"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 12,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "t8pKNjea4wU"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ppOJXEw9nH_oNMDsK7Iom6p2XWs\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4zMDg5MkQ5MEVDMEM1NTg2",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:53:52.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 14: Hệ tiêu hóa khỏe mạnh",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/xryj-9990WY/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/xryj-9990WY/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/xryj-9990WY/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/xryj-9990WY/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/xryj-9990WY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ri1TwMwZqjqY05vCqysmmLQi12U\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45ODRDNTg0QjA4NkFBNkQy",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:53:24.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 13: Làm sạch hệ hô hấp",
+          "description": "Bạn muốn có một sức khỏe dẻo dai, bạn muốn có một thân hình hoàn hảo với vòng eo con kiến, bạn muốn có một làn da căng mịn tràn sức sống, hay bạn muốn mình trở nên đẹp đẽ lạ thường trước người mình yêu....\nRất đơn giản để có được tất cả những điều đó, bạn hãy đến với \"YOGA\". \nYoga là gì? : Yoga (sa. yoga), hay còn gọi là Du-già (zh. 瑜伽), là một họ các phương pháp luyện tâm và luyện thân cổ xưa bắt nguồn từ Ấn Độ. Các nhà nghiên cứu cho rằng, thế giới tâm linh của Ấn Độ được phổ biến chính qua khái niệm Yoga này. Người nam luyện Yoga được gọi là (Du-già) Hành giả (sa. yogin), người nữ là Nữ hành giả (sa. yoginī). Có lúc ta cũng thấy cách gọi Du-già sư, Du-già tăng.(wiki).\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://nguyenhieuyoga.gr8.com/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Happy Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0982833455, 01674964853\n►Address: Số 9, Đường Mỹ Đình, Mỹ Đình 2, Nam Từ Liêm, Hà Nội (trong trường tiểu học Mỹ Đình 2)\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 12,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "t8pKNjea4wU"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 13,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "xryj-9990WY"
-      }
-    }
-  },
-  {
-    "kind": "youtube#playlistItem",
-    "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/cIl6_UM7Stdc6LGaB1BdPRJPh_M\"",
-    "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41Mzk2QTAxMTkzNDk4MDhF",
-    "snippet": {
-      "publishedAt": "2017-02-09T02:54:09.000Z",
-      "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-      "title": "Bài 15: Bảo toàn năng lượng",
-      "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/default.jpg",
-          "width": 120,
-          "height": 90
-        },
-        "medium": {
-          "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/mqdefault.jpg",
-          "width": 320,
-          "height": 180
-        },
-        "high": {
-          "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/hqdefault.jpg",
-          "width": 480,
-          "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ppOJXEw9nH_oNMDsK7Iom6p2XWs\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4zMDg5MkQ5MEVDMEM1NTg2",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:53:52.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 14: Hệ tiêu hóa khỏe mạnh",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xryj-9990WY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 13,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "xryj-9990WY"
+          }
         }
       },
-      "channelTitle": "DJT",
-      "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-      "position": 14,
-      "resourceId": {
-        "kind": "youtube#video",
-        "videoId": "2NiSyq9TAqE"
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/cIl6_UM7Stdc6LGaB1BdPRJPh_M\"",
+        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41Mzk2QTAxMTkzNDk4MDhF",
+        "snippet": {
+          "publishedAt": "2017-02-09T02:54:09.000Z",
+          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+          "title": "Bài 15: Bảo toàn năng lượng",
+          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.\nChúng ta cùng luyện tập Yoga tại nhà cùng chuyên gia Yogi Nguyễn Hiếu.\nCùng luyện tập với Nguyễn Hiếu ngay nào !\n\n- - - - - - - - - - - - - - - - - - - - -\nCùng xem những video mới nhất của Nguyễn Hiếu tại đây nhé :\n- Yoga chữa đau lưng, thoát vị đĩa đệm. Phục hồi cột sống khỏe. \nhttps://youtu.be/yjtFY5xfU6c\n\n- Yoga cho mắt sáng đẹp. Chữa bệnh về mắt. \nhttps://youtu.be/AwZ98OzbZqE\n\n- Yoga tăng chiều cao, phát triển xương chắc khỏe. Làm đẹp da mặt. : \nhttps://youtu.be/8K2hwNzHeLI\n\n- Yoga cho vai khỏe, thon bắp tay và săn nở cơ ngực. \nhttps://youtu.be/Xk59TRo8viU\n\n- Yoga cho mông nở nang, săn chắc đùi. \nhttps://youtu.be/YGBtEYxewxg\n\n- - - - - - - - - - - - - - - - - - - - -\nBài tập  YOGA giảm mỡ bụng - Chỉ với 3 động tác đơn giản giúp bạn dễ dàng thực hiện mỗi ngày, giúp bạn đánh tan mỡ bụng, sở hữu vòng eo như ý thật đơn giản và hiệu quả.\nhttps://youtu.be/v_iWWCZ2Cqw\n- - - - - - - - - - - - - - - - - - - - -\n\nĐể biết nhiều hơn về YOGA và nhận các phương pháp tập luyện \"miễn phí\" hãy nhấp vào link để nhận món quà đặc biệt từ Yogi Nguyễn Hiếu : http://yogagift.us/\n► Subscribe and join Nguyen Hieu Yoga! :http://goo.gl/WykB0e\n-- Find Me! --\n► Facebook: Nguyen Hieu Yoga: http://nguyenhieuyoga.com/fanpage\n► Website: http://nguyenhieuyoga.com/\n►Phone number: 0984004802\n► Đặt mua bộ đĩa Giảm eo thần kỳ của Nguyễn Hiếu : http://nguyenhieuyoga.com/giameothanky\n► Trung tâm đào tạo giáo viên Zenlife Yoga: http://zenlife.vn/\nYoga, Happy Yoga, Yoga Viet Nam, Yoga Ha Noi, Yoga Mỹ Đình, Hà Nội, yoga cho người mới bắt đầu, giảm mỡ bụng với yoga, căng tràn sức sống, làm đẹp da",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJT",
+          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+          "position": 14,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "2NiSyq9TAqE"
+          }
+        }
       }
-    }
+    ]
   }
 ]

@@ -1,683 +1,751 @@
 [
   {
     "title": "30 ngày đánh thức sức mạnh và vẻ đẹp",
-    "videos": [
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vgLzLkQUeR-Pb2WqeCU48hW6b3A\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41NkI0NEY2RDEwNTU3Q0M2",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:36:42.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 1: Kết nối năng lượng và vẻ đẹp",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/BSF6mjAw6UA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 0,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "BSF6mjAw6UA"
-          }
-        }
+    "videos": {
+      "kind": "youtube#playlistItemListResponse",
+      "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Qk4POCMfzMpbqxBsxuFonNncVFI\"",
+      "pageInfo": {
+        "totalResults": 15,
+        "resultsPerPage": 50
       },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RPl2eH7_FvyA7qfRythnM45ZMzc\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yODlGNEE0NkRGMEEzMEQy",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:37:05.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 2:Thanh lọc cơ thể",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/default.jpg",
-              "width": 120,
-              "height": 90
+      "items": [
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/WhqE53cvlF7PyAjnAvxgdKG3pX0\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5GM0Q3M0MzMzY5NTJFNTdE",
+          "snippet": {
+            "publishedAt": "2017-07-28T08:10:59.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 1 - Kết nối năng lượng và vẻ đẹp",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/TAfW-0t6qFs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/TAfW-0t6qFs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/TAfW-0t6qFs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/TAfW-0t6qFs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/TAfW-0t6qFs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/6wbNKuUnpDY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 0,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "TAfW-0t6qFs"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 1,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "6wbNKuUnpDY"
+          "contentDetails": {
+            "videoId": "TAfW-0t6qFs",
+            "videoPublishedAt": "2017-07-28T08:10:18.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CcoQdSkLF2ubpFD4uQA-6ksH7bI\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wMTcyMDhGQUE4NTIzM0Y5",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:37:31.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 3: Kích hoạt năng lượng tiềm ẩn.",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/r7rIBTtLvpaJRGi6MDj1dNVH-j0\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4zRjM0MkVCRTg0MkYyQTM0",
+          "snippet": {
+            "publishedAt": "2017-07-28T08:21:46.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 2 - Thanh lọc cơ thể",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/NVooB9bLgB0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/NVooB9bLgB0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/NVooB9bLgB0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/NVooB9bLgB0/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/NVooB9bLgB0/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/mHWllHBb4xU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 1,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "NVooB9bLgB0"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 2,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "mHWllHBb4xU"
+          "contentDetails": {
+            "videoId": "NVooB9bLgB0",
+            "videoPublishedAt": "2017-07-28T08:16:35.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RTGpBxyuuWX89M5XymNIFpttuek\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MjE1MkI0OTQ2QzJGNzNG",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:47:49.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 4: Dẻo dai cột sống",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/75eZ7x4aat4y2LzmfGZZDj0G7fw\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5EQUE1NTFDRjcwMDg0NEMz",
+          "snippet": {
+            "publishedAt": "2017-07-28T06:36:31.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 3 - Kích hoạt năng lượng tiềm ẩn",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-_FGEB_EIVo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-_FGEB_EIVo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-_FGEB_EIVo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/-_FGEB_EIVo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/-_FGEB_EIVo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/yI6coRBBDQA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 2,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "-_FGEB_EIVo"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 3,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "yI6coRBBDQA"
+          "contentDetails": {
+            "videoId": "-_FGEB_EIVo",
+            "videoPublishedAt": "2017-07-28T05:09:00.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/oZGgiKYMVBVkKFIHBnZtDSiiEl4\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4wOTA3OTZBNzVEMTUzOTMy",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:48:19.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 5: Tăng cường sức mạnh",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/MHfuhvcRxtINrCow1CQfkXAHn2g\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41QTY1Q0UxMTVCODczNThE",
+          "snippet": {
+            "publishedAt": "2017-07-28T06:39:56.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 4 - Dẻo dai cột sống",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/oBFgik_G-jA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/oBFgik_G-jA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/oBFgik_G-jA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/oBFgik_G-jA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/oBFgik_G-jA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/vCF4yv21uQw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 3,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "oBFgik_G-jA"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 4,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "vCF4yv21uQw"
+          "contentDetails": {
+            "videoId": "oBFgik_G-jA",
+            "videoPublishedAt": "2017-07-28T05:14:01.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/5VH7pOxU4iKF5n9D79LODlH4fQQ\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4xMkVGQjNCMUM1N0RFNEUx",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:48:59.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 6: Tạo dáng mềm mại",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/1aBjq-r3ucu5iz5FaQUBU9I8G9g\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yMUQyQTQzMjRDNzMyQTMy",
+          "snippet": {
+            "publishedAt": "2017-07-28T06:43:36.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 5 - Tăng cường sức mạnh",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/DKusLmXVCAw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/DKusLmXVCAw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/DKusLmXVCAw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/DKusLmXVCAw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/DKusLmXVCAw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/_FmKlnLHYEA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 4,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "DKusLmXVCAw"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 5,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "_FmKlnLHYEA"
+          "contentDetails": {
+            "videoId": "DKusLmXVCAw",
+            "videoPublishedAt": "2017-07-28T05:23:27.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6i6JHcySmMQiy-ujtb8nRgggWVw\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41MzJCQjBCNDIyRkJDN0VD",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:49:34.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 7: Săn gọn cơ toàn thân",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/p2hPcgGRItH5G0HRuRVQkRRb_pw\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45RTgxNDRBMzUwRjQ0MDhC",
+          "snippet": {
+            "publishedAt": "2017-07-28T06:47:14.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 6 - Tạo dáng mềm mại",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/xloqm7enPAI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/xloqm7enPAI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/xloqm7enPAI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/xloqm7enPAI/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/xloqm7enPAI/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ARQUgMEWPRQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 5,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "xloqm7enPAI"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 6,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "ARQUgMEWPRQ"
+          "contentDetails": {
+            "videoId": "xloqm7enPAI",
+            "videoPublishedAt": "2017-07-28T06:30:18.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/sXhQ6aJQtaNt7LYgC6H6Phr2r9M\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DQUNERDQ2NkIzRUQxNTY1",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:50:01.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 8: Tăng tuần hoàn máu",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/66XS5GuE1uT0FEPn30dm9ZWrG-Q\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5ENDU4Q0M4RDExNzM1Mjcy",
+          "snippet": {
+            "publishedAt": "2017-07-28T07:28:18.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 7 - Săn gọn cơ toàn thân",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LtPorrTa3Zo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LtPorrTa3Zo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LtPorrTa3Zo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/LtPorrTa3Zo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/LtPorrTa3Zo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/QhHhZ9FagqI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 6,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "LtPorrTa3Zo"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 7,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "QhHhZ9FagqI"
+          "contentDetails": {
+            "videoId": "LtPorrTa3Zo",
+            "videoPublishedAt": "2017-07-28T06:49:30.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/yRCtNEyTNvY2kMjpS_viTdh89_4\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45NDk1REZENzhEMzU5MDQz",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:50:23.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 9: Đánh thức năng lượng cơ thể",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/l27csZIotvk/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/3N3T8GVECTFwkT42ylXtoYRzSBw\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yMDhBMkNBNjRDMjQxQTg1",
+          "snippet": {
+            "publishedAt": "2017-07-28T07:30:25.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 8 - Tăng tuần hoàn máu",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/VX4VSXZKu3U/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/VX4VSXZKu3U/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/VX4VSXZKu3U/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/VX4VSXZKu3U/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/VX4VSXZKu3U/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/l27csZIotvk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/l27csZIotvk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/l27csZIotvk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/l27csZIotvk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 7,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "VX4VSXZKu3U"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 8,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "l27csZIotvk"
+          "contentDetails": {
+            "videoId": "VX4VSXZKu3U",
+            "videoPublishedAt": "2017-07-28T07:04:34.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/S53vZPxoKWNqR4tc4csnyOliJy4\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5GNjNDRDREMDQxOThCMDQ2",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:50:53.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 10: Thon gọn toàn thân",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/4unrW2Lw2m1tDSVAnuHHDa3ugvs\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4yQUE2Q0JEMTk4NTM3RTZC",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:16:35.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 9 - Đánh thức năng lượng cơ thể",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Lc4SWWqE0Oo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Lc4SWWqE0Oo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Lc4SWWqE0Oo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/Lc4SWWqE0Oo/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/Lc4SWWqE0Oo/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/vfTcgndVm4M/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 8,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "Lc4SWWqE0Oo"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 9,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "vfTcgndVm4M"
+          "contentDetails": {
+            "videoId": "Lc4SWWqE0Oo",
+            "videoPublishedAt": "2017-07-28T08:18:13.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CpO7TAkGJcLnJG617P3wpLV2Ov4\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy40NzZCMERDMjVEN0RFRThB",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:51:18.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 11: Mềm dẻo toàn thân",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/uV-jETtTLG9-sKOL6U6qoFGS0IY\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:16:35.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 10 - Thon gọn toàn thân",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cbr6MmWL3l4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cbr6MmWL3l4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cbr6MmWL3l4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/cbr6MmWL3l4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/cbr6MmWL3l4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/Q2Hj8I08iVE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 9,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "cbr6MmWL3l4"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 10,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "Q2Hj8I08iVE"
+          "contentDetails": {
+            "videoId": "cbr6MmWL3l4",
+            "videoPublishedAt": "2017-07-28T08:27:35.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/fJUCF9idHHdGVR9iZrP2fXGOrbY\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5EMEEwRUY5M0RDRTU3NDJC",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:51:38.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 12: Thải độc",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/PwRypDfigM7s4iuQUckQajzA9-0\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy43MTI1NDIwOTMwQjIxMzNG",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:16:35.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 11 - Mềm dẻo toàn thân",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ISXw4fB4PBY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ISXw4fB4PBY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ISXw4fB4PBY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/ISXw4fB4PBY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/ISXw4fB4PBY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/V73Y1GpYB6g/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 10,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "ISXw4fB4PBY"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 11,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "V73Y1GpYB6g"
+          "contentDetails": {
+            "videoId": "ISXw4fB4PBY",
+            "videoPublishedAt": "2017-07-28T08:35:42.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ri1TwMwZqjqY05vCqysmmLQi12U\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45ODRDNTg0QjA4NkFBNkQy",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:53:24.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 13: Làm sạch hệ hô hấp",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/dYNJPbxq_X3MPLQRoGPrM5Srwqo\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DNzE1RjZEMUZCMjA0RDBB",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:16:35.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 12 - Thải độc",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jibj5Ec8sv4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jibj5Ec8sv4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jibj5Ec8sv4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/jibj5Ec8sv4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/jibj5Ec8sv4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/t8pKNjea4wU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 11,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "jibj5Ec8sv4"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 12,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "t8pKNjea4wU"
+          "contentDetails": {
+            "videoId": "jibj5Ec8sv4",
+            "videoPublishedAt": "2017-07-28T08:41:11.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ppOJXEw9nH_oNMDsK7Iom6p2XWs\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy4zMDg5MkQ5MEVDMEM1NTg2",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:53:52.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 14: Hệ tiêu hóa khỏe mạnh",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/xryj-9990WY/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/mCEo_H0QclRpO_kKsneC7fVY-lw\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy45NzUwQkI1M0UxNThBMkU0",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:04:56.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 13 - Làm sạch hệ hô hấp",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/tn2euN4eQ6Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/tn2euN4eQ6Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/tn2euN4eQ6Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/tn2euN4eQ6Q/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/tn2euN4eQ6Q/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/xryj-9990WY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/xryj-9990WY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/xryj-9990WY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/xryj-9990WY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 12,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "tn2euN4eQ6Q"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 13,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "xryj-9990WY"
+          "contentDetails": {
+            "videoId": "tn2euN4eQ6Q",
+            "videoPublishedAt": "2017-07-28T13:03:51.000Z"
           }
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/cIl6_UM7Stdc6LGaB1BdPRJPh_M\"",
-        "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy41Mzk2QTAxMTkzNDk4MDhF",
-        "snippet": {
-          "publishedAt": "2017-02-09T02:54:09.000Z",
-          "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài 15: Bảo toàn năng lượng",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/default.jpg",
-              "width": 120,
-              "height": 90
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Ekwm26FPuJTFWkpKfZZoDUgjRf8\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy5DMkU4NTY1QUFGQTYwMDE3",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:22:26.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 14  - Hệ tiêu hóa khỏe mạnh",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/2Q-nqtMc7oE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/2Q-nqtMc7oE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/2Q-nqtMc7oE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/2Q-nqtMc7oE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/2Q-nqtMc7oE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/2NiSyq9TAqE/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 13,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "2Q-nqtMc7oE"
             }
           },
-          "channelTitle": "DJT",
-          "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
-          "position": 14,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "2NiSyq9TAqE"
+          "contentDetails": {
+            "videoId": "2Q-nqtMc7oE",
+            "videoPublishedAt": "2017-07-28T13:17:16.000Z"
+          }
+        },
+        {
+          "kind": "youtube#playlistItem",
+          "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Fb7e0wMD8HI15vDFx7FPquXeqLY\"",
+          "id": "UExaRHJSSGhBdTlxNmJnM3h4R3lXc0czeUFxRnlPNDdJcy44Mjc5REFBRUE2MTdFRDU0",
+          "snippet": {
+            "publishedAt": "2017-07-28T13:28:05.000Z",
+            "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
+            "title": "Bài 15  Bảo toàn năng lượng",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/xHRoywffqEw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/xHRoywffqEw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/xHRoywffqEw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/xHRoywffqEw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/xHRoywffqEw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "DJT",
+            "playlistId": "PLZDrRHhAu9q6bg3xxGyWsG3yAqFyO47Is",
+            "position": 14,
+            "resourceId": {
+              "kind": "youtube#video",
+              "videoId": "xHRoywffqEw"
+            }
+          },
+          "contentDetails": {
+            "videoId": "xHRoywffqEw",
+            "videoPublishedAt": "2017-07-28T13:24:33.000Z"
           }
         }
-      }
-    ]
+      ]
+    }
   },
   {
     "title": "Yoga giảm cân",

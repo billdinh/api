@@ -1,12 +1,46 @@
 [
   {
-    "product_name": "Bananas",
-    "product_cost": 200,
-    "description": "A banana grown in Ecuador."
+    "name": "Home Town Market",
+    "aisles": [
+      {
+        "name": "Produce",
+        "shelves": [
+          {
+            "name": "Discount Produce",
+            "product": {
+              "name": "Banana",
+              "points": 200,
+              "description": "A banana that's perfectly ripe."
+            }
+          }
+        ]
+      }
+    ]
   },
   {
-    "product_name": "Oranges",
-    "product_cost": 100,
-    "description": "A juicy orange."
+    "name": "Big City Market",
+    "aisles": [
+      {
+        "name": "Sale Aisle",
+        "shelves": [
+          {
+            "name": "Seasonal Sale",
+            "product": {
+              "name": "Chestnuts",
+              "points": 700,
+              "description": "Chestnuts that were roasted over an open fire."
+            }
+          },
+          {
+            "name": "Last Season's Clearance",
+            "product": {
+              "name": "Pumpkin Seeds",
+              "points": 400,
+              "description": "Seeds harvested from a pumpkin."
+            }
+          }
+        ]
+      }
+    ]
   }
 ]

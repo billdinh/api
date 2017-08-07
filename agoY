@@ -744,36 +744,36 @@
     "videos": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Kdqu4rWnrQK-W2yMnjuX_c6Zipw\"",
-        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai41NkI0NEY2RDEwNTU3Q0M2",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/nc_8JwUVHBpv9C0B2kt0tlTodBM\"",
+        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4wOTA3OTZBNzVEMTUzOTMy",
         "snippet": {
-          "publishedAt": "2017-02-09T14:28:41.000Z",
+          "publishedAt": "2017-08-06T14:20:19.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài tập yoga giảm mỡ bụng siêu nhanh",
-          "description": "YOGA giảm cân - Bài tập yoga giảm mỡ bụng siêu nhanh.",
+          "title": "Bài tập yoga giảm mỡ bụng siêu nhanh",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/9dihtxG9BWM/default.jpg",
+              "url": "https://i.ytimg.com/vi/M3OEPxbD-rA/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/9dihtxG9BWM/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3OEPxbD-rA/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/9dihtxG9BWM/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3OEPxbD-rA/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/9dihtxG9BWM/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3OEPxbD-rA/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/9dihtxG9BWM/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3OEPxbD-rA/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -783,42 +783,46 @@
           "position": 0,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "9dihtxG9BWM"
+            "videoId": "M3OEPxbD-rA"
           }
+        },
+        "contentDetails": {
+          "videoId": "M3OEPxbD-rA",
+          "videoPublishedAt": "2017-08-06T14:18:18.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/hRsIKq_pQM8-Oxx85_N6sLTH97g\"",
-        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4yODlGNEE0NkRGMEEzMEQy",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/EKUnN6-78qtzV8UjFoqjwqE9tEY\"",
+        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4xMkVGQjNCMUM1N0RFNEUx",
         "snippet": {
-          "publishedAt": "2017-02-09T14:29:00.000Z",
+          "publishedAt": "2017-08-06T14:24:48.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "5 động tác đánh tan mỡ bụng, sở hữu vòng eo thon gọn",
-          "description": "Bài tập yoga với 5 động tác đơn giản, đánh tan mỡ bụng, cho bạn sở hữu vòng eo thon gọn.",
+          "title": "5 động tác để sở hữu vòng eo thon gọn",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/syZ5rF0ztKU/default.jpg",
+              "url": "https://i.ytimg.com/vi/HfRzLjdVj90/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/syZ5rF0ztKU/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/HfRzLjdVj90/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/syZ5rF0ztKU/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/HfRzLjdVj90/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/syZ5rF0ztKU/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/HfRzLjdVj90/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/syZ5rF0ztKU/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/HfRzLjdVj90/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -828,42 +832,46 @@
           "position": 1,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "syZ5rF0ztKU"
+            "videoId": "HfRzLjdVj90"
           }
+        },
+        "contentDetails": {
+          "videoId": "HfRzLjdVj90",
+          "videoPublishedAt": "2017-08-06T14:24:01.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/rUb0afXAmjCVR_OMI3eJTI3pCIc\"",
-        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai4wMTcyMDhGQUE4NTIzM0Y5",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/2hBkLQmTOF9GnwxvhSbhBJYZYGw\"",
+        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai41MzJCQjBCNDIyRkJDN0VD",
         "snippet": {
-          "publishedAt": "2017-02-09T14:29:50.000Z",
+          "publishedAt": "2017-08-06T14:27:54.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Săn chắc vùng bụng trước, tạo độ cong sau lưng",
-          "description": "Chuỗi video yoga giảm mỡ bụng với những động tác đặc biệt được thiết kế cho những bạn muốn tác động trực tiếp hiệu quả với phần mỡ bụng, giúp xây dựng cơ bắp, đánh tan mỡ bụng, đốt cháy calo, thải độc và hỗ trợ tiêu hóa, mang lại cuộc sống khỏe mạnh, hạnh phúc bình an hơn với ngoại hình mơ ước với vòng eo như ý.",
+          "title": "Săn chắc vùng bụng trước, tạo độ cong sau lưng",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/j0YRANhcN3w/default.jpg",
+              "url": "https://i.ytimg.com/vi/426badjTpQk/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/j0YRANhcN3w/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/426badjTpQk/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/j0YRANhcN3w/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/426badjTpQk/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/j0YRANhcN3w/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/426badjTpQk/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/j0YRANhcN3w/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/426badjTpQk/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -873,42 +881,46 @@
           "position": 2,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "j0YRANhcN3w"
+            "videoId": "426badjTpQk"
           }
+        },
+        "contentDetails": {
+          "videoId": "426badjTpQk",
+          "videoPublishedAt": "2017-08-06T14:27:12.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/UDAoQ4CGyGcelkMTG4qNNaVOGvY\"",
-        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai41MjE1MkI0OTQ2QzJGNzNG",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/IStMybr8vzprndm4MCskenqAB7I\"",
+        "id": "UExaRHJSSGhBdTlxNXRHZE1yWFY5dU5RejZ6ZlNNd1ZUai5DQUNERDQ2NkIzRUQxNTY1",
         "snippet": {
-          "publishedAt": "2017-02-09T14:30:04.000Z",
+          "publishedAt": "2017-08-06T14:34:36.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Yoga giúp nở ngực, thon gọn bắp tay, giảm mỡ bụng",
-          "description": "Hôm nay Nguyễn Hiếu hướng dẫn mọi người bài tập yoga giúp nở ngực,mềm vai và thon gọn và thẳng bắp tay, giảm mỡ bụng.",
+          "title": "Giúp nở ngực, thon gọn bắp tay",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/2zxX5HWq-to/default.jpg",
+              "url": "https://i.ytimg.com/vi/Z0QvMS2O5tQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/2zxX5HWq-to/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/Z0QvMS2O5tQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/2zxX5HWq-to/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/Z0QvMS2O5tQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/2zxX5HWq-to/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/Z0QvMS2O5tQ/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/2zxX5HWq-to/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/Z0QvMS2O5tQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -918,47 +930,51 @@
           "position": 3,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "2zxX5HWq-to"
+            "videoId": "Z0QvMS2O5tQ"
           }
+        },
+        "contentDetails": {
+          "videoId": "Z0QvMS2O5tQ",
+          "videoPublishedAt": "2017-08-06T14:34:17.000Z"
         }
       }
     ]
   },
   {
-    "title": "Yoga trị liệu",
+    "title": "Tự tập Yoga tại nhà",
     "videos": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/wQRd381qqHzGfiVcu0SeMNvgxQM\"",
-        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei41NkI0NEY2RDEwNTU3Q0M2",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/vnbUxWF10mjMmXEtfmIXVK3JoOE\"",
+        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei41MzJCQjBCNDIyRkJDN0VD",
         "snippet": {
-          "publishedAt": "2017-02-09T14:39:56.000Z",
+          "publishedAt": "2017-08-06T14:42:57.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Bài tập giúp ngủ ngon, lưu thông khí huyết, da dẻ hồng hào, chống lão hóa.",
-          "description": "Bài tập giúp ngủ ngon, lưu thông khí huyết, da dẻ hồng hào, chống lão hóa.",
+          "title": "Bài tập giúp lưu thông khí huyết, da dẻ hồng hào",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/k8i6mCaUw_g/default.jpg",
+              "url": "https://i.ytimg.com/vi/1_Z-A03b3Dw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/k8i6mCaUw_g/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/1_Z-A03b3Dw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/k8i6mCaUw_g/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/1_Z-A03b3Dw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/k8i6mCaUw_g/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/1_Z-A03b3Dw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/k8i6mCaUw_g/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/1_Z-A03b3Dw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -968,42 +984,46 @@
           "position": 0,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "k8i6mCaUw_g"
+            "videoId": "1_Z-A03b3Dw"
           }
+        },
+        "contentDetails": {
+          "videoId": "1_Z-A03b3Dw",
+          "videoPublishedAt": "2017-08-06T14:42:09.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/nxs0eA07eXQRyKhmoIx_QQFbkbA\"",
-        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei4yODlGNEE0NkRGMEEzMEQy",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/5TK2ko3Qbo9ch3xCxW9byOQ2_fA\"",
+        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei5DQUNERDQ2NkIzRUQxNTY1",
         "snippet": {
-          "publishedAt": "2017-02-09T14:40:42.000Z",
+          "publishedAt": "2017-08-06T15:08:25.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Tự tập Yoga tại nhà cùng chuyên gia Nguyễn Hiếu",
-          "description": "Tự tập YOGA tại nhà cùng chuyên gia Nguyễn Hiếu Full",
+          "title": "Tự tập Yoga tại nhà cùng chuyên gia",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/o-2qv7JVh7o/default.jpg",
+              "url": "https://i.ytimg.com/vi/5XMbA1v_ko4/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/o-2qv7JVh7o/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5XMbA1v_ko4/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/o-2qv7JVh7o/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5XMbA1v_ko4/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/o-2qv7JVh7o/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/5XMbA1v_ko4/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/o-2qv7JVh7o/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5XMbA1v_ko4/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1013,39 +1033,48 @@
           "position": 1,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "o-2qv7JVh7o"
+            "videoId": "5XMbA1v_ko4"
           }
+        },
+        "contentDetails": {
+          "videoId": "5XMbA1v_ko4",
+          "videoPublishedAt": "2017-08-06T15:07:45.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/8vzE7cEBu_jIkFnrJAVmzDNC-PY\"",
-        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei4wMTcyMDhGQUE4NTIzM0Y5",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/wsEA41MsH317aLy4IJZwa_Da6iM\"",
+        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei5EMEEwRUY5M0RDRTU3NDJC",
         "snippet": {
-          "publishedAt": "2017-02-09T14:40:59.000Z",
+          "publishedAt": "2017-08-07T00:47:36.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Yoga cho khuôn mặt - Bí mật trẻ mãi với Yoga",
-          "description": "Bài tập hướng dẫn cách để kích thích khuôn mặt trở nên săn chắc, khỏe mạnh, tươi sáng và thanh thoát.",
+          "title": "Bí mật trẻ mãi với Yoga",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Wur_Mi-KIXU/default.jpg",
+              "url": "https://i.ytimg.com/vi/HKwtaUCbblQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Wur_Mi-KIXU/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/HKwtaUCbblQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Wur_Mi-KIXU/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/HKwtaUCbblQ/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Wur_Mi-KIXU/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/HKwtaUCbblQ/sddefault.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HKwtaUCbblQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "DJT",
@@ -1053,42 +1082,46 @@
           "position": 2,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "Wur_Mi-KIXU"
+            "videoId": "HKwtaUCbblQ"
           }
+        },
+        "contentDetails": {
+          "videoId": "HKwtaUCbblQ",
+          "videoPublishedAt": "2017-08-06T15:20:24.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/l1S71stqWpWlYqLedqZkA-SQJgU\"",
-        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei41MjE1MkI0OTQ2QzJGNzNG",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/vtWMVkFLF2vWA8vqroCkDy9JLyY\"",
+        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei45NDk1REZENzhEMzU5MDQz",
         "snippet": {
-          "publishedAt": "2017-02-09T14:41:35.000Z",
+          "publishedAt": "2017-08-06T15:25:16.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "5 phút tập cho bụng trước phẳng lì",
-          "description": "5 phút tập cho bụng trước phẳng lì",
+          "title": "5 phút tập cho bụng trước phẳng lì",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/IzRPgDKsFRI/default.jpg",
+              "url": "https://i.ytimg.com/vi/qf8t2i3NHxY/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/IzRPgDKsFRI/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/qf8t2i3NHxY/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/IzRPgDKsFRI/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/qf8t2i3NHxY/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/IzRPgDKsFRI/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/qf8t2i3NHxY/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/IzRPgDKsFRI/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/qf8t2i3NHxY/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1098,42 +1131,46 @@
           "position": 3,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "IzRPgDKsFRI"
+            "videoId": "qf8t2i3NHxY"
           }
+        },
+        "contentDetails": {
+          "videoId": "qf8t2i3NHxY",
+          "videoPublishedAt": "2017-08-06T15:21:23.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/rUeoG7oI6d5rd0q0Rd8A-VVvVqc\"",
-        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei4wOTA3OTZBNzVEMTUzOTMy",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/bfmq7zZpzQ-RiiTXkATx5u2N7e8\"",
+        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei5GNjNDRDREMDQxOThCMDQ2",
         "snippet": {
-          "publishedAt": "2017-02-09T14:42:01.000Z",
+          "publishedAt": "2017-08-06T15:25:17.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Yoga | Thiền chữa bệnh, xóa tan stress",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
+          "title": "Thiền chữa bệnh, xóa tan stress",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/Jne-gpNQAys/default.jpg",
+              "url": "https://i.ytimg.com/vi/okTIZzp3BxU/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/Jne-gpNQAys/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/okTIZzp3BxU/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/Jne-gpNQAys/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/okTIZzp3BxU/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/Jne-gpNQAys/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/okTIZzp3BxU/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/Jne-gpNQAys/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/okTIZzp3BxU/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -1143,39 +1180,48 @@
           "position": 4,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "Jne-gpNQAys"
+            "videoId": "okTIZzp3BxU"
           }
+        },
+        "contentDetails": {
+          "videoId": "okTIZzp3BxU",
+          "videoPublishedAt": "2017-08-06T15:22:30.000Z"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Nrcragg6beRnWlqfpCitg9U6rs0\"",
-        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei4xMkVGQjNCMUM1N0RFNEUx",
+        "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/Iu0yl8NWREGl2YOwh2uVrEFtA6g\"",
+        "id": "UExaRHJSSGhBdTlxNTJReXVoRTlmSmZMSk9Wd1d6el9Rei40NzZCMERDMjVEN0RFRThB",
         "snippet": {
-          "publishedAt": "2017-02-09T14:42:30.000Z",
+          "publishedAt": "2017-08-06T15:25:18.000Z",
           "channelId": "UCS9WOlRWkIRS6bbxscNuloQ",
-          "title": "Yoga 30 ngày - Khỏe, Trẻ, Đẹp",
-          "description": "Yoga là một bộ môn tuyệt vời với những hiệu quả kỳ diệu đã được chứng minh trên toàn thế giới, với những bài tập nhẹ nhàng, đơn giản những hiệu quả không ngờ, chắc hẳn bạn cũng rất muốn được trải nghiệm những điều tuyệt vời mà Yoga mang lại cho cuộc sống của mình, hãy bắt đầu luyện tập cùng Nguyễn Hiếu. Nếu như bạn thiếu thời gian để có thể luyện tập Yoga ở các trung tâm, bạn ngại đi lại, hãy bắt đầu luyện tập Yoga tại nhà cùng Nguyễn HIếu. Nguyễn Hiếu sẽ cung cấp cho bạn những bài tập tuyệt vời nhất và hoàn toàn miễn phí.",
+          "title": "Yoga tại nhà trẻ khỏe đẹp",
+          "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/5Spf9vHCxlg/default.jpg",
+              "url": "https://i.ytimg.com/vi/ZhvF-sdyIE4/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/5Spf9vHCxlg/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/ZhvF-sdyIE4/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/5Spf9vHCxlg/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/ZhvF-sdyIE4/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/5Spf9vHCxlg/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/ZhvF-sdyIE4/sddefault.jpg",
               "width": 640,
               "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZhvF-sdyIE4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "DJT",
@@ -1183,8 +1229,12 @@
           "position": 5,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "5Spf9vHCxlg"
+            "videoId": "ZhvF-sdyIE4"
           }
+        },
+        "contentDetails": {
+          "videoId": "ZhvF-sdyIE4",
+          "videoPublishedAt": "2017-08-06T15:24:34.000Z"
         }
       }
     ]

@@ -1,23 +1,46 @@
-{
-  "id": 1,
-  "name": "Leanne Graham",
-  "username": "Bret",
-  "email": "Sincere@april.biz",
-  "address": {
-    "street": "Kulas Light",
-    "suite": "Apt. 556",
-    "city": "Gwenborough",
-    "zipcode": "92998-3874",
-    "geo": {
-      "lat": "-37.3159",
-      "lng": "81.1496"
-    }
+[
+  {
+    "name": "Home Town Market",
+    "aisles": [
+      {
+        "name": "Produce",
+        "shelves": [
+          {
+            "name": "Discount Produce",
+            "product": {
+              "name": "Banana",
+              "points": 200,
+              "description": "A banana that's perfectly ripe."
+            }
+          }
+        ]
+      }
+    ]
   },
-  "phone": "1-770-736-8031 x56442",
-  "website": "hildegard.org",
-  "company": {
-    "name": "Romaguera-Crona",
-    "catchPhrase": "Multi-layered client-server neural-net",
-    "bs": "harness real-time e-markets"
+  {
+    "name": "Big City Market",
+    "aisles": [
+      {
+        "name": "Sale Aisle",
+        "shelves": [
+          {
+            "name": "Seasonal Sale",
+            "product": {
+              "name": "Chestnuts",
+              "points": 700,
+              "description": "Chestnuts that were roasted over an open fire."
+            }
+          },
+          {
+            "name": "Last Season's Clearance",
+            "product": {
+              "name": "Pumpkin Seeds",
+              "points": 400,
+              "description": "Seeds harvested from a pumpkin."
+            }
+          }
+        ]
+      }
+    ]
   }
-}
+]

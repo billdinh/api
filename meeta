@@ -1926,442 +1926,6 @@
     ]
   },
   {
-    "name": "Vietcombank",
-    "image": "vietcombank",
-    "list": [
-      {
-        "lat": 10.7567163,
-        "lng": 106.6579944,
-        "address": "59/1E Thuận Kiều, phường 12, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7624699,
-        "lng": 106.6692088,
-        "address": "278 Nguyễn Tri Phương, phường 4, Quận 10, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.778192,
-        "lng": 106.655101,
-        "address": "2/4 Lý Thường Kiệt, phường 9, Tân Bình, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.744585,
-        "lng": 106.65621,
-        "address": "432 Tùng Thiện Vương, phường 13, Quận 8, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8508512,
-        "lng": 106.7549476,
-        "address": "128 Kha Vạn Cân, Trường Thọ, Thủ Đức, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7670067,
-        "lng": 106.6861672,
-        "address": "189 Cống Quỳnh, Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7670929,
-        "lng": 106.642225,
-        "address": "2 Hòa Bình, phường 5, Quận 11, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.772119,
-        "lng": 106.632218,
-        "address": "256 Lũy Bán Bích, Hoà Thạnh, Tân Phú, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7623499,
-        "lng": 106.7787562,
-        "address": "K1, Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8960462,
-        "lng": 106.6467052,
-        "address": "12 Lê Văn Khương, Thới An, Quận 12, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.763421,
-        "lng": 106.679066,
-        "address": "242 Tran Binh Trong, Wd.4, District 5, Ho Chi Minh City, Hồ Chí Minh 700000, Vietnam"
-      },
-      {
-        "lat": 10.7965334,
-        "lng": 106.6738462,
-        "address": "251 Nguyễn Văn Trỗi, phường 11, Phú Nhuận, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7786176,
-        "lng": 106.7067749,
-        "address": "2A-4A Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7763632,
-        "lng": 106.6807936,
-        "address": "107/2a Đường 3 Tháng, phường 11, Hồ Chí Minh, phường 11 Quận 10 Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8016251,
-        "lng": 106.6472386,
-        "address": "53 Cộng Hòa, phường 13, Tân Bình, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.784039,
-        "lng": 106.7035994,
-        "address": "37 Tôn Đức Thắng, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.779678,
-        "lng": 106.688002,
-        "address": "32A Trương Định, Phường 7, Quận 3, Hồ Chí Minh, 700000, Vietnam"
-      },
-      {
-        "lat": 10.7720242,
-        "lng": 106.6697118,
-        "address": "112B-112C Sư Vạn Hạnh (Nối dài)Phường 12, Quận 10, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.803987,
-        "lng": 106.687459,
-        "address": "36E Phan Đăng Lưu, phường 5, Phú Nhuận, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8494094,
-        "lng": 106.7537055,
-        "address": "Thủ Đức, Ho Chi Minh, Vietnam"
-      },
-      {
-        "lat": 14.3566186,
-        "lng": 108.0141428,
-        "address": "18 Đống Đa, Thắng Lợi, Tp. Kon Tum, Kon Tum, Vietnam"
-      },
-      {
-        "lat": 16.457671,
-        "lng": 107.580271,
-        "address": "2 Lê Lợi, Vĩnh Ninh, Tp. Huế, Thừa Thiên Huế, Vietnam"
-      },
-      {
-        "lat": 10.7743939,
-        "lng": 106.700588,
-        "address": "30 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 16.476008,
-        "lng": 107.581278,
-        "address": "132 Mai Thúc Loan, Thuận Thành, Thành phố Huế, Thừa Thiên Huế, Vietnam"
-      },
-      {
-        "lat": 10.7627957,
-        "lng": 106.6770607,
-        "address": "78 Đường Hùng Vương, phường 4, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 9.6059673,
-        "lng": 105.9614267,
-        "address": "QL1, Tp. Sóc Trăng, Sóc Trăng, Vietnam"
-      },
-      {
-        "lat": 9.6258074,
-        "lng": 105.9585385,
-        "address": "119 QL1A, Phường 7, Tp. Sóc Trăng, Sóc Trăng, Vietnam"
-      },
-      {
-        "lat": 9.6113564,
-        "lng": 105.9697513,
-        "address": "18 Hùng Vương, phường 6, Tp. Sóc Trăng, Sóc Trăng, Vietnam"
-      },
-      {
-        "lat": 21.0102824,
-        "lng": 107.2899833,
-        "address": "29 Trần Phú, Cẩm Tây, Tp. Cẩm Phả, Quảng Ninh, Vietnam"
-      },
-      {
-        "lat": 20.9711977,
-        "lng": 107.0448069,
-        "address": "Hạ Long, Quảng Ninh Province, Vietnam"
-      },
-      {
-        "lat": 15.3400654,
-        "lng": 108.8373244,
-        "address": "Bình Trị, Bình Sơn, Quảng Ngãi, Vietnam"
-      },
-      {
-        "lat": 15.1261457,
-        "lng": 108.7773286,
-        "address": "2 Nguyễn Chí Thanh, Quảng Phú, Tp. Quảng Ngãi, Quảng Ngãi, Vietnam"
-      },
-      {
-        "lat": 10.8375164,
-        "lng": 106.6542892,
-        "address": "784 Quang Trung, phường 8, Gò Vấp, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 14.8115527,
-        "lng": 108.9591376,
-        "address": "tt. Đức Phổ, Đức Phổ, Quảng Ngãi, Vietnam"
-      },
-      {
-        "lat": 20.9609588,
-        "lng": 105.7629994,
-        "address": "504 Quang Trung, Hà Đông, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 15.4469551,
-        "lng": 108.6086561,
-        "address": "Tam Hiệp, Núi Thành, Quảng Nam, Vietnam"
-      },
-      {
-        "lat": 15.569819,
-        "lng": 108.4872583,
-        "address": "204 Phan Châu Trinh, Phước Hòa, Tp. Tam Kỳ, Quảng Nam, Vietnam"
-      },
-      {
-        "lat": 15.5646127,
-        "lng": 108.4953027,
-        "address": "Phan Châu Trinh, Tp. Tam Kỳ, Quảng Nam, Vietnam"
-      },
-      {
-        "lat": 10.7889569,
-        "lng": 106.7154248,
-        "address": "54 Nguyễn Hữu Cảnh, Phường 22, Bình Thạnh, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 9.9837905,
-        "lng": 105.1024977,
-        "address": "577 Nguyễn Trung Trực, An Hòa, Tp. Rạch Giá, tỉnh Kiên Giang, Vietnam"
-      },
-      {
-        "lat": 12.2534455,
-        "lng": 109.195826,
-        "address": "4 Lê Lợi, Xương Huân, Tp. Nha Trang, Khánh Hòa 650000, Vietnam"
-      },
-      {
-        "lat": 12.2405558,
-        "lng": 109.1968951,
-        "address": "Trần Phú, Lộc Thọ, Tp. Nha Trang, Khánh Hòa 650000, Vietnam"
-      },
-      {
-        "lat": 10.7657903,
-        "lng": 106.6936621,
-        "address": "209 Trần Hưng Đạo, Cô Giang, 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 12.2355791,
-        "lng": 109.1951248,
-        "address": "17 Biệt Thự, Tp. Nha Trang, Khánh Hòa 650000, Vietnam"
-      },
-      {
-        "lat": 12.2056044,
-        "lng": 109.2143916,
-        "address": "Cầu Đá, Vĩnh Nguyên, Tp. Nha Trang, Khánh Hòa, Vietnam"
-      },
-      {
-        "lat": 11.534145,
-        "lng": 107.8070484,
-        "address": "215 Trần Quốc Toản, Blao, Tp. Bảo Lộc, Lâm Đồng, Vietnam"
-      },
-      {
-        "lat": 20.86332,
-        "lng": 106.689153,
-        "address": "8a Trần Phú, Máy Tơ, Ngô Quyền, Hải Phòng, Vietnam"
-      },
-      {
-        "lat": 20.8497426,
-        "lng": 106.6733769,
-        "address": "272 Tô Hiệu, Hồ Nam, Lê Chân, Hải Phòng, Vietnam"
-      },
-      {
-        "lat": 10.8276903,
-        "lng": 106.6760633,
-        "address": "95 Quang Trung, phường 10, Gò Vấp, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 20.9328836,
-        "lng": 106.1918133,
-        "address": "Cẩm Giàng District, Hai Duong, Vietnam"
-      },
-      {
-        "lat": 10.750771,
-        "lng": 106.6613483,
-        "address": "69 Hải Thượng Lãn Ông, phường 10, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 13.9537206,
-        "lng": 108.6530778,
-        "address": "600 Quang Trung, Tx. An Khê, Gia Lai, Vietnam"
-      },
-      {
-        "lat": 16.0663184,
-        "lng": 108.2082979,
-        "address": "6 Lý Thái Tổ, Thạc Gián, Q. Thanh Khê, Đà Nẵng, Vietnam"
-      },
-      {
-        "lat": 10.9816241,
-        "lng": 106.8423557,
-        "address": "48/5 khu phố 10, Khu Phố 6, Tân Phong, Tp. Biên Hòa, Đồng Nai, Vietnam"
-      },
-      {
-        "lat": 12.6797984,
-        "lng": 108.0446364,
-        "address": "Nguyễn Tất Thành, Tp. Buôn Ma Thuột, Đắk Lắk, Vietnam"
-      },
-      {
-        "lat": 12.6523422,
-        "lng": 108.0242795,
-        "address": "558 Lê Duẩn, Ea Tam, Tp. Buôn Ma Thuột, Đắk Lắk, Vietnam"
-      },
-      {
-        "lat": 16.082117,
-        "lng": 108.221385,
-        "address": "5 Đống Đa, Thuận Phước, Q. Hải Châu, Đà Nẵng, Vietnam"
-      },
-      {
-        "lat": 16.0667844,
-        "lng": 108.2114071,
-        "address": "418 Hùng Vương, Thanh Khê, Đà Nẵng, Vietnam"
-      },
-      {
-        "lat": 10.7620331,
-        "lng": 106.6782638,
-        "address": "82 Trần Phú, phường 4, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 16.0552876,
-        "lng": 108.2013468,
-        "address": "Da Nang International Airport (DAD), Duy Tân, Hòa Thuận Tây, Đà Nẵng, Vietnam"
-      },
-      {
-        "lat": 10.035409,
-        "lng": 105.786597,
-        "address": "1 Hòa Bình, Tân An, Ninh Kiều, Cần Thơ, Vietnam"
-      },
-      {
-        "lat": 21.0411384,
-        "lng": 105.8389306,
-        "address": "55 Phan Đình Phùng, Quán Thánh, Ba Đình, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 10.0289107,
-        "lng": 105.7792377,
-        "address": "29 Ba Mươi Tháng Tư, Xuân Khánh, Ninh Kiều, Cần Thơ, Vietnam"
-      },
-      {
-        "lat": 21.1964962,
-        "lng": 106.0878095,
-        "address": "Lý Thường Kiệt, Thị Cầu, Tp. Bắc Ninh, Bắc Ninh, Vietnam"
-      },
-      {
-        "lat": 13.7735767,
-        "lng": 109.2393833,
-        "address": "113B Trần Hưng Đạo, Thành phố Qui Nhơn, Tỉnh Bình Định, Vietnam"
-      },
-      {
-        "lat": 10.9298565,
-        "lng": 108.1055304,
-        "address": "1A Nguyễn Tất Thành, Bình Hưng, Tp. Phan Thiết, Bình Thuận, Vietnam"
-      },
-      {
-        "lat": 10.9550135,
-        "lng": 108.2356169,
-        "address": "152 Nguyễn Đình Chiểu, khu phố 2, Hàm Tiến, Tp. Phan Thiết, Bình Thuận, Vietnam"
-      },
-      {
-        "lat": 10.9428,
-        "lng": 108.298367,
-        "address": "Khu phố 5 Mũi Né, Mũi Né, Tp. Phan Thiết, Bình Thuận, Vietnam"
-      },
-      {
-        "lat": 10.9056421,
-        "lng": 106.7126064,
-        "address": "QL13, Lái Thiêu, Tx. Thuận An, Bình Dương, Vietnam"
-      },
-      {
-        "lat": 10.8982038,
-        "lng": 106.733434,
-        "address": "Đường số 3, Bình Hòa, Tx. Thuận An, Bình Dương, Vietnam"
-      },
-      {
-        "lat": 10.9735293,
-        "lng": 106.7689869,
-        "address": "ĐT743, Thái Hòa, Tx. Tân Uyên, Bình Dương, Vietnam"
-      },
-      {
-        "lat": 10.9424443,
-        "lng": 106.7084841,
-        "address": "QL13, Thuận Giao, Tx. Thuận An, Bình Dương, Vietnam"
-      },
-      {
-        "lat": 10.3900589,
-        "lng": 105.4296948,
-        "address": "19 Trần Hưng Đạo, Mỹ Bình, Tp. Long Xuyên, An Giang, Vietnam"
-      },
-      {
-        "lat": 21.0459609,
-        "lng": 105.800416,
-        "address": "147 Hoàng Quốc Việt, Nghĩa Đô, Cầu Giấy, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.036978,
-        "lng": 105.8484039,
-        "address": "22 Hàng Lược, Hàng Mã, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.035611,
-        "lng": 105.849959,
-        "address": "69 Hàng Đường, Hàng Đào, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0337159,
-        "lng": 105.854142,
-        "address": "27 Hàng Bè, Hàng Bạc, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.2187149,
-        "lng": 105.8041709,
-        "address": "Noi Bai International Airport (HAN), Phú Minh, Sóc Sơn, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 20.9896996,
-        "lng": 105.7947172,
-        "address": "Km 9 Nguyễn Trãi, Trung Văn, Thanh Xuân, Hà Nội 10000, Vietnam"
-      },
-      {
-        "lat": 21.0292642,
-        "lng": 105.7791371,
-        "address": "18 Phạm Hùng, Mỹ Đình 2, Cầu Giấy, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 20.996866,
-        "lng": 105.850069,
-        "address": "512 Bạch Mai, Trương Định, Hai Bà Trưng, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0433529,
-        "lng": 105.8228748,
-        "address": "152 Thụy Khuê, Tây Hồ, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.012471,
-        "lng": 105.808527,
-        "address": "566 Đường Láng, Láng Hạ, Đống Đa, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.046723,
-        "lng": 105.7484312,
-        "address": "Từ Liêm, Hanoi, Vietnam"
-      },
-      {
-        "lat": 21.010744,
-        "lng": 105.818377,
-        "address": "110 Thái Thịnh, Trung Liệt, Đống Đa, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.03035,
-        "lng": 105.8433082,
-        "address": "34B Trần Phú, Điện Biên, Ba Đình, Hà Nội, Vietnam"
-      }
-    ]
-  },
-  {
     "name": "ANZ",
     "image": "anz",
     "list": [
@@ -7945,6 +7509,3217 @@
         "lat": 21.0071232,
         "lng": 106.8266873,
         "address": "Khu vực phúc lợi Công Ty Yazaki, Đông Mai, Yên Hưng, Quảng Ninh"
+      }
+    ]
+  },
+  {
+    "name": "Vietcombank",
+    "image": "vietcombank",
+    "list": [
+      {
+        "lat": 21.025371,
+        "lng": 105.8434331,
+        "address": "83B Lý Thường Kiệt, Hoàn Kiếm"
+      },
+      {
+        "lat": 21.020529,
+        "lng": 105.848129,
+        "address": "32 Quang Trung, Quận Hoàn Kiếm, Hà Nội"
+      },
+      {
+        "lat": 20.9668682,
+        "lng": 105.8266127,
+        "address": "Khu CC2 Bắc Linh Đàm, Quận Hoàng Mai, Hà Nội"
+      },
+      {
+        "lat": 20.9870796,
+        "lng": 105.8634915,
+        "address": "18 Tam Trinh, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "lat": 21.0086297,
+        "lng": 105.8533557,
+        "address": "Số 402 Trần Khát Chân, Quận Hai Bà Trưng"
+      },
+      {
+        "lat": 21.0020054,
+        "lng": 105.8614885,
+        "address": "E6 Quỳnh Mai, Hai Bà Trưng"
+      },
+      {
+        "lat": 21.027389,
+        "lng": 105.89911,
+        "address": "Lô T118 Tầng 1 AEON Long Biên 27 Cổ Linh"
+      },
+      {
+        "lat": 20.9717479,
+        "lng": 105.8440473,
+        "address": "1277 Giải Phóng, P Thịnh Liệt, Q Hoàng Mai"
+      },
+      {
+        "lat": 21.0418025,
+        "lng": 105.835207,
+        "address": "229 Hoàng Hoa Thám, P Ngọc Hà, Q Ba Đình"
+      },
+      {
+        "lat": 21.0043536,
+        "lng": 105.8178627,
+        "address": "95 Đường Láng, P Ngã Tư Sở, Q Đống Đa"
+      },
+      {
+        "lat": 21.027797,
+        "lng": 105.799671,
+        "address": "1194 Đường Láng, P. Láng Thượng, Q. Đống Đa"
+      },
+      {
+        "lat": 21.1265134,
+        "lng": 105.7807177,
+        "address": "KCN Bắc Thăng Long"
+      },
+      {
+        "lat": 21.041001,
+        "lng": 105.844581,
+        "address": "55 Hàng Bún, P Quán Thánh, Q Ba Đình"
+      },
+      {
+        "lat": 21.017458,
+        "lng": 105.8148751,
+        "address": "Số 18 Láng Hạ - Ba Đình"
+      },
+      {
+        "lat": 21.3107657,
+        "lng": 105.6149197,
+        "address": "TTTM Soiva Vĩnh Phúc"
+      },
+      {
+        "lat": 21.3103534,
+        "lng": 105.6236154,
+        "address": "Nguyễn Tất Thành, Khai Quang, TX Vĩnh Yên"
+      },
+      {
+        "lat": 21.2329636,
+        "lng": 105.7147273,
+        "address": "Số 6 đường Hai Bà Trưng TX.Phúc Yên T.Vĩnh Phúc"
+      },
+      {
+        "lat": 21.3103534,
+        "lng": 105.6236154,
+        "address": "Nguyễn Tất Thành, Khai Quang, TX Vĩnh Yên"
+      },
+      {
+        "lat": 10.8265128,
+        "lng": 106.5933352,
+        "address": "Đường số 7, KCN Vĩnh Lộc, P. Bình Hưng Hòa B, Q. Bình Tân"
+      },
+      {
+        "lat": 10.7570133,
+        "lng": 106.6553685,
+        "address": "301 Nguyễn Chí Thanh, P15, Q10"
+      },
+      {
+        "lat": 10.8033995,
+        "lng": 106.6892536,
+        "address": "55B Phan Đăng Lưu - P7"
+      },
+      {
+        "lat": 10.754219,
+        "lng": 106.656904,
+        "address": "399 Hồng Bàng, Phường 14, Quận 5, TP HCM"
+      },
+      {
+        "lat": 10.7779994,
+        "lng": 106.6654648,
+        "address": "138A Tô Hiến Thành, Phường 15, Quận 10, TP HCM"
+      },
+      {
+        "lat": 10.8258611,
+        "lng": 106.6801399,
+        "address": "792 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP HCM"
+      },
+      {
+        "lat": 10.776377,
+        "lng": 106.703574,
+        "address": "19 Công trường Lam Sơn, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7817884,
+        "lng": 106.6633683,
+        "address": "15 Trường Sơn, Phường 15 Quận 10, TP HCM"
+      },
+      {
+        "lat": 10.7899778,
+        "lng": 106.6785039,
+        "address": "Đường ven kênh Nhiêu Lộc, Quận 3, TP HCM"
+      },
+      {
+        "lat": 10.8605077,
+        "lng": 106.7911582,
+        "address": "934 Quốc Lộ 1A, Phường Linh Trung, Quận Thủ Đức, TP HCM"
+      },
+      {
+        "lat": 10.7609406,
+        "lng": 106.7102879,
+        "address": "300A Nguyễn Tất Thành, Quận 4, TP HCM"
+      },
+      {
+        "lat": 10.7695887,
+        "lng": 106.6967672,
+        "address": "27-33 Trần Hưng Đạo, Phường Nguyễn Thái Bình, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7680285,
+        "lng": 106.6919369,
+        "address": "275A Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.79955,
+        "lng": 106.6271,
+        "address": "108B Nguyễn Qúy Anh, Quận Tân Phú, TP HCM"
+      },
+      {
+        "lat": 10.7826262,
+        "lng": 106.7011016,
+        "address": "31 Lê Duẩn, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7772089,
+        "lng": 106.7017936,
+        "address": "35bis Lê Thánh Tôn, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7728505,
+        "lng": 106.6967947,
+        "address": "204-206 Lê Thánh Tôn, Phường Bến Thành, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7641659,
+        "lng": 106.6918963,
+        "address": "148 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7712042,
+        "lng": 106.7693556,
+        "address": "990 Nguyễn Thị Định, Quận 2, TP HCM"
+      },
+      {
+        "lat": 10.863392,
+        "lng": 106.7615546,
+        "address": "Khu phố 6, Phường Linh Trung, Quận Thủ Đức, TP HCM"
+      },
+      {
+        "lat": 10.73268,
+        "lng": 106.699902,
+        "address": "19 Nguyễn Hữu Thọ, Quận 7, TP HCM"
+      },
+      {
+        "lat": 10.8186378,
+        "lng": 106.6279086,
+        "address": "36 Tây Thạnh, Phường Tây Thạnh, Quận Tân Phú, TP HCM"
+      },
+      {
+        "lat": 10.781454,
+        "lng": 106.630399,
+        "address": "67 - 67A Nguyễn Sơn, P Phú Thành, Q Tân Phú"
+      },
+      {
+        "lat": 10.7206567,
+        "lng": 106.7019931,
+        "address": "673 Nguyễn Hữu Thọ, Phước Kiển, H. Nhà Bè"
+      },
+      {
+        "lat": 10.7661079,
+        "lng": 106.70528,
+        "address": "49 Đoàn Nhữ Hài, P12, Q4"
+      },
+      {
+        "lat": 10.7568088,
+        "lng": 106.6591876,
+        "address": "201B Nguyễn Chí Thanh, P12, Q5"
+      },
+      {
+        "lat": 10.8023238,
+        "lng": 106.640237,
+        "address": "364 Cộng Hòa, P13, Q Tân Bình"
+      },
+      {
+        "lat": 10.8017161,
+        "lng": 106.6179324,
+        "address": "30 Bờ Bao Tân Thắng, Quận Tân Phú, TP HCM"
+      },
+      {
+        "lat": 10.8051536,
+        "lng": 106.7388211,
+        "address": "14 Thảo Điền, Thảo Điền, Quận 2, HCM"
+      },
+      {
+        "lat": 11.9332882,
+        "lng": 108.4291905,
+        "address": "01 Lê Hồng Phong, P4, TP Đà Lạt"
+      },
+      {
+        "lat": 10.6440563,
+        "lng": 106.4893919,
+        "address": "126 Nguyễn Hữu Thọ, TT Bến Lức, H Bến Lức, Long An"
+      },
+      {
+        "lat": 10.2528188,
+        "lng": 106.3710786,
+        "address": "Đường Thống nhất, Khu phố 4"
+      },
+      {
+        "lat": 10.9079199,
+        "lng": 106.702137,
+        "address": "Khu phố Phú Trường, TT Phú Long"
+      },
+      {
+        "lat": 10.9301742,
+        "lng": 108.1047869,
+        "address": "318 Trần Hưng Đạo, P Đức Thắng, TP.Phan Thiết"
+      },
+      {
+        "lat": 20.9501495,
+        "lng": 106.3428703,
+        "address": "Nhị Châu, TP Hải Dương"
+      },
+      {
+        "lat": 20.9619055,
+        "lng": 106.3713938,
+        "address": "Khu công nghiệp Nam Sách"
+      },
+      {
+        "lat": 21.0340126,
+        "lng": 106.5878723,
+        "address": "TT Minh Tân, H Kinh Môn"
+      },
+      {
+        "lat": 20.7328025,
+        "lng": 106.403782,
+        "address": "TT Ninh Giang, Ninh Giang, Hải Dương"
+      },
+      {
+        "lat": 20.9328836,
+        "lng": 106.1918133,
+        "address": "KCN Phúc Điền, huyện Cẩm Giàng"
+      },
+      {
+        "lat": 20.9361856,
+        "lng": 106.29441,
+        "address": "242 Nguyễn Lương Bằng, TP Hải Dương"
+      },
+      {
+        "lat": 21.0559122,
+        "lng": 106.3811677,
+        "address": "Tân Dân, Sao Đỏ, Chí Linh"
+      },
+      {
+        "lat": 20.9427335,
+        "lng": 106.2227968,
+        "address": "Tân Trường, Huyện Cẩm Giàng"
+      },
+      {
+        "lat": 20.9118267,
+        "lng": 106.1481261,
+        "address": "Số 3-5 Phạm Ngũ Lão - TT Kẻ Sặt, Huyện Bình Giang"
+      },
+      {
+        "lat": 20.9885788,
+        "lng": 105.9876149,
+        "address": "TT Như Quỳnh, Văn Lâm, Hưng Yên"
+      },
+      {
+        "lat": 20.9329447,
+        "lng": 106.02943,
+        "address": "Xã Giai Phạm, Huyện Yên Mỹ"
+      },
+      {
+        "lat": 20.9567952,
+        "lng": 106.0256577,
+        "address": "Đường E1 - KCN Phố Nối A"
+      },
+      {
+        "lat": 20.838936,
+        "lng": 106.0081819,
+        "address": "Dân Tiến, Khoái Châu, Hưng Yên"
+      },
+      {
+        "lat": 20.821214,
+        "lng": 106.542355,
+        "address": "Km35 Quốc Looj, Huyện An Lão, TP Hải Phòng"
+      },
+      {
+        "lat": 20.8933737,
+        "lng": 106.5952661,
+        "address": "KCN Nomura, Quận An Dương, TP Hải Phòng"
+      },
+      {
+        "lat": 20.8933737,
+        "lng": 106.5952661,
+        "address": "KCN Nomura, Phường Quán Toan, Quận An Dương, TP Hải Phòng"
+      },
+      {
+        "lat": 20.857602,
+        "lng": 106.6831459,
+        "address": "23 Trần Hưng Đạo, Quận Hồng Bàng, TP Hải Phòng"
+      },
+      {
+        "lat": 20.4460313,
+        "lng": 106.3368707,
+        "address": "456 Lý Bôn, P. Tiền Phong, TP Thái Bình"
+      },
+      {
+        "lat": 20.5192058,
+        "lng": 106.3633039,
+        "address": "Cụm CN Đông Xuân-Xã Đông Xuân-Đông Hưng"
+      },
+      {
+        "lat": 21.0388168,
+        "lng": 106.7355271,
+        "address": "Phường Phương Đông"
+      },
+      {
+        "lat": 20.9484916,
+        "lng": 107.1073912,
+        "address": "Đường Nguyễn Văn Cừ, P Hồng Hải, TP Hạ Long"
+      },
+      {
+        "lat": 18.320858,
+        "lng": 105.9116262,
+        "address": "497 Hà Huy Tập, TP Hà Tĩnh"
+      },
+      {
+        "lat": 18.340521,
+        "lng": 105.907402,
+        "address": "Thị trấn Cày Thạch Hà"
+      },
+      {
+        "lat": 16.0452185,
+        "lng": 108.2096586,
+        "address": "407 Trưng Nữ Vương"
+      },
+      {
+        "lat": 16.0748779,
+        "lng": 108.230855,
+        "address": "445 Ngô Quyền, Q.Sơn Trà"
+      },
+      {
+        "lat": 16.046857,
+        "lng": 108.211392,
+        "address": "395 Trưng Nữ Vương, Q.Hải Châu"
+      },
+      {
+        "lat": 16.042477,
+        "lng": 108.241186,
+        "address": "137 Ngũ Hành Sơn Đà Nẵng"
+      },
+      {
+        "lat": 15.8784339,
+        "lng": 108.3307715,
+        "address": "13 Phan Châu Trinh, Hội An"
+      },
+      {
+        "lat": 15.892653,
+        "lng": 108.2472042,
+        "address": "95 Trần Nhân Tông,Điện Bàn, Quảng Nam"
+      },
+      {
+        "lat": 15.8196874,
+        "lng": 108.2606686,
+        "address": "TT Nam Phước, Duy Xuyên"
+      },
+      {
+        "lat": 15.4750772,
+        "lng": 108.5760007,
+        "address": "Xã Tam Anh, Núi Thành, Quảng Nam"
+      },
+      {
+        "lat": 16.3869801,
+        "lng": 107.6984879,
+        "address": "Khu 6, Phú Bài, Thị xã Hương Thủy, TT Huế"
+      },
+      {
+        "lat": 16.4411867,
+        "lng": 107.620996,
+        "address": "Thủy Dương, Hương Thủy, TT Huế"
+      },
+      {
+        "lat": 16.4746029,
+        "lng": 107.571328,
+        "address": "01 La Sơn Phu Tử, TP Huế"
+      },
+      {
+        "lat": 17.7633802,
+        "lng": 106.4127513,
+        "address": "39 Hùng Vương, TT Ba Đồn, H Quảng Trạch"
+      },
+      {
+        "lat": 17.467376,
+        "lng": 106.625486,
+        "address": "20 Quách Xuân Kỳ, Đồng Hới, Quảng Bình"
+      },
+      {
+        "lat": 15.1207949,
+        "lng": 108.821526,
+        "address": "110 Lê Trung Đình, P Nghĩa Chánh, TP Quảng Ngãi"
+      },
+      {
+        "lat": 15.1210653,
+        "lng": 108.7884799,
+        "address": "345 Đường Hùng Vương, P Trần Phú, TP Quảng Ngãi"
+      },
+      {
+        "lat": 13.7765803,
+        "lng": 109.2266005,
+        "address": "199 Lê Hồng Phong, QN Bình Định"
+      },
+      {
+        "lat": 13.7528399,
+        "lng": 109.209705,
+        "address": "Ki ốt số 5 Khu Bến xe, Phường Ghềnh Ráng"
+      },
+      {
+        "lat": 10.0126523,
+        "lng": 105.7583546,
+        "address": "143 Đường 30/4, Q Ninh Kiều, TP Cần Thơ"
+      },
+      {
+        "lat": 10.1097069,
+        "lng": 105.6228481,
+        "address": "09 Quốc lộ 91, phường Châu Văn Liêm, quận Ô Môn"
+      },
+      {
+        "lat": 10.1513974,
+        "lng": 105.571897,
+        "address": "QL 91 Phường Long Hưng"
+      },
+      {
+        "lat": 20.5410643,
+        "lng": 105.9222288,
+        "address": "01 đường Lê Lợi"
+      },
+      {
+        "lat": 10.3916629,
+        "lng": 107.0995726,
+        "address": "65A - 30/04 Phường Thắng Nhất, TP Vũng Tàu"
+      },
+      {
+        "lat": 12.2480883,
+        "lng": 109.195995,
+        "address": "20 Trần Phú, TP Nha Trang"
+      },
+      {
+        "lat": 10.9735293,
+        "lng": 106.7689869,
+        "address": "Ấp Tân Mỹ, Thái Hòa, Tân Uyên"
+      },
+      {
+        "lat": 11.0689943,
+        "lng": 106.6703963,
+        "address": "P.Hòa Phú, TP.Thủ Dầu Một"
+      },
+      {
+        "lat": 10.9815978,
+        "lng": 106.6536908,
+        "address": "Đường CMT8, Thủ Dầu Một"
+      },
+      {
+        "lat": 10.9855305,
+        "lng": 106.7190811,
+        "address": "Đường DT743, Xã Bình Chuẩn, H Thuận An"
+      },
+      {
+        "lat": 10.9597473,
+        "lng": 106.7211367,
+        "address": "Xã Thuận Giao, H Thuận An"
+      },
+      {
+        "lat": 11.0186124,
+        "lng": 106.6771477,
+        "address": "Đường Huỳnh Văn Lũy, P Phú Mỹ, Thủ Dầu Một"
+      },
+      {
+        "lat": 10.8982038,
+        "lng": 106.733434,
+        "address": "Lô 1,2,3,4, KCN Đồng An, Thuận An"
+      },
+      {
+        "lat": 10.9190028,
+        "lng": 106.7821657,
+        "address": "KCN Tân Đông HIệp B"
+      },
+      {
+        "lat": 10.89554,
+        "lng": 106.753361,
+        "address": "Số 8 Đại lộ Thống Nhất, KCN Sóng Thần 2"
+      },
+      {
+        "lat": 10.9798623,
+        "lng": 106.7185046,
+        "address": "Cty Sung Jin Ấp Bình Phú X.Bình Chuẩn"
+      },
+      {
+        "lat": 10.9821287,
+        "lng": 106.7283596,
+        "address": "9/17 ĐT 743 Bình Chuẩn"
+      },
+      {
+        "lat": 10.9113083,
+        "lng": 106.7130675,
+        "address": "Số 79/8, Khu phố Bình Đường 2, Phường An Bình, Thị xã Dĩ An"
+      },
+      {
+        "lat": 10.9193616,
+        "lng": 106.8719812,
+        "address": "Cty Taekwang, KCN II"
+      },
+      {
+        "lat": 10.8407073,
+        "lng": 106.9805838,
+        "address": "KCN Long Đức, Long Thành"
+      },
+      {
+        "lat": 10.9508217,
+        "lng": 106.8253645,
+        "address": "116-118 Đường 30/4, P.Quyết Thắng, Biên Hòa"
+      },
+      {
+        "lat": 10.9578229,
+        "lng": 106.8401514,
+        "address": "346A Phạm Văn Thuận, P.Thống Nhất, Biên Hòa, Đồng Nai"
+      },
+      {
+        "lat": 9.8664517,
+        "lng": 105.1354532,
+        "address": "Số 434, Quốc lộ 63, Xã Bình An, Huyện Châu Thành, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.382668,
+        "lng": 105.4420757,
+        "address": "12 Nguyễn Huệ, P Mỹ Long, TP Long Xuyên"
+      },
+      {
+        "lat": 10.4585443,
+        "lng": 105.6469911,
+        "address": "66 QL30, P Mỹ Phú, TP Cao Lãnh"
+      },
+      {
+        "lat": 12.6935823,
+        "lng": 108.0653054,
+        "address": "30 Nguyễn Chí Thanh, P Tân An, Buôn Ma Thuột"
+      },
+      {
+        "lat": 12.6829463,
+        "lng": 108.0494523,
+        "address": "31 Nguyễn Tất Thành, P. Thắng Lợi, TP. Buôn Ma Thuột"
+      },
+      {
+        "lat": 13.9775,
+        "lng": 107.995793,
+        "address": "96 Trần Phú, P.Diên Hồng, Pleiku"
+      },
+      {
+        "lat": 13.9768378,
+        "lng": 108.005843,
+        "address": "33 Quang Trung, P. Hội Thương, TP Pleiku"
+      },
+      {
+        "lat": 21.1718017,
+        "lng": 106.0545961,
+        "address": "Nguyễn Cao, X Võ Cường, TP Bắc Ninh"
+      },
+      {
+        "lat": 21.1860724,
+        "lng": 105.9852143,
+        "address": "KCN Yên Phong, X Long Châu, H Yên Phong"
+      },
+      {
+        "lat": 21.1447549,
+        "lng": 106.0743178,
+        "address": "KCN Hạp Lĩnh, TP Bắc Ninh"
+      },
+      {
+        "lat": 21.1923746,
+        "lng": 106.0054761,
+        "address": "KCN Yên Phong, Yên Phong, Bắc Ninh"
+      },
+      {
+        "lat": 21.2027544,
+        "lng": 106.0787142,
+        "address": "P. Đáp Cầu, TP Bắc Ninh"
+      },
+      {
+        "lat": 16.8158806,
+        "lng": 107.1093569,
+        "address": "147 Lê Duẩn, TP Đông Hà"
+      },
+      {
+        "lat": 16.8228671,
+        "lng": 107.0994824,
+        "address": "02 Trần Hưng Đạo, TP Đông Hà"
+      },
+      {
+        "lat": 10.8034549,
+        "lng": 106.7209947,
+        "address": "288 đường 30/4,P3"
+      },
+      {
+        "lat": 11.5565661,
+        "lng": 106.1624094,
+        "address": "119 Trần Văn Trà, Khu phố 2, Thị trấn Tân Châu"
+      },
+      {
+        "lat": 13.0793749,
+        "lng": 109.2924906,
+        "address": "Thôn Đông Phước, X Hòa An, H Phú Hòa"
+      },
+      {
+        "lat": 21.25474,
+        "lng": 106.126945,
+        "address": "KCN Đình Trám, xã Me Điền, H Việt Yên"
+      },
+      {
+        "lat": 21.2814468,
+        "lng": 106.1990153,
+        "address": "Phường Ngô Quyền"
+      },
+      {
+        "lat": 19.8118232,
+        "lng": 105.8111509,
+        "address": "Xã Đông Hải, TP Thanh Hóa"
+      },
+      {
+        "lat": 11.5988467,
+        "lng": 108.9501258,
+        "address": "TTTM Thanh Hà, TP Phan Rang, Ninh Thuận"
+      },
+      {
+        "lat": 18.826333,
+        "lng": 105.6661806,
+        "address": "Lô C28, khu C - KCN Nam Cấm, Nghi Lộc , Nghệ An"
+      },
+      {
+        "lat": 18.9751942,
+        "lng": 105.6020348,
+        "address": "Khối 4, Thị trấn Diễn Châu, Huyện Diễn Châu"
+      },
+      {
+        "lat": 20.3379807,
+        "lng": 105.9211544,
+        "address": "Lô C3.6 - KCN Gián Khẩu"
+      },
+      {
+        "lat": 20.2877399,
+        "lng": 106.1757379,
+        "address": "xã Đông Sơn, H Nam Trực, Nam Định"
+      },
+      {
+        "lat": 21.4292365,
+        "lng": 105.8941643,
+        "address": "KCN Yên Bình, H Phổ Yên, Thái Nguyên"
+      },
+      {
+        "lat": 21.8524158,
+        "lng": 106.7581548,
+        "address": "Số 49 Lê Lợi, P Vĩnh Trại, TP Lạng Sơn"
+      },
+      {
+        "lat": 22.4423213,
+        "lng": 103.9927251,
+        "address": "Phường Nam Cường, TP Lào Cai, Tỉnh Lào Cai"
+      },
+      {
+        "lat": 11.5278634,
+        "lng": 106.8940588,
+        "address": "744 đường Phú Riềng Đỏ phường Tân Xuân TX Đồng Xoài Bình Phước"
+      },
+      {
+        "lat": 21.0337191,
+        "lng": 105.8060673,
+        "address": "39 Đào Tấn, P Ngọc Khánh, Q Ba Đình"
+      },
+      {
+        "lat": 21.0524479,
+        "lng": 105.837777,
+        "address": "62 Yên Phụ, P Yên Phụ, Q Tây Hồ"
+      },
+      {
+        "lat": 21.016953,
+        "lng": 105.783995,
+        "address": "Lô E6, đường Phạm Hùng"
+      },
+      {
+        "lat": 21.021417,
+        "lng": 105.937617,
+        "address": "Bưu điện Trâu Quỳ, Thị trấn Trâu Quỳ, H. Gia Lâm"
+      },
+      {
+        "lat": 21.0308204,
+        "lng": 105.9123018,
+        "address": "765 Nguyễn Văn Linh, Long Biên, Hà Nội"
+      },
+      {
+        "lat": 21.0505313,
+        "lng": 105.8846814,
+        "address": "564 Nguyễn Văn Cừ - Long Biên"
+      },
+      {
+        "lat": 21.0367828,
+        "lng": 105.9007318,
+        "address": "Số 07 - 09 Nguyễn Văn Linh, Quận Long Biên"
+      },
+      {
+        "lat": 21.142584,
+        "lng": 105.8672237,
+        "address": "Tổ 37, Thị Trấn Đông Anh, Hà Nội"
+      },
+      {
+        "lat": 21.1393274,
+        "lng": 105.8456064,
+        "address": "Tổ 6 Thị Trấn Đông Anh Hà Nội"
+      },
+      {
+        "lat": 21.127004,
+        "lng": 105.844191,
+        "address": "Km10 QL 3, Cầu Đôi, Uy Nỗ, H Đông Anh"
+      },
+      {
+        "lat": 20.995116,
+        "lng": 105.808985,
+        "address": "235 Nguyễn Trãi Thanh Xuân Hà Nội"
+      },
+      {
+        "lat": 21.1855791,
+        "lng": 105.7804001,
+        "address": "Lô 41B, KCN Quang Minh, Huyện Mê Linh, Hà Nội"
+      },
+      {
+        "lat": 21.0170899,
+        "lng": 105.8238592,
+        "address": "36 Hoàng Cầu, P Ô Chợ Dừa, Q Đống Đa, Hà Nội"
+      },
+      {
+        "lat": 21.019539,
+        "lng": 105.845615,
+        "address": "68 Nguyễn Du, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "lat": 21.0139957,
+        "lng": 105.7841677,
+        "address": "Số 8, Tòa Nhà TVAd, Phạm Hùng, Quận Nam Từ Liêm, Hà Nội"
+      },
+      {
+        "lat": 20.9870796,
+        "lng": 105.8634915,
+        "address": "18 Tam Trinh, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "lat": 20.857151,
+        "lng": 106.691108,
+        "address": "120 Lê Lợi"
+      },
+      {
+        "lat": 20.98438,
+        "lng": 105.8334473,
+        "address": "Lô CN2- Khu đô thị Định Công, Q Hoàng Mai"
+      },
+      {
+        "lat": 21.0207768,
+        "lng": 105.8564367,
+        "address": "23 Phan Chu Trinh, P. Phan Chu Chinh, Q. Hoàn Kiếm"
+      },
+      {
+        "lat": 21.027389,
+        "lng": 105.89911,
+        "address": "Lô T118 Tầng 1 AEON Long Biên 27 Cổ Linh"
+      },
+      {
+        "lat": 21.027389,
+        "lng": 105.89911,
+        "address": "Lô T118 Tầng 1 AEON Long Biên 27 Cổ Linh"
+      },
+      {
+        "lat": 21.027389,
+        "lng": 105.89911,
+        "address": "Lô T118 Tầng 1 AEON Long Biên 27 Cổ Linh"
+      },
+      {
+        "lat": 21.027389,
+        "lng": 105.89911,
+        "address": "Lô T118 Tầng 1 AEON Long Biên 27 Cổ Linh"
+      },
+      {
+        "lat": 21.0281928,
+        "lng": 105.8562795,
+        "address": "22 Ngô Quyền, P Tràng Tiền, Q Hoàn Kiếm"
+      },
+      {
+        "lat": 21.02034,
+        "lng": 105.854586,
+        "address": "28 Trần Hưng Đạo, P Phan Chu Trinh, Q Hoàn Kiếm"
+      },
+      {
+        "lat": 21.02083,
+        "lng": 105.852249,
+        "address": "49 Hàng Bài, P Hàng Bài, Q Hoàn Kiếm"
+      },
+      {
+        "lat": 21.1265134,
+        "lng": 105.7807177,
+        "address": "KCN Bắc Thăng Long"
+      },
+      {
+        "lat": 21.1629459,
+        "lng": 105.7794719,
+        "address": "KCN Bắc Thăng Long, Đông Anh"
+      },
+      {
+        "lat": 21.0229636,
+        "lng": 105.8012108,
+        "address": "91 Chùa Láng, P Láng Thượng, Q Đống Đa"
+      },
+      {
+        "lat": 21.044526,
+        "lng": 105.882441,
+        "address": "200 Nguyễn Sơn"
+      },
+      {
+        "lat": 21.0493514,
+        "lng": 105.740608,
+        "address": "KCN Từ Liêm, H Từ Liêm"
+      },
+      {
+        "lat": 21.0155301,
+        "lng": 105.8052036,
+        "address": "177 Trần Duy Hưng,Cầu Giấy,Hà Nội"
+      },
+      {
+        "lat": 21.010744,
+        "lng": 105.818377,
+        "address": "110 Thái Thịnh, P Trung Liệt, Q Đống Đa"
+      },
+      {
+        "lat": 21.0584486,
+        "lng": 105.8316429,
+        "address": "1A Nghi Tàm, P Quảng An, Q Tây Hồ"
+      },
+      {
+        "lat": 21.0863915,
+        "lng": 105.6649737,
+        "address": "Số 7 Phan Đình Phùng, TT Phùng, H Đan Phượng"
+      },
+      {
+        "lat": 21.044526,
+        "lng": 105.882441,
+        "address": "200 Nguyễn Sơn, P Bồ Đề, Q Long Biên"
+      },
+      {
+        "lat": 21.0211506,
+        "lng": 105.8201716,
+        "address": "12B Tổ 90, P Ô Chợ Dừa, Q Đống Đa"
+      },
+      {
+        "lat": 21.2428157,
+        "lng": 105.843708,
+        "address": "Xã Tiên Dược Sóc Sơn Hà Nội"
+      },
+      {
+        "lat": 21.0077114,
+        "lng": 105.7824747,
+        "address": "Số 8 Nguyễn Đức Dục - Nam Từ Liêm - Hà Nội"
+      },
+      {
+        "lat": 21.043131,
+        "lng": 105.7811985,
+        "address": "30 Phạm Văn Đồng - Cầu Giấy - HN"
+      },
+      {
+        "lat": 21.0433529,
+        "lng": 105.8228748,
+        "address": "152 Thụy Khuê - Hà Nội"
+      },
+      {
+        "lat": 20.9722595,
+        "lng": 105.7573986,
+        "address": "CT1 KĐT Mỗ Lao Hà Đông"
+      },
+      {
+        "lat": 21.0360605,
+        "lng": 105.7833056,
+        "address": "239 Xuân Thủy, Cầu Giấy"
+      },
+      {
+        "lat": 21.0155342,
+        "lng": 105.8052081,
+        "address": "Số 222 Trần Duy Hưng, Cầu Giấy"
+      },
+      {
+        "lat": 21.0308051,
+        "lng": 105.7871575,
+        "address": "Số 2 Duy Tân, Cầu Giấy"
+      },
+      {
+        "lat": 21.0059804,
+        "lng": 105.8053619,
+        "address": "Nhà 18T2 KĐT Trung Hòa - Nhân Chính, Lê Văn Lương, Q Thanh Xuân"
+      },
+      {
+        "lat": 21.0321683,
+        "lng": 105.8124265,
+        "address": "54 Liễu Giai, Q Ba Đình"
+      },
+      {
+        "lat": 20.99243,
+        "lng": 105.804746,
+        "address": "Số 448-450 Nguyễn Trãi, Thanh Xuân, Hà Nội"
+      },
+      {
+        "lat": 21.2582211,
+        "lng": 105.6628933,
+        "address": "Khu CN Bình Xuyên, Hương Canh, H Bình Xuyên"
+      },
+      {
+        "lat": 21.339289,
+        "lng": 105.675816,
+        "address": "Cổng công ty TNHH SEKONICK Vina-KCN bá thiện 2"
+      },
+      {
+        "lat": 21.2383509,
+        "lng": 105.5855438,
+        "address": "Thị trấn Yên Lạc, Vĩnh Phúc"
+      },
+      {
+        "lat": 21.3151423,
+        "lng": 105.6209546,
+        "address": "Tôn Đức Thắng, Khai Quang, TX Vĩnh Yên"
+      },
+      {
+        "lat": 21.3116833,
+        "lng": 105.6143342,
+        "address": "392A Mê Linh, Khai Quang, Vĩnh Yên"
+      },
+      {
+        "lat": 10.802477,
+        "lng": 106.591193,
+        "address": "Đường Nguyễn Thị Tú,P.Bình Hưng Hòa B"
+      },
+      {
+        "lat": 10.8368216,
+        "lng": 106.6192055,
+        "address": "110 Trường Chinh, P. Tân Hưng Thuận, Q12"
+      },
+      {
+        "lat": 10.775504,
+        "lng": 106.686328,
+        "address": "76 Cách Mạng Tháng Tám P6 Q3 HCM"
+      },
+      {
+        "lat": 10.7736489,
+        "lng": 106.6470592,
+        "address": "479-481-483 Lạc Long Quân, P5, Q11"
+      },
+      {
+        "lat": 10.7695894,
+        "lng": 106.6884208,
+        "address": "69 Bùi Thị Xuân, P.PNL, Q1"
+      },
+      {
+        "lat": 10.8296916,
+        "lng": 106.590085,
+        "address": "Lô c45/I đường số 7, KCN Vĩnh Lộc, H Bình Chánh"
+      },
+      {
+        "lat": 10.8321932,
+        "lng": 106.6102195,
+        "address": "312 - 314 Phan Văn Hớn, P Tân Thời Nhất, Q12"
+      },
+      {
+        "lat": 10.7511996,
+        "lng": 106.6564781,
+        "address": "280-282 Hải Thượng Lãn Ông, Quận 5"
+      },
+      {
+        "lat": 10.778192,
+        "lng": 106.655101,
+        "address": "2-4 Lý Thường Kiệt, Q.Tân Bình"
+      },
+      {
+        "lat": 10.7611947,
+        "lng": 106.6685117,
+        "address": "279 Nguyễn Tri Phương, P5, Q10"
+      },
+      {
+        "lat": 10.8098944,
+        "lng": 106.6925508,
+        "address": "239 Lê Quang Định - P.7 - Q.Bình Thạnh"
+      },
+      {
+        "lat": 10.8236,
+        "lng": 106.691211,
+        "address": "366a33 Phan Văn Trị P.5"
+      },
+      {
+        "lat": 10.774643,
+        "lng": 106.70347,
+        "address": "68 Nguyễn Huệ, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.8119115,
+        "lng": 106.6958895,
+        "address": "272A Nơ Trang Long, Phường 12, Quận Bình Thạnh, TP HCM"
+      },
+      {
+        "lat": 10.8298583,
+        "lng": 106.6808445,
+        "address": "917 Phan Văn Trị, Phường 7, Quận Gò Vấp, TP HCM"
+      },
+      {
+        "lat": 10.7444597,
+        "lng": 106.6562468,
+        "address": "432 Tùng Thiện Vương, Phường 12, Quận 8, TP HCM"
+      },
+      {
+        "lat": 10.7795774,
+        "lng": 106.6312378,
+        "address": "212 Thoại Ngọc Hầu, Quận Tân Phú, TP HCM"
+      },
+      {
+        "lat": 10.7372288,
+        "lng": 106.7253101,
+        "address": "99 Nguyễn Thị Thập, P.Tân Phú, Quận 11, TP HCM"
+      },
+      {
+        "lat": 10.7793131,
+        "lng": 106.6990862,
+        "address": "Số 02 Công xã Pari, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.8849182,
+        "lng": 106.6481059,
+        "address": "Đường Lê Văn Khương, Phường Thới An, Quận 12, TP HCM"
+      },
+      {
+        "lat": 10.7847384,
+        "lng": 106.6401947,
+        "address": "58 Thoại Ngọc Hầu, Phường Hòa Thạnh, Quận Tân Phú, TP HCM"
+      },
+      {
+        "lat": 10.7998384,
+        "lng": 106.6675021,
+        "address": "243B Hoàng Văn Thụ, Phường 1, Quận Tân Bình, TP HCM"
+      },
+      {
+        "lat": 10.7443289,
+        "lng": 106.6550428,
+        "address": "40-54 Tuy Lý Vương, Phường 13, Quận 8, TP HCM"
+      },
+      {
+        "lat": 10.7675101,
+        "lng": 106.6862473,
+        "address": "189C Cống Quỳnh, Phường Nguyễn Cư Trinh, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7704641,
+        "lng": 106.7047882,
+        "address": "36 Tôn Thất Đạm, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7293386,
+        "lng": 106.6942863,
+        "address": "702 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP HCM"
+      },
+      {
+        "lat": 10.7982178,
+        "lng": 106.6591174,
+        "address": "431A Hoàng Văn Thụ, Phường 4, Quận Tân Bình, TP HCM"
+      },
+      {
+        "lat": 10.780781,
+        "lng": 106.6984517,
+        "address": "34 Lê Duẩn, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.796542,
+        "lng": 106.673753,
+        "address": "251 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận, TP HCM"
+      },
+      {
+        "lat": 10.777891,
+        "lng": 106.703513,
+        "address": "101 Hai Bà Trưng, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7754461,
+        "lng": 106.7038779,
+        "address": "88 Đồng Khởi, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.8607552,
+        "lng": 106.7192924,
+        "address": "40/32 Quốc Lộ 13, Quận Thủ Đức, TP HCM"
+      },
+      {
+        "lat": 10.798719,
+        "lng": 106.740514,
+        "address": "Lô B, Khu Đô thị mới An Phú, Quận 2, TP HCM"
+      },
+      {
+        "lat": 10.7926779,
+        "lng": 106.7114191,
+        "address": "69 Ngô Tất Tố, Phường 21, Quận Bình Thạnh, TP HCM"
+      },
+      {
+        "lat": 10.8499194,
+        "lng": 106.7688863,
+        "address": "307-309 Võ Văn Ngân, Quận Thủ Đức, TP HCM"
+      },
+      {
+        "lat": 10.7996213,
+        "lng": 106.6733196,
+        "address": "193 Hoàng Văn Thụ, Phường 3, Quận Phú Nhuận, TP HCM"
+      },
+      {
+        "lat": 10.7745141,
+        "lng": 106.6864913,
+        "address": "79 Nguyễn Đình Chiểu, Quận 3, TP HCM"
+      },
+      {
+        "lat": 10.7834808,
+        "lng": 106.692708,
+        "address": "135 Pasteur, Phường 6, Quận 3, TP HCM"
+      },
+      {
+        "lat": 10.764555,
+        "lng": 106.6475169,
+        "address": "323 - 325 Lãnh Bình Thăng, P8, Q11"
+      },
+      {
+        "lat": 10.6371494,
+        "lng": 106.7472136,
+        "address": "KCN Hiệp Phước , Nhà Bè , HCM"
+      },
+      {
+        "lat": 10.8012505,
+        "lng": 106.7437428,
+        "address": "56 Song Hành, P.An Phú, Q2"
+      },
+      {
+        "lat": 10.759629,
+        "lng": 106.651815,
+        "address": "1166 Đường 3/2 P12, Q11"
+      },
+      {
+        "lat": 10.755404,
+        "lng": 106.663073,
+        "address": "217 Hồng Bàng, P11, Q5"
+      },
+      {
+        "lat": 10.766301,
+        "lng": 106.6734543,
+        "address": "63 - 65 Ngo Gia Tự P2 Q10 HCM"
+      },
+      {
+        "lat": 10.7866202,
+        "lng": 106.6366411,
+        "address": "789 Lũy Bán Bích, P Tân Thành, Q Tân Phú"
+      },
+      {
+        "lat": 10.7858825,
+        "lng": 106.6538979,
+        "address": "456 Lý Thường Kiêt, P7, Q Tân Bình"
+      },
+      {
+        "lat": 10.782955,
+        "lng": 106.697671,
+        "address": "139 Hai Bà Trưng Q3 HCM"
+      },
+      {
+        "lat": 10.7857759,
+        "lng": 106.6980264,
+        "address": "43 Mạc Đỉnh Chi, P Dakao, Q1"
+      },
+      {
+        "lat": 10.7848283,
+        "lng": 106.6876467,
+        "address": "83 Trần Quốc Toản, Phường 7, Quận 3, TP HCM"
+      },
+      {
+        "lat": 10.786707,
+        "lng": 106.691794,
+        "address": "74 Phạm NgọcThạch, P6, Q3"
+      },
+      {
+        "lat": 10.8496813,
+        "lng": 106.7997627,
+        "address": "Lô II N1 KCN Cao Quận 9 TP.HCm"
+      },
+      {
+        "lat": 10.8496813,
+        "lng": 106.7997627,
+        "address": "Khu CN cao, Q9"
+      },
+      {
+        "lat": 10.8683938,
+        "lng": 106.7691712,
+        "address": "KCX Linh Trung 1, P Linh Trung, Q Thủ Đức"
+      },
+      {
+        "lat": 10.8496813,
+        "lng": 106.7997627,
+        "address": "Khu CN cao, Q9"
+      },
+      {
+        "lat": 11.9398733,
+        "lng": 108.4356167,
+        "address": "42 Nguyễn Chí Thanh, P1, TP Đà Lạt"
+      },
+      {
+        "lat": 11.7278023,
+        "lng": 108.3725152,
+        "address": "101 - 103 Trần Hưng Đạo, TT Liên Nghĩa, H Đức Trọng"
+      },
+      {
+        "lat": 11.943498,
+        "lng": 108.4357892,
+        "address": "27 khu Hòa Bình, P1, TP Đà Lạt"
+      },
+      {
+        "lat": 11.957673,
+        "lng": 108.4425546,
+        "address": "01 Phù Đổng Thiên Vương, P8, TP Đà Lạt"
+      },
+      {
+        "lat": 10.6355762,
+        "lng": 106.6598224,
+        "address": "KCN Tân Kim, Huyện Cần Giuộc"
+      },
+      {
+        "lat": 10.5035175,
+        "lng": 106.6055724,
+        "address": "9A - 10A KP Thương Mại Khang Gia, TT Cần Đước, Huyện Cần Đước"
+      },
+      {
+        "lat": 10.5392144,
+        "lng": 106.4124368,
+        "address": "02 Ngô Quyền, P1, TP Tân An"
+      },
+      {
+        "lat": 10.9291267,
+        "lng": 108.1070469,
+        "address": "01 Nguyễn Tất Thành, Phan Thiết"
+      },
+      {
+        "lat": 10.9489864,
+        "lng": 108.2053195,
+        "address": "152 Nguyễn Đình Chiểu, P Hàm Tiến, TP Phan Thiết"
+      },
+      {
+        "lat": 10.9458529,
+        "lng": 108.1982645,
+        "address": "56 Nguyễn Đình Chiểu, P Hàm Tiên, TP Phan Thiết"
+      },
+      {
+        "lat": 10.947972,
+        "lng": 108.2029655,
+        "address": "94A Nguyễn Đình Chiểu, Phan Thiết"
+      },
+      {
+        "lat": 10.926957,
+        "lng": 108.1129848,
+        "address": "50 Nguyễn Tất Thành, Phường Hưng Long"
+      },
+      {
+        "lat": 20.9341058,
+        "lng": 106.2546587,
+        "address": "KCN Đại An mở rộng"
+      },
+      {
+        "lat": 20.7948231,
+        "lng": 106.4346979,
+        "address": "Văn Tố, Tứ Kỳ, Hải Dương"
+      },
+      {
+        "lat": 20.9316657,
+        "lng": 106.2683379,
+        "address": "Trong CTTNHH SUMIDENSO Việt Nam-KCN Đại An"
+      },
+      {
+        "lat": 21.0340126,
+        "lng": 106.5878723,
+        "address": "TT Minh Tân, H Kinh Môn"
+      },
+      {
+        "lat": 20.9825979,
+        "lng": 106.3920058,
+        "address": "KCN Lai Vu, Kim Thành HD"
+      },
+      {
+        "lat": 20.921317,
+        "lng": 106.3265028,
+        "address": "673-675 Lê Thanh Nghị, TP Hải Dương"
+      },
+      {
+        "lat": 20.966938,
+        "lng": 106.510784,
+        "address": "123 Quốc lộ 5, TT Phú Thái, H.Kim Thành"
+      },
+      {
+        "lat": 20.9416237,
+        "lng": 106.3339889,
+        "address": "58 Quang Trung, TP Hải Dương"
+      },
+      {
+        "lat": 20.9329447,
+        "lng": 106.02943,
+        "address": "Xã Giai Phạm, Huyện Yên Mỹ"
+      },
+      {
+        "lat": 20.9567952,
+        "lng": 106.0256577,
+        "address": "Đường E1 - KCN Phố Nối A"
+      },
+      {
+        "lat": 20.9734589,
+        "lng": 105.9250341,
+        "address": "Đường rừng cọ,KĐT Ecopark"
+      },
+      {
+        "lat": 20.9460418,
+        "lng": 105.9423426,
+        "address": "Bưu điện Văn Phúc, Thị trấn Văn Giang, Huyện Văn Giang"
+      },
+      {
+        "lat": 20.8532941,
+        "lng": 106.6802596,
+        "address": "122 Hai Bà Trưng, Quận Lê Chân, Hải Phòng"
+      },
+      {
+        "lat": 20.8667967,
+        "lng": 106.7012039,
+        "address": "71 Lê Lai, Phường Mái Chai, Quận Ngô Quyền, TP Hải Phòng"
+      },
+      {
+        "lat": 20.8670028,
+        "lng": 106.6444472,
+        "address": "Km92 Quốc Lộ 5 mới, Quận Hồng Bàng, TP Hải Phòng"
+      },
+      {
+        "lat": 20.859711,
+        "lng": 106.687984,
+        "address": "12 Trần Phú, Ngô Quyền, Hải Phòng"
+      },
+      {
+        "lat": 20.844314,
+        "lng": 106.669861,
+        "address": "268 Trần Nguyên Hãn, Quận Lê Chân, TP Hải Phòng"
+      },
+      {
+        "lat": 20.8649273,
+        "lng": 106.6593289,
+        "address": "2A Sở Dầu, Quận Hồng Bàng, TP Hải Phòng"
+      },
+      {
+        "lat": 20.834282,
+        "lng": 106.697373,
+        "address": "275 Lạch Tray, Quận Ngô Quyền, TP Hải Phòng"
+      },
+      {
+        "lat": 20.9706635,
+        "lng": 107.0382932,
+        "address": "Số 1 Đường Cái Lân, TP Hạ Long"
+      },
+      {
+        "lat": 21.4523956,
+        "lng": 107.7536399,
+        "address": "Số 76 Trần Bình Trọng - TT.Quảng Hà - Hải Hà - Quảng Ninh"
+      },
+      {
+        "lat": 21.4177553,
+        "lng": 107.74712,
+        "address": "KCn Texhong Hải Hà - X.Quảng Điền - Hải Hà - Quảng Ninh"
+      },
+      {
+        "lat": 21.5268715,
+        "lng": 107.9713891,
+        "address": "05 Hùng Vương, P. Trần Phú, TP Móng Cái"
+      },
+      {
+        "lat": 20.9582543,
+        "lng": 107.0857208,
+        "address": "45 Trần Hưng Đạo, P Trần Hưng Đạo, TP Hạ Long"
+      },
+      {
+        "lat": 20.9828115,
+        "lng": 106.9240554,
+        "address": "Phường Đại Yên, TP Hạ Long"
+      },
+      {
+        "lat": 20.9458583,
+        "lng": 107.1089488,
+        "address": "Đường Nguyễn Văn Cừ, TP Hạ Long, Quảng Ninh"
+      },
+      {
+        "lat": 20.953548,
+        "lng": 107.0909246,
+        "address": "703 Lê Thánh Tông, P Bạch Đằng, TP Hạ Long"
+      },
+      {
+        "lat": 20.9582543,
+        "lng": 107.0857208,
+        "address": "45 Trần Hưng Đạo TP Hạ Long"
+      },
+      {
+        "lat": 18.5401104,
+        "lng": 105.5855384,
+        "address": "Tổ dân phố 5, TT Đức Thọ"
+      },
+      {
+        "lat": 18.3475453,
+        "lng": 105.8874677,
+        "address": "Bảo hiểm xã hội Hà Tĩnh"
+      },
+      {
+        "lat": 18.0970316,
+        "lng": 106.3809661,
+        "address": "Nhiệt điện Vũng Áng"
+      },
+      {
+        "lat": 18.4513073,
+        "lng": 105.7716599,
+        "address": "Số 14, đường Nguyễn Thiếp, thị trấn Nghèn, Can Lộc"
+      },
+      {
+        "lat": 18.3386305,
+        "lng": 105.8969795,
+        "address": "PGD Phan Đình Phùng 11 Phan Đình Phùng, TP Hà Tĩnh"
+      },
+      {
+        "lat": 18.3430501,
+        "lng": 105.8904299,
+        "address": "02 Nguyễn Thị Minh Khai, TP Hà Tĩnh"
+      },
+      {
+        "lat": 16.020549,
+        "lng": 108.202612,
+        "address": "36 Ông ích đường, q.cẩm lệ"
+      },
+      {
+        "lat": 16.0843502,
+        "lng": 108.1451398,
+        "address": "KCN Liên Chiểu"
+      },
+      {
+        "lat": 16.060424,
+        "lng": 108.213277,
+        "address": "106-112 Nguyễn Văn Linh, Quận Thanh Khê"
+      },
+      {
+        "lat": 16.0154309,
+        "lng": 108.2054266,
+        "address": "189 Ông Ích Đường Cẩm Lệ"
+      },
+      {
+        "lat": 16.067065,
+        "lng": 108.212927,
+        "address": "325-326 Hùng Vương, Q. Thanh Khê"
+      },
+      {
+        "lat": 15.7628056,
+        "lng": 108.1784455,
+        "address": "Duy Sơn, Duy Xuyên"
+      },
+      {
+        "lat": 15.560536,
+        "lng": 108.4860073,
+        "address": "189 Huỳnh Thúc Kháng, Tam Kỳ"
+      },
+      {
+        "lat": 15.8908793,
+        "lng": 108.2533228,
+        "address": "151 Mẹ Thứ, Điện Bàn, Quảng Nam"
+      },
+      {
+        "lat": 15.8836412,
+        "lng": 108.3258768,
+        "address": "02 Trần Cao Vân, Hội An"
+      },
+      {
+        "lat": 16.2252184,
+        "lng": 108.059866,
+        "address": "Lăng Cô, Phú Lộc, Thừa Thiên - Huế"
+      },
+      {
+        "lat": 16.4572521,
+        "lng": 107.5745996,
+        "address": "103 Bùi Thị Xuân Huế"
+      },
+      {
+        "lat": 16.3045352,
+        "lng": 107.9946667,
+        "address": "Lộc Vĩnh, Phú Lộc, TT Huế"
+      },
+      {
+        "lat": 10.766385,
+        "lng": 106.694309,
+        "address": "155 Trần Hưng Đạo"
+      },
+      {
+        "lat": 16.4691825,
+        "lng": 107.5858482,
+        "address": "06 Trần Hưng Đạo, TP Huế"
+      },
+      {
+        "lat": 16.460873,
+        "lng": 107.594974,
+        "address": "18A Đống Đa Huế"
+      },
+      {
+        "lat": 17.1064913,
+        "lng": 106.676292,
+        "address": "Lệ Thủy - Quảng Bình"
+      },
+      {
+        "lat": 15.3806499,
+        "lng": 108.7800067,
+        "address": "Xã Bình Đông, H Bình Sơn"
+      },
+      {
+        "lat": 15.3809762,
+        "lng": 108.7541564,
+        "address": "Xã Bình Thạnh, H Bình Sơn"
+      },
+      {
+        "lat": 15.3168038,
+        "lng": 108.7776947,
+        "address": "Khu kinh tế Dung Quất, H Bình Sơn"
+      },
+      {
+        "lat": 15.1261457,
+        "lng": 108.7773286,
+        "address": "Số 02 Nguyễn Chí Thanh, TP Quảng Ngãi"
+      },
+      {
+        "lat": 15.1521842,
+        "lng": 108.7931995,
+        "address": "KCN VSIP Quảng Ngãi - Quảng Ngãi"
+      },
+      {
+        "lat": 15.3004004,
+        "lng": 108.7583565,
+        "address": "QL 1A TT Châu Ổ, H Bình Sơn"
+      },
+      {
+        "lat": 14.8115527,
+        "lng": 108.9591376,
+        "address": "Thị trấn Đức Phổ, H Đức Phổ"
+      },
+      {
+        "lat": 13.888989,
+        "lng": 109.1133192,
+        "address": "256 Ngô Gia Tự, Bình Định"
+      },
+      {
+        "lat": 13.9988114,
+        "lng": 109.0588703,
+        "address": "85 - 87 Đuong 3/2, TT Ngô Mây, H Phú Cát, Bình Định"
+      },
+      {
+        "lat": 13.7822083,
+        "lng": 109.1484782,
+        "address": "433 Lạc Long Quân P. Trần Quang Diệu"
+      },
+      {
+        "lat": 13.7953687,
+        "lng": 109.1833859,
+        "address": "648 Hùng Vương, P. Nhơn Phú, TP. Quy Nhơn"
+      },
+      {
+        "lat": 14.4298176,
+        "lng": 109.0138578,
+        "address": "Lô A6 cụm công nghiệp, TT Bông Sơn, H Hoài Nhơn"
+      },
+      {
+        "lat": 10.04825,
+        "lng": 105.770244,
+        "address": "179 Nguyễn Văn Cừ, Q. Ninh Kiều"
+      },
+      {
+        "lat": 10.005285,
+        "lng": 105.7991566,
+        "address": "Lô 20 Phú An, P Phú Thứ, Q Cái Răng, TP Cần Thơ"
+      },
+      {
+        "lat": 21.5310379,
+        "lng": 105.8514868,
+        "address": "106 Đường Cách Mạng Tháng Tám"
+      },
+      {
+        "lat": 10.0478821,
+        "lng": 105.7688232,
+        "address": "188/1 Bế Văn Đàn, quận Ninh Kiều TP CT"
+      },
+      {
+        "lat": 10.0495716,
+        "lng": 105.7853052,
+        "address": "09 Trần Phú, Q.Ninh Kiều, TP Cần Thơ"
+      },
+      {
+        "lat": 10.0438455,
+        "lng": 105.7845855,
+        "address": "TTTM Cái Khế"
+      },
+      {
+        "lat": 10.0916249,
+        "lng": 105.7260247,
+        "address": "Lê Hồng Phong, Q Bình Thủy, TP Cần Thơ"
+      },
+      {
+        "lat": 10.032919,
+        "lng": 105.783787,
+        "address": "Số 3-5-7 Đại Lộ Hoà Bình, Q Ninh Kiều, TP Cần Thơ"
+      },
+      {
+        "lat": 10.306164,
+        "lng": 105.503608,
+        "address": "Quốc lộ 91 KV Phụng Thạnh 1"
+      },
+      {
+        "lat": 9.4270903,
+        "lng": 105.7397047,
+        "address": "261 Quốc lộ 1A, TT Phú Lộc, Thạnh Trị, Sóc Trăng"
+      },
+      {
+        "lat": 9.6110738,
+        "lng": 105.970036,
+        "address": "30 Hùng Vương, TP Sóc Trăng"
+      },
+      {
+        "lat": 9.6128581,
+        "lng": 105.9930496,
+        "address": "359 Phạm Hùng, TP. Sóc Trăng,"
+      },
+      {
+        "lat": 9.484046,
+        "lng": 106.1933837,
+        "address": "Số 15 ấp Đầu Giồng, TT Trần Đề, Huyện Trần Đề, Sóc Trăng"
+      },
+      {
+        "lat": 9.6328024,
+        "lng": 105.9526854,
+        "address": "153 Quốc lộ 1A, H. Châu Thành"
+      },
+      {
+        "lat": 9.5983035,
+        "lng": 105.9721382,
+        "address": "Số 03 Trần Hưng Đạo, Phường 3, TP Sóc Trăng"
+      },
+      {
+        "lat": 10.5905556,
+        "lng": 107.0480556,
+        "address": "Khu CN Phú Mỹ 1, Huyện Tân Thành, Tỉnh BRVT"
+      },
+      {
+        "lat": 10.3510283,
+        "lng": 107.0738296,
+        "address": "8 Hoàng Diệu, Phường 1, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.3694978,
+        "lng": 107.0773024,
+        "address": "27 Lê Lợi, Phường 4, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.4853133,
+        "lng": 107.1852639,
+        "address": "03 Trường Chinh, Phường Phước Trung, Tỉnh Bà Rịa"
+      },
+      {
+        "lat": 10.3981982,
+        "lng": 107.1369906,
+        "address": "Quốc lộ 51B, Phường 11, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.4061478,
+        "lng": 107.1312379,
+        "address": "52, đường 30/04, Phường Thắng Nhất, TP Vũng Tàu"
+      },
+      {
+        "lat": 12.2268823,
+        "lng": 109.1832597,
+        "address": "528 Lê Hồng Phong, TP Nha Trang"
+      },
+      {
+        "lat": 12.2333349,
+        "lng": 109.1957303,
+        "address": "24C Nguyễn Thiện Thuật, TP Nha Trang"
+      },
+      {
+        "lat": 11.9077446,
+        "lng": 109.1434217,
+        "address": "35 Nguyễn Trọng Kỷ, P Cam Linh, Khánh Hòa"
+      },
+      {
+        "lat": 12.0581164,
+        "lng": 109.1604462,
+        "address": "QL 1A, Thị trấn Cam Đức, H.Cam Lâm"
+      },
+      {
+        "lat": 12.2509873,
+        "lng": 109.1880658,
+        "address": "21 Lê Thành Phương"
+      },
+      {
+        "lat": 11.1289604,
+        "lng": 106.5910077,
+        "address": "KCN Mỹ Phước 1 Bến Cát Bình Dương"
+      },
+      {
+        "lat": 11.1289604,
+        "lng": 106.5910077,
+        "address": "KCN Mỹ Phước 1 Bến Cát Bình Dương"
+      },
+      {
+        "lat": 11.0973504,
+        "lng": 106.641053,
+        "address": "Đường NE8, KCN Mỹ Phước 3, H Bến Cát"
+      },
+      {
+        "lat": 11.0853171,
+        "lng": 106.677863,
+        "address": "Khu DV VSIP2, Khu Liên Hợp Bình Dương, Thủ Dầu Một"
+      },
+      {
+        "lat": 11.0841596,
+        "lng": 106.7883416,
+        "address": "P.Uyên Hưng TX.Tân Uyên"
+      },
+      {
+        "lat": 11.0731554,
+        "lng": 106.8602559,
+        "address": "Ấp Tân Mỹ, Xã Thái Hòa, H Tân Uyên"
+      },
+      {
+        "lat": 10.989687,
+        "lng": 106.664132,
+        "address": "504 Đại lộ Bình Dương, Xã Hiệp Thành, H Thủ Dầu Một"
+      },
+      {
+        "lat": 11.1540651,
+        "lng": 106.5944939,
+        "address": "Khu Phố 2, TT Mỹ Phước, H Bến Cát"
+      },
+      {
+        "lat": 11.1540651,
+        "lng": 106.5944939,
+        "address": "Khu Phố 2, TT Mỹ Phước, H Bến Cát"
+      },
+      {
+        "lat": 11.0642116,
+        "lng": 106.6284889,
+        "address": "1765A Đại lộ Bình Dương, Xã Tân Định, H Bến Cát"
+      },
+      {
+        "lat": 10.9546906,
+        "lng": 106.7029363,
+        "address": "QL13, ấp Bình Giao, Xã Thuận Giao, H Thuận An"
+      },
+      {
+        "lat": 10.9815391,
+        "lng": 106.7096918,
+        "address": "Bình Quới, Bình Chuẩn, Thuận An"
+      },
+      {
+        "lat": 11.2454323,
+        "lng": 106.6243358,
+        "address": "KCN Bàu Bàng Bến Cát Bình Dương"
+      },
+      {
+        "lat": 11.0542141,
+        "lng": 106.6868709,
+        "address": "24,25,26 lô H Phú Chánh, Thủ Dầu Một"
+      },
+      {
+        "lat": 10.9842137,
+        "lng": 106.6803916,
+        "address": "321 Phú Lợi, P Phú Lợi, H Thủ Dầu Một"
+      },
+      {
+        "lat": 10.987102,
+        "lng": 106.6651862,
+        "address": "230 Đại lộ Bình Dương, Thủ Dầu Một"
+      },
+      {
+        "lat": 11.1465572,
+        "lng": 106.8431408,
+        "address": "Xã Tân Thành H.Bắc Tân Uyên"
+      },
+      {
+        "lat": 10.9190028,
+        "lng": 106.7821657,
+        "address": "Tân Đông Hiệp B, Dĩ An"
+      },
+      {
+        "lat": 10.8708308,
+        "lng": 106.7570928,
+        "address": "KP Bình Đường An Bình Dĩ An"
+      },
+      {
+        "lat": 10.8982038,
+        "lng": 106.733434,
+        "address": "KCN Đồng An, Thuận An"
+      },
+      {
+        "lat": 10.9771834,
+        "lng": 106.7422833,
+        "address": "Ấp Bình Phước B, Xã Bình Chuẩn"
+      },
+      {
+        "lat": 10.9435488,
+        "lng": 106.8798127,
+        "address": "KCN Amata, Biên Hòa, Đồng Nai"
+      },
+      {
+        "lat": 10.9012444,
+        "lng": 106.8526661,
+        "address": "Long Bình Tân, Biên Hòa"
+      },
+      {
+        "lat": 10.9283719,
+        "lng": 106.8777627,
+        "address": "22 Đường 3A KCN Biên Hòa 2"
+      },
+      {
+        "lat": 10.905933,
+        "lng": 106.8503666,
+        "address": "Siêu thị BigC, KP1, Long Bình Tân, Biên Hòa"
+      },
+      {
+        "lat": 10.9816241,
+        "lng": 106.8423557,
+        "address": "Số 10 Đường 5, P.Tân Tiến, TP Biên Hòa"
+      },
+      {
+        "lat": 10.9562282,
+        "lng": 106.8183527,
+        "address": "Nguyễn Ái Quốc, P.Quang Vinh, Biên Hòa, Đồng Nai"
+      },
+      {
+        "lat": 10.9683625,
+        "lng": 106.8888241,
+        "address": "Số 47A-47B/5 Xa lộ Hà Nội, KP1, P Tân Biên, TP Biên Hòa"
+      },
+      {
+        "lat": 10.9377408,
+        "lng": 107.2399125,
+        "address": "Số 198 đường Hùng Vương, P Xuân Bình, TX Long Khánh"
+      },
+      {
+        "lat": 10.9484801,
+        "lng": 106.8100173,
+        "address": "2 Nguyễn Văn Trị, P Thanh Bình, Biên Hòa"
+      },
+      {
+        "lat": 10.9676542,
+        "lng": 106.8580944,
+        "address": "Số 1135 Nguyễn Ái Quốc, P.Tân Hiệp, TP. Biên Hòa"
+      },
+      {
+        "lat": 10.9529473,
+        "lng": 107.2350543,
+        "address": "Cty Great Super, KCN Suối Tre, ấp Núi Tung, Long Khánh, Đồng Nai"
+      },
+      {
+        "lat": 10.7258934,
+        "lng": 106.9239201,
+        "address": "KCN Nhơn trạch 2 H.Nhơn Trạch"
+      },
+      {
+        "lat": 10.7505317,
+        "lng": 106.6549069,
+        "address": "16 Hải Thượng Lãn Ông, P6"
+      },
+      {
+        "lat": 10.7550412,
+        "lng": 106.6726146,
+        "address": "463C Nguyễn Trãi, P9"
+      },
+      {
+        "lat": 10.7804056,
+        "lng": 106.6553989,
+        "address": "Số 93 Lý Thường Kiệt,P6"
+      },
+      {
+        "lat": 10.014853,
+        "lng": 105.0784967,
+        "address": "30 Mạc Đĩnh Chi, P.Vĩnh Thanh, TP Rạch Giá, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 9.9677834,
+        "lng": 105.1098811,
+        "address": "G15-1, Đường 3/2, Phường An Hòa, Thành Phố Rạch Giá, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.3899793,
+        "lng": 104.4841052,
+        "address": "04 Phương Thành, Phường Đông Hồ, Thị Xã Hà Tiên, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 9.9852915,
+        "lng": 105.0902951,
+        "address": "89 Đường 3/2, TP Rạch Giá, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.2144063,
+        "lng": 103.958606,
+        "address": "01 Võ Thị Sáu, TT Dương Đông, Huyện Phú Quốc, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.338056,
+        "lng": 103.848618,
+        "address": "Khu Bãi dài, Xã Gánh Dầu, Huyện Phú Quốc, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.3794455,
+        "lng": 105.4416736,
+        "address": "1 Hùng Vương, P Mỹ Long, TP Long Xuyên"
+      },
+      {
+        "lat": 10.7975352,
+        "lng": 105.2492353,
+        "address": "12 Hai Bà Trưng, P Long Thạnh, TX Tân Châu"
+      },
+      {
+        "lat": 10.4720372,
+        "lng": 105.6262242,
+        "address": "144 Mai Văn Khải, xã Mỹ Tân, TP. Cao Lãnh"
+      },
+      {
+        "lat": 10.476184,
+        "lng": 105.6009682,
+        "address": "1645 QL30, P11, TP Cao Lãnh"
+      },
+      {
+        "lat": 10.8075069,
+        "lng": 105.3470564,
+        "address": "44-46 Võ Văn Kiệt,P An Thạnh"
+      },
+      {
+        "lat": 12.6815118,
+        "lng": 108.0463833,
+        "address": "01- 03 Phan Chu Trinh, P. Thắng Lợi, TP Buôn Ma Thuột"
+      },
+      {
+        "lat": 12.6793047,
+        "lng": 108.0465693,
+        "address": "03 Đinh Tiên Hoàng, P. Tự An, BMT"
+      },
+      {
+        "lat": 12.6907249,
+        "lng": 108.0554469,
+        "address": "18B Trần Nhật Duật, TP Buôn Ma Thuột"
+      },
+      {
+        "lat": 12.6922615,
+        "lng": 108.0628961,
+        "address": "71 Nguyễn Tất Thành, TP Buôn Ma Thuột"
+      },
+      {
+        "lat": 13.9762078,
+        "lng": 108.0148876,
+        "address": "01 Phù Đổng, P Phù Đổng, TP Pleiku"
+      },
+      {
+        "lat": 13.9640255,
+        "lng": 108.0169437,
+        "address": "133 Trường Chinh, P Trà Bá, TP Pleiku"
+      },
+      {
+        "lat": 13.9775153,
+        "lng": 107.995873,
+        "address": "92 Trần Phú, Phường Diên Hồng"
+      },
+      {
+        "lat": 21.1400042,
+        "lng": 106.1775398,
+        "address": "KCN Quế Võ, tỉnh Bắc Ninh"
+      },
+      {
+        "lat": 21.1860724,
+        "lng": 105.9852143,
+        "address": "KCN Yên Phong, X Long Châu, H Yên Phong"
+      },
+      {
+        "lat": 21.1923746,
+        "lng": 106.0054761,
+        "address": "KCN Yên Phong huyện Yên Phong Bắc Ninh"
+      },
+      {
+        "lat": 21.1279192,
+        "lng": 106.2227968,
+        "address": "KCN Quế Võ II - xã Ngọc Xá - Quế Võ - Bắc Ninh"
+      },
+      {
+        "lat": 21.1557181,
+        "lng": 106.1173081,
+        "address": "KCN Quế Võ xã Phương Liễu huyện Quế Võ tỉnh Bắc Ninh"
+      },
+      {
+        "lat": 21.0368573,
+        "lng": 106.0589862,
+        "address": "KCN Khai Sơn Thanh Khương Thuận Thành"
+      },
+      {
+        "lat": 21.1632993,
+        "lng": 106.1352578,
+        "address": "KCN Quế Võ, X Phương Liễu, H Quế Võ"
+      },
+      {
+        "lat": 21.1860724,
+        "lng": 105.9852143,
+        "address": "KCN Yên Phong, X Long Châu, H Yên Phong"
+      },
+      {
+        "lat": 21.1771601,
+        "lng": 106.0730329,
+        "address": "Ngã 6, P Đại Phúc, TP Bắc Ninh"
+      },
+      {
+        "lat": 16.8193155,
+        "lng": 107.0986942,
+        "address": "59 Hùng Vương, TP Đông Hà"
+      },
+      {
+        "lat": 17.0711055,
+        "lng": 107.0009853,
+        "address": "159 Lê Duẩn TT Hồ Xá Vĩnh Linh"
+      },
+      {
+        "lat": 10.3643335,
+        "lng": 106.6842279,
+        "address": "27 Mạc Văn Thành, khu phố 1, Phường 3"
+      },
+      {
+        "lat": 10.3476658,
+        "lng": 106.332888,
+        "address": "Khu CN Mỹ Tho, Tiền Giang"
+      },
+      {
+        "lat": 10.474322,
+        "lng": 106.305279,
+        "address": "KCN Long Giang, ấp Tân Lập 1"
+      },
+      {
+        "lat": 10.6217537,
+        "lng": 105.9582372,
+        "address": "Ấp 4, xã Tân Lập 1"
+      },
+      {
+        "lat": 16.3938341,
+        "lng": 107.5692406,
+        "address": "3/11-3/12 Quốc lộ 1A, khu phố 1, Phường 4"
+      },
+      {
+        "lat": 10.3476658,
+        "lng": 106.332888,
+        "address": "Khu CN Mỹ Tho, Tiền Giang"
+      },
+      {
+        "lat": 21.3360714,
+        "lng": 105.3487587,
+        "address": "lô B9,KCN Thụy Vân"
+      },
+      {
+        "lat": 21.3360714,
+        "lng": 105.3487587,
+        "address": "Lô B06, KCN Thụy Vân, Thụy Vân, TP Việt Trì"
+      },
+      {
+        "lat": 10.8034549,
+        "lng": 106.7209947,
+        "address": "288 đường 30/4,P3"
+      },
+      {
+        "lat": 11.3383967,
+        "lng": 106.1154382,
+        "address": "44 Đường 30/4, P3, TP Tây Ninh"
+      },
+      {
+        "lat": 11.3096691,
+        "lng": 106.1054315,
+        "address": "576 đường Cách Mạng Tháng Tám, P3, TP Tây Ninh"
+      },
+      {
+        "lat": 11.307007,
+        "lng": 106.1227352,
+        "address": "1021 Đường Cách Mạng Tháng 8, P Hiệp Ninh, TP Tây Ninh"
+      },
+      {
+        "lat": 9.6788699,
+        "lng": 106.2816361,
+        "address": "Ấp Kosla, Xã Thanh Sơn, Huyện Trà Cú, Tỉnh Trà Vinh"
+      },
+      {
+        "lat": 9.8121263,
+        "lng": 106.1879088,
+        "address": "Khóm 1, Thị Trấn Tiểu Cần, Huyện Tiểu Cần, Tỉnh Trà Vinh"
+      },
+      {
+        "lat": 9.2914788,
+        "lng": 105.7142436,
+        "address": "Số 7 Trần Huỳnh, P7, TP Bạc Liêu"
+      },
+      {
+        "lat": 12.9966024,
+        "lng": 109.3299776,
+        "address": "TT Hòa Vinh, Đông Hòa, Phú Yên"
+      },
+      {
+        "lat": 14.3497699,
+        "lng": 108.0023601,
+        "address": "348 Trần Hưng Đạo TP Kon Tum"
+      },
+      {
+        "lat": 10.3757062,
+        "lng": 107.0710708,
+        "address": "578 Trần Phú"
+      },
+      {
+        "lat": 14.3550883,
+        "lng": 108.0042754,
+        "address": "224 Bà Triệu TP. Kon Tum"
+      },
+      {
+        "lat": 13.79579,
+        "lng": 109.1693521,
+        "address": "957 Hùng Vương"
+      },
+      {
+        "lat": 14.3551146,
+        "lng": 108.0002155,
+        "address": "103 Phan Đình Phùng, TP. Kon Tum"
+      },
+      {
+        "lat": 21.25474,
+        "lng": 106.126945,
+        "address": "KCN Đình Trám"
+      },
+      {
+        "lat": 21.2506197,
+        "lng": 106.144429,
+        "address": "Khu Công Nghiệp Vân Trung, Việt Yên, TP Bắc Giang"
+      },
+      {
+        "lat": 21.2185624,
+        "lng": 106.1078517,
+        "address": "Lô R(R1) KCN Quang Châu tỉnh Bắc Giang"
+      },
+      {
+        "lat": 19.809172,
+        "lng": 105.7722142,
+        "address": "11 Hạc Thành, P Điện Biên, TP Thanh Hóa"
+      },
+      {
+        "lat": 19.4494423,
+        "lng": 105.77795,
+        "address": "Tĩnh Gia, TP Thanh Hóa"
+      },
+      {
+        "lat": 19.6923927,
+        "lng": 105.7615252,
+        "address": "Xã Quảng Hợp, Quảng Xương"
+      },
+      {
+        "lat": 19.9937352,
+        "lng": 105.9868804,
+        "address": "Xóm 6 Nga Mỹ, Nga Sơn"
+      },
+      {
+        "lat": 19.43838,
+        "lng": 105.7745131,
+        "address": "Tĩnh Gia, Thanh Hóa"
+      },
+      {
+        "lat": 19.3987098,
+        "lng": 105.7527701,
+        "address": "Xã Hải Yến, Khu Kinh Tế Nghi Sơn, Huyện Tĩnh Gia"
+      },
+      {
+        "lat": 19.3548127,
+        "lng": 105.7527221,
+        "address": "Thôn Bản Cát, Mai Lâm, huyện Tĩnh Gia Thanh Hóa"
+      },
+      {
+        "lat": 10.251791,
+        "lng": 105.9749462,
+        "address": "5C Hưng Đạo Vương Phường 1 Tp.Vĩnh Long"
+      },
+      {
+        "lat": 11.5951195,
+        "lng": 109.0364038,
+        "address": "TT Khánh Hải, Ninh Hải"
+      },
+      {
+        "lat": 18.6864603,
+        "lng": 105.6762234,
+        "address": "9 Nguyễn Sỹ Sách, P Hà Huy Tập, TP Vinh"
+      },
+      {
+        "lat": 21.3563469,
+        "lng": 106.2607902,
+        "address": "Số 1A Trường Thi"
+      },
+      {
+        "lat": 18.6769591,
+        "lng": 105.6757228,
+        "address": "01 Nguyễn Thị Minh Khai, TP.Vinh"
+      },
+      {
+        "lat": 18.9791,
+        "lng": 105.5967912,
+        "address": "Cty Samsung Vina, H.Diễn Châu, Nghệ An"
+      },
+      {
+        "lat": 21.0377572,
+        "lng": 105.7904018,
+        "address": "Số 39 Nguyễn Phong Sắc"
+      },
+      {
+        "lat": 20.6382578,
+        "lng": 105.9259271,
+        "address": "Đồng Văn Duy Tiên Hà Nam"
+      },
+      {
+        "lat": 20.6500069,
+        "lng": 106.0008363,
+        "address": "KCN Hòa Mạc Duy Tiên Hà Nam"
+      },
+      {
+        "lat": 20.2425225,
+        "lng": 106.0043254,
+        "address": "Đ Trần Nhân Tông, X Ninh Phúc, TP. Ninh Bình"
+      },
+      {
+        "lat": 20.2438556,
+        "lng": 105.965743,
+        "address": "Bệnh viện đa khoa tỉnh Ninh Bình, Dương Tuệ Tĩnh, P. Nam Thanh"
+      },
+      {
+        "lat": 20.4381148,
+        "lng": 106.1524693,
+        "address": "TTTM Siêu thị Thiên Trường, xã Lộc Hóa, TP Nam Định"
+      },
+      {
+        "lat": 20.1990944,
+        "lng": 106.2989685,
+        "address": "Cầu Hàng Vàng tổ 1 TT Yên Định Hải Hậu Nam Định"
+      },
+      {
+        "lat": 21.472792,
+        "lng": 105.8919215,
+        "address": "KCN Điềm Thủy H Phú Bình Thái Nguyên"
+      },
+      {
+        "lat": 21.8604496,
+        "lng": 106.7640103,
+        "address": "Tầng 1, TTTM Phú Lộc IV, KĐT Phú Lộc IV, P Vĩnh Trại, TP Lạng Sơn"
+      },
+      {
+        "lat": 22.3330003,
+        "lng": 104.124819,
+        "address": "KCN Tằng Loỏng, H. Bảo Thắng, Lào Cai"
+      },
+      {
+        "lat": 11.5123355,
+        "lng": 106.9905473,
+        "address": "Tân Phú, Đồng Phú, Bình Phước"
+      },
+      {
+        "lat": 21.0292645,
+        "lng": 105.8579368,
+        "address": "Số 02 Chương Dương Độ, Hoàn Kiếm, Hà Nội"
+      },
+      {
+        "lat": 21.034342,
+        "lng": 105.847448,
+        "address": "29 Hàng Phèn, Quận Hoàn Kiếm, Hà Nội"
+      },
+      {
+        "lat": 21.0083239,
+        "lng": 105.8473167,
+        "address": "49 Đại Cồ Việt, P Bách Khoa, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "lat": 21.2327247,
+        "lng": 105.8128851,
+        "address": "KCN Nội Bài, Sóc Sơn, Hà Nội"
+      },
+      {
+        "lat": 21.013667,
+        "lng": 105.862871,
+        "address": "15A Trần Khánh Dư, Quận Hai Bà Trưng, Hà Nội"
+      },
+      {
+        "lat": 20.9668682,
+        "lng": 105.8266127,
+        "address": "Khu CC2, Bắc Linh Đàm, Quận Hoàng Mai, Hà Nội"
+      },
+      {
+        "lat": 21.0194793,
+        "lng": 105.7922179,
+        "address": "211 Trung Kính, Quận Cầu Giấy, Hà Nội"
+      },
+      {
+        "lat": 21.007799,
+        "lng": 105.840286,
+        "address": "Số 1 Đào Duy Anh-Đống Đa-Hà Nội"
+      },
+      {
+        "lat": 20.9729238,
+        "lng": 105.7781159,
+        "address": "10 Quang Trung, P Quang Trung, Hà Đông"
+      },
+      {
+        "lat": 21.0011059,
+        "lng": 105.8478824,
+        "address": "B101 Nguyễn Hiền, P.Bách Khoa"
+      },
+      {
+        "lat": 16.477571,
+        "lng": 107.572802,
+        "address": "102 Phùng Hưng Huế"
+      },
+      {
+        "lat": 10.7958994,
+        "lng": 106.6818771,
+        "address": "07 Phan Đình Phùng"
+      },
+      {
+        "lat": 20.9869805,
+        "lng": 105.8635007,
+        "address": "126 Tam Trinh, Yên Sở, Q Hoàng Mai"
+      },
+      {
+        "lat": 21.029634,
+        "lng": 105.9179736,
+        "address": "KCN Sài Đồng, P Sài Đồng, Q Long Biên"
+      },
+      {
+        "lat": 21.0034828,
+        "lng": 105.7917352,
+        "address": "01 Đại lộ Thăng Long"
+      },
+      {
+        "lat": 21.066937,
+        "lng": 105.810889,
+        "address": "565 Lạc Long Quân, Q.Tây Hồ, TP Hà Nội"
+      },
+      {
+        "lat": 21.0465966,
+        "lng": 105.7461012,
+        "address": "Km12 Ql32 Phúc Diễn - Bắc Từ Liêm - Hà Nội"
+      },
+      {
+        "lat": 21.042176,
+        "lng": 105.7903156,
+        "address": "129 Nguyễn Phong Sắc, P Nghĩa Tân, Q Cầu Giấy"
+      },
+      {
+        "lat": 21.0154534,
+        "lng": 105.7792996,
+        "address": "Mỹ Đình, Mễ Trì, H Từ Liêm"
+      },
+      {
+        "lat": 21.033216,
+        "lng": 105.8195462,
+        "address": "39 Vạn Phúc, P Kim Mã, Q Ba Đình"
+      },
+      {
+        "lat": 21.253509,
+        "lng": 105.485898,
+        "address": "TT Thổ Tang Vĩnh Tường VP"
+      },
+      {
+        "lat": 10.8574412,
+        "lng": 106.6087697,
+        "address": "167/2 Nguyễn Ảnh Thủ, P Trung Mỹ Tây, Q12"
+      },
+      {
+        "lat": 10.775504,
+        "lng": 106.686328,
+        "address": "76 CMT8, Phường 6, Quận 3"
+      },
+      {
+        "lat": 10.7571775,
+        "lng": 106.670972,
+        "address": "84 An Dương Vương, P9, Q5"
+      },
+      {
+        "lat": 10.754984,
+        "lng": 106.638222,
+        "address": "786 Hồng Bàng, F1, Q11"
+      },
+      {
+        "lat": 10.8001079,
+        "lng": 106.6814974,
+        "address": "181 Phan Đăng Lưu, Phường 1, Quận Phú Nhuận, TP HCM"
+      },
+      {
+        "lat": 10.762214,
+        "lng": 106.668555,
+        "address": "268 Nguyễn Tri Phương, Quận 5, TP HCM"
+      },
+      {
+        "lat": 10.8387285,
+        "lng": 106.6725586,
+        "address": "236/7 Nguyễn Văn Lượng, Phường 17, Quận Gò Vấp, TP HCM"
+      },
+      {
+        "lat": 10.7706114,
+        "lng": 106.6968467,
+        "address": "Công viên 23/9, Phường Phạm Ngũ Lão, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.8085734,
+        "lng": 106.6783669,
+        "address": "571 Nguyễn Kiệm, Phường 9, Quận Phú Nhuận, TP HCM"
+      },
+      {
+        "lat": 10.7948616,
+        "lng": 106.6763496,
+        "address": "149-151 Nguyễn Văn Trỗi, Quận Phú Nhuận, TP HCM"
+      },
+      {
+        "lat": 10.7711908,
+        "lng": 106.688742,
+        "address": "41 Sương Nguyệt Ánh, Phường Bến Thành, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7823643,
+        "lng": 106.6771786,
+        "address": "01 Nguyễn Thông, Phường 9, Quận 3, TP HCM"
+      },
+      {
+        "lat": 10.7764758,
+        "lng": 106.7008441,
+        "address": "27 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.763421,
+        "lng": 106.679066,
+        "address": "242 Trần Bình Trọng, Phường 4, Quận 5, TP HCM"
+      },
+      {
+        "lat": 10.8000144,
+        "lng": 106.6590802,
+        "address": "Số 15-17 Cộng Hoà, Phường 4, Quận Tân Bình, TP HCM"
+      },
+      {
+        "lat": 10.7603203,
+        "lng": 106.6884444,
+        "address": "262 Trần Hưng Đạo, Phường Nguyễn Cư Trinh, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.8076056,
+        "lng": 106.7337063,
+        "address": "43 Thảo Điền, Phường Thảo Điền, Quận 2, TP HCM"
+      },
+      {
+        "lat": 10.7753118,
+        "lng": 106.7058491,
+        "address": "05 Công Trường Mê Linh, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.783669,
+        "lng": 106.654696,
+        "address": "151A Lý Thường Kiệt, Phường 6, Quận Tân Bình, TP HCM"
+      },
+      {
+        "lat": 10.7640194,
+        "lng": 106.6790763,
+        "address": "02 Hùng Vương, Quận 10, TP HCM"
+      },
+      {
+        "lat": 10.7856458,
+        "lng": 106.7018366,
+        "address": "45 Đinh Tiên Hoàng, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7639973,
+        "lng": 106.6827929,
+        "address": "235 Nguyễn Văn Cừ, Phường Bến Nghé, Quận 1, TP HCM"
+      },
+      {
+        "lat": 10.7381944,
+        "lng": 106.717914,
+        "address": "59 Nguyễn Thị Thập, P. Tân Phú, Quận 7"
+      },
+      {
+        "lat": 20.4418005,
+        "lng": 106.3252682,
+        "address": "821-823 Trần Hưng Đạo P1 Q5 TPHCM"
+      },
+      {
+        "lat": 10.792232,
+        "lng": 106.694052,
+        "address": "61-63 Trần Quang Khải, P.Tân Định, Q1, HCM"
+      },
+      {
+        "lat": 10.7748899,
+        "lng": 106.68906,
+        "address": "147 - 149 Võ Văn Tần P9 Q3 HCM"
+      },
+      {
+        "lat": 10.7928793,
+        "lng": 106.6296567,
+        "address": "254 Độc Lập, P Tân Thành"
+      },
+      {
+        "lat": 10.8151119,
+        "lng": 106.623958,
+        "address": "108 Tây Thạnh, P. Tây Thạnh, Q. Tân Phú"
+      },
+      {
+        "lat": 11.9387929,
+        "lng": 108.4450379,
+        "address": "Quảng trường Lâm Viên"
+      },
+      {
+        "lat": 11.9397844,
+        "lng": 108.4327418,
+        "address": "33 Nguyễn Văn Cừ, P1, TP Đà lạt"
+      },
+      {
+        "lat": 10.5432713,
+        "lng": 106.3953652,
+        "address": "Quốc lộ 1A, Phường 2, TP Tân An"
+      },
+      {
+        "lat": 10.607117,
+        "lng": 106.6709386,
+        "address": "12 Quốc lộ 50, TT Cần Giuộc, Huyện Cần Giuộc"
+      },
+      {
+        "lat": 10.5347549,
+        "lng": 106.4111112,
+        "address": "1 đường Mai Thị Tốt, P1, TP Tân An"
+      },
+      {
+        "lat": 11.1523351,
+        "lng": 107.5091461,
+        "address": "Đường 3/2, Đức Tài, Đức Linh"
+      },
+      {
+        "lat": 10.9397029,
+        "lng": 108.1616808,
+        "address": "Đường Nguyễn Thông, TP Phan Thiết"
+      },
+      {
+        "lat": 10.9521294,
+        "lng": 106.4930556,
+        "address": "Số 01 đường 17/4"
+      },
+      {
+        "lat": 20.9619055,
+        "lng": 106.3713938,
+        "address": "Cổng B, Khu công nghiệp Nam Sách, H Nam Sách"
+      },
+      {
+        "lat": 20.9295379,
+        "lng": 106.4170311,
+        "address": "Bưu điện Thị trấn Thanh Hà, H.Thanh Hà"
+      },
+      {
+        "lat": 20.925848,
+        "lng": 106.065101,
+        "address": "KCN Dệt may Phố Nối B"
+      },
+      {
+        "lat": 20.986527,
+        "lng": 105.9788011,
+        "address": "KCN Như Quỳnh, Văn Lâm"
+      },
+      {
+        "lat": 20.9455817,
+        "lng": 106.0434449,
+        "address": "Thị trấn Bần Yên Nhân, Mỹ Hào"
+      },
+      {
+        "lat": 20.8664479,
+        "lng": 106.698051,
+        "address": "46 Lê Lai, Ngô Quyền, Hải Phòng"
+      },
+      {
+        "lat": 20.857097,
+        "lng": 106.686668,
+        "address": "27-29 Phạm Ngũ Lão, Ngô Quyền, Hải Phòng"
+      },
+      {
+        "lat": 20.9679851,
+        "lng": 106.6703963,
+        "address": "Lưu Kiếm, Quận Thủy Nguyên, TP Hải Phòng"
+      },
+      {
+        "lat": 20.8419076,
+        "lng": 106.7479424,
+        "address": "KM2 đường Đình Vũ Q Hải An Hải Phòng"
+      },
+      {
+        "lat": 20.4414804,
+        "lng": 106.3126598,
+        "address": "KCN Phúc Khánh, TP Thái Bình"
+      },
+      {
+        "lat": 20.4489549,
+        "lng": 106.3429171,
+        "address": "Số 75 Lê Lợi, P.Lê Hồng Phong,TP Thái Bình"
+      },
+      {
+        "lat": 20.9711977,
+        "lng": 107.0448069,
+        "address": "Hoành Bồ, Hạ Long"
+      },
+      {
+        "lat": 21.055278,
+        "lng": 107.343056,
+        "address": "Khu 8, Phường Mông Dương, TP.Cẩm Phả"
+      },
+      {
+        "lat": 20.9742882,
+        "lng": 107.1625704,
+        "address": "Số 1 Tân Lập, P Hà Lầm, TP Hạ Long"
+      },
+      {
+        "lat": 20.9334638,
+        "lng": 106.8414374,
+        "address": "TX Quảng Yên"
+      },
+      {
+        "lat": 21.0096389,
+        "lng": 107.2713517,
+        "address": "168 Trần Phú, P Cẩm Tây, TX Cẩm Phả"
+      },
+      {
+        "lat": 21.033722,
+        "lng": 106.757704,
+        "address": "Tổ 7 khu 1, P Yên Thanh, TX Uông Bí"
+      },
+      {
+        "lat": 18.5232706,
+        "lng": 105.7109477,
+        "address": "03 Quang Trung, TX Hồng Lĩnh"
+      },
+      {
+        "lat": 18.4590804,
+        "lng": 105.3101915,
+        "address": "Khối 4, TT Tây Sơn"
+      },
+      {
+        "lat": 18.0634114,
+        "lng": 106.2992129,
+        "address": "PGD Kỳ Anh H.Kỳ Anh T.Hà Tĩnh"
+      },
+      {
+        "lat": 16.0717049,
+        "lng": 108.2239642,
+        "address": "Đường Trần Phú, Hải Châu Đà nẵng"
+      },
+      {
+        "lat": 16.0347805,
+        "lng": 108.2272625,
+        "address": "Khu thể thao Tuyên Sơn, Quận Hải Châu"
+      },
+      {
+        "lat": 15.8784736,
+        "lng": 108.3277726,
+        "address": "456 Phan Châu Trinh, Hội An, Quảng Nam"
+      },
+      {
+        "lat": 16.466198,
+        "lng": 107.5923504,
+        "address": "27 Trần Cao Vân, TP Huế"
+      },
+      {
+        "lat": 16.493422,
+        "lng": 107.581069,
+        "address": "86 Nguyễn Gia Thiều, TP Huế"
+      },
+      {
+        "lat": 16.5209866,
+        "lng": 107.4655504,
+        "address": "KCN Hương Trà"
+      },
+      {
+        "lat": 16.4657452,
+        "lng": 107.5923997,
+        "address": "2A Hùng Vương, TP Huế"
+      },
+      {
+        "lat": 17.4829992,
+        "lng": 106.6097876,
+        "address": "312 Lý Thường Kiệt, Đồng Hới, Quảng Bình"
+      },
+      {
+        "lat": 17.4699673,
+        "lng": 106.6075333,
+        "address": "82 Hữu Nghị, Đồng Hới, Quảng Bình"
+      },
+      {
+        "lat": 17.2240932,
+        "lng": 106.7898163,
+        "address": "Thị trấn Kiên Giang, Lệ Thủy"
+      },
+      {
+        "lat": 15.3366217,
+        "lng": 108.8526765,
+        "address": "KKT Dung Quất, H Bình Sơn"
+      },
+      {
+        "lat": 15.1521842,
+        "lng": 108.7931995,
+        "address": "KCN VSIP Quảng Ngãi - Quảng Ngãi"
+      },
+      {
+        "lat": 15.1521842,
+        "lng": 108.7931995,
+        "address": "KCN VSIP Quảng Ngãi - huyện Sơn Tịnh - tỉnh Quảng Ngãi"
+      },
+      {
+        "lat": 15.0432277,
+        "lng": 108.8507778,
+        "address": "QL 1A thị trấn Sông Vệ huyện Tư Nghĩa tỉnh Quảng Ngãi"
+      },
+      {
+        "lat": 15.1506555,
+        "lng": 108.7970358,
+        "address": "P Trương Quang Trọng, TP Quảng Ngãi"
+      },
+      {
+        "lat": 15.1789141,
+        "lng": 108.8848569,
+        "address": "Tịnh Khê, Sơn Tịnh"
+      },
+      {
+        "lat": 13.8023767,
+        "lng": 109.1474821,
+        "address": "58 Trần Phú, TT Diêu Trì, X Tuy Phước, Bình Định"
+      },
+      {
+        "lat": 14.4311076,
+        "lng": 109.017216,
+        "address": "106 Quang Trung, TT Bồng Sơn"
+      },
+      {
+        "lat": 13.7760144,
+        "lng": 109.232348,
+        "address": "152 Lê Lợi, Phường Hải Cảng, TP. Quy Nhơn"
+      },
+      {
+        "lat": 10.0323855,
+        "lng": 105.7738185,
+        "address": "Khu 2 Đường 3/2, Q Ninh Kiều, TP Cần Thơ"
+      },
+      {
+        "lat": 10.0530363,
+        "lng": 105.7723117,
+        "address": "Số 9 Cách Mạng Tháng 8, Q Ninh Kiều, TP Cần Thơ"
+      },
+      {
+        "lat": 10.7569247,
+        "lng": 106.6785428,
+        "address": "Số 108 Lê Hồng Phong K4 P3"
+      },
+      {
+        "lat": 10.0276347,
+        "lng": 105.7775233,
+        "address": "195 đường 30/4"
+      },
+      {
+        "lat": 10.4057329,
+        "lng": 107.1315377,
+        "address": "36 Đường 30/4, Phường 9, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.3510287,
+        "lng": 107.1003204,
+        "address": "169 Thùy Vân, Phường 8, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.3619666,
+        "lng": 107.0836222,
+        "address": "Tiểu khu I, Khu TT 5 Tầng, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.3661788,
+        "lng": 107.0735821,
+        "address": "105 Lê Lợi, Phường 6, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.3624944,
+        "lng": 107.0812671,
+        "address": "36 Nguyễn Thái Học, Phường 8, TP Vũng Tàu"
+      },
+      {
+        "lat": 10.7559726,
+        "lng": 106.6791905,
+        "address": "02 Lê Hồng Phong"
+      },
+      {
+        "lat": 12.2418358,
+        "lng": 109.1889283,
+        "address": "88 Ngô Gia Tự, TP Nha Trang"
+      },
+      {
+        "lat": 12.2575111,
+        "lng": 109.1887085,
+        "address": "08 Đường 2/4 Vĩnh Phước, TP Nha Trang"
+      },
+      {
+        "lat": 12.2177311,
+        "lng": 109.2009517,
+        "address": "192 Dã Tượng, Bình Tân, TP Nha Trang"
+      },
+      {
+        "lat": 11.9113758,
+        "lng": 109.1517313,
+        "address": "100 Đưòng 22/8, H Cam Ranh"
+      },
+      {
+        "lat": 11.0973504,
+        "lng": 106.641053,
+        "address": "NE8,KCN MP 3"
+      },
+      {
+        "lat": 11.2480551,
+        "lng": 106.6089892,
+        "address": "A17-A18 Đường NC Khu Đô Thị Bàu Bàng"
+      },
+      {
+        "lat": 11.101302,
+        "lng": 106.5819789,
+        "address": "TX Bến Cát Tỉnh Bình Dương"
+      },
+      {
+        "lat": 11.1322816,
+        "lng": 106.6070366,
+        "address": "QL13, TT.Mỹ Phước, Bến Cát"
+      },
+      {
+        "lat": 10.9947737,
+        "lng": 106.67924,
+        "address": "Khu Liên Hợp CN&DV Đô thị Bình Dương, Thủ Dầu Một"
+      },
+      {
+        "lat": 10.9358771,
+        "lng": 106.7101598,
+        "address": "24 Đại lộ Bình Dương, Xã Thuận Giao, H Thuận An"
+      },
+      {
+        "lat": 11.1204557,
+        "lng": 106.7061077,
+        "address": "xã Vĩnh Tân, TX.Tân Uyên"
+      },
+      {
+        "lat": 10.987102,
+        "lng": 106.6651862,
+        "address": "314 Đại lộ Bình Dương, Phú Hoà, Thủ Dầu Một"
+      },
+      {
+        "lat": 11.0618004,
+        "lng": 106.797511,
+        "address": "Khu Phố 3, TT Uyên Hưng, H Tân Uyên"
+      },
+      {
+        "lat": 10.1267021,
+        "lng": 106.333065,
+        "address": "KP Khánh Thạnh, Tân P Khánh"
+      },
+      {
+        "lat": 10.9571535,
+        "lng": 106.7175669,
+        "address": "Thuận Giao, Thuận An"
+      },
+      {
+        "lat": 10.8772418,
+        "lng": 106.7580793,
+        "address": "Số 5A xa lộ Xuyên Á, An Bình, Dĩ An"
+      },
+      {
+        "lat": 10.9623154,
+        "lng": 106.6992792,
+        "address": "1/379 KP Hòa Lân 1 Thuận Giao"
+      },
+      {
+        "lat": 10.9263549,
+        "lng": 106.8880496,
+        "address": "Cty Teakwang, KCN Long Bình, Biên Hòa"
+      },
+      {
+        "lat": 10.8407073,
+        "lng": 106.9805838,
+        "address": "KCN Long Đức, Long Thành, Đồng Nai"
+      },
+      {
+        "lat": 10.9282738,
+        "lng": 106.8915948,
+        "address": "KCN LOTEXCO, P.Long Bình, Biên Hòa"
+      },
+      {
+        "lat": 10.784054,
+        "lng": 106.948913,
+        "address": "16 Khu Vân Hải - Long Thành"
+      },
+      {
+        "lat": 10.9427544,
+        "lng": 106.8216301,
+        "address": "49 Đường Cách mạng tháng 8, P. Hòa Bình, Biên Hòa, Đồng Nai"
+      },
+      {
+        "lat": 10.9512733,
+        "lng": 106.8198957,
+        "address": "77C Hưng Đạo Vương, P. Trung Dũng, Biên Hòa, Đồng Nai"
+      },
+      {
+        "lat": 10.7337329,
+        "lng": 106.9295478,
+        "address": "Đường Tôn Đức Thắng KCN Nhơn Trạch 3"
+      },
+      {
+        "lat": 11.9546441,
+        "lng": 108.4419531,
+        "address": "Số 4 Nguyễn Công Trứ, Phường 8"
+      },
+      {
+        "lat": 9.1792201,
+        "lng": 105.1374161,
+        "address": "KCN Phường 8, Phường 8, TP Cà Mau"
+      },
+      {
+        "lat": 10.7514011,
+        "lng": 106.6671712,
+        "address": "22 Ngô Quyền, P2"
+      },
+      {
+        "lat": 10.792963,
+        "lng": 106.685825,
+        "address": "79A Phan Đình Phùng, P 2"
+      },
+      {
+        "lat": 10.0182437,
+        "lng": 105.0837614,
+        "address": "Đường Nguyễn Bỉnh Khiêm, Phường Vĩnh Quang, TP Rạch Giá, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.1857312,
+        "lng": 103.9685088,
+        "address": "01 Trần Hưng Đạo, TT Dương Đông, Huyện Phú Quốc, Tỉnh Kiên Giang"
+      },
+      {
+        "lat": 10.350578,
+        "lng": 105.4616417,
+        "address": "25/40 Trần Hưng Đạo, P Mỹ Thới, TP Long Xuyên"
+      },
+      {
+        "lat": 10.3900589,
+        "lng": 105.4296948,
+        "address": "19D Trần Hưng Đạo, P Mỹ Quí, TP Long xuyên"
+      },
+      {
+        "lat": 10.2631159,
+        "lng": 105.8628074,
+        "address": "An Phú, Xã An Nhơn, Châu Thành, Đồng Tháp"
+      },
+      {
+        "lat": 12.6596223,
+        "lng": 108.0303032,
+        "address": "298 Lê Duẩn, BMT"
+      },
+      {
+        "lat": 12.9188007,
+        "lng": 108.2684948,
+        "address": "149 Trần Hưng Đạo, P An Lạc, TX Buôn Hồ"
+      },
+      {
+        "lat": 12.8181979,
+        "lng": 108.0760211,
+        "address": "103 Hùng Vương, TT. Quảng Phú, BMT"
+      },
+      {
+        "lat": 13.9705949,
+        "lng": 108.0444863,
+        "address": "Lê Duẩn, P Thắng Lợi, TP.Pleiku"
+      },
+      {
+        "lat": 13.9765053,
+        "lng": 107.9985185,
+        "address": "69 Hùng Vương,, P Tây Sơn, TP Pleiku"
+      },
+      {
+        "lat": 13.9837824,
+        "lng": 108.0035567,
+        "address": "01 Hoàng Hoa Thám, P Tây Sơn, TP Pleiku"
+      },
+      {
+        "lat": 13.9825949,
+        "lng": 108.0072836,
+        "address": "124 Lê Lợi, P Hoa Lư, TP Pleiku"
+      },
+      {
+        "lat": 21.0759699,
+        "lng": 105.9760607,
+        "address": "KCN VSIP Từ Sơn Bắc Ninh"
+      },
+      {
+        "lat": 21.2045781,
+        "lng": 105.9533501,
+        "address": "KCN Yên Phong, Xã Yên Trung, Huyện Yên Phong, Bắc Ninh"
+      },
+      {
+        "lat": 10.3539575,
+        "lng": 106.3637478,
+        "address": "6C Rạch Gầm, P1, Mỹ Tho"
+      },
+      {
+        "lat": 10.3661358,
+        "lng": 106.3561222,
+        "address": "119 Ấp Bắc,Phường 5, TP Mỹ Tho"
+      },
+      {
+        "lat": 21.310441,
+        "lng": 105.4007133,
+        "address": "1606A Đại Lộ Hùng Vương, Gia Cẩm, TP Việt Trì"
+      },
+      {
+        "lat": 11.3104937,
+        "lng": 106.1036458,
+        "address": "Số 500 đường Cách Mạng Tháng 8, P.3, TP Tây Ninh"
+      },
+      {
+        "lat": 11.2818312,
+        "lng": 106.1286593,
+        "address": "01-03 Trương Quyền, TT Hòa Thành"
+      },
+      {
+        "lat": 11.313146,
+        "lng": 106.0899536,
+        "address": "11 Võ Văn Truyện, P2, TP Tây Ninh"
+      },
+      {
+        "lat": 11.3383967,
+        "lng": 106.1154382,
+        "address": "313 Đường 30/4, P1, TP Tây Ninh"
+      },
+      {
+        "lat": 9.9210136,
+        "lng": 106.3237953,
+        "address": "28 Nguyễn Thị Minh Khai, P2, TX Trà Vinh"
+      },
+      {
+        "lat": 9.2855097,
+        "lng": 105.7244084,
+        "address": "Số 02 Hoàng Văn Thụ, phường 3, TP. Bạc Liêu"
+      },
+      {
+        "lat": 9.2983518,
+        "lng": 105.7299551,
+        "address": "171 Trần Huỳnh, phường 1, TP Bạc Liêu, Tỉnh Bạc Liêu"
+      },
+      {
+        "lat": 13.092486,
+        "lng": 109.3134875,
+        "address": "194-196 Hùng Vương TP Tuy Hòa Phú Yên"
+      },
+      {
+        "lat": 14.3522312,
+        "lng": 108.0039924,
+        "address": "198 Phan Chu Trinh, TP. Kon Tum"
+      },
+      {
+        "lat": 14.3497699,
+        "lng": 108.0023601,
+        "address": "348 Trần Hưng Đạo, P Thắng Lợi, TP Kon Tum"
+      },
+      {
+        "lat": 21.2755186,
+        "lng": 106.2019774,
+        "address": "Số 1 đường Hùng Vương, P. Hoàng Văn Thụ, TP Bắc Giang"
+      },
+      {
+        "lat": 21.2019796,
+        "lng": 106.1757379,
+        "address": "Xã Yên Lư- Yên Dũng"
+      },
+      {
+        "lat": 9.9656277,
+        "lng": 105.9182828,
+        "address": "18D-19D Gia Long TT Trà Ôn Huyện Trà Ôn Vĩnh Long"
+      },
+      {
+        "lat": 10.245393,
+        "lng": 105.9776576,
+        "address": "55 Pham Thái Bường P4 TP Vĩnh Long"
+      },
+      {
+        "lat": 11.7758795,
+        "lng": 108.7861758,
+        "address": "223 Lê Duẩn TT Tân Sơn Ninh Thuận"
+      },
+      {
+        "lat": 18.6864114,
+        "lng": 105.6849626,
+        "address": "68B Nguyễn Sỹ Sách, P.Hưng Phúc, TP. Vinh"
+      },
+      {
+        "lat": 20.6500069,
+        "lng": 106.0008363,
+        "address": "KCN Hòa Mạc Duy Tiên Hà Nam"
+      },
+      {
+        "lat": 20.6409461,
+        "lng": 105.9971636,
+        "address": "Khu đô thị mới Hòa Mạc, Trác Văn"
+      },
+      {
+        "lat": 20.5394757,
+        "lng": 105.9148242,
+        "address": "203 Nguyễn Văn Trỗi Phủ Lý Hà Nam"
+      },
+      {
+        "lat": 20.4321504,
+        "lng": 106.1711074,
+        "address": "90 Trần Hưng Đạo, TP Nam Định"
+      },
+      {
+        "lat": 10.7524785,
+        "lng": 106.6651917,
+        "address": "228 Trần Hưng Đạo"
+      },
+      {
+        "lat": 21.5491229,
+        "lng": 105.8490491,
+        "address": "Số 903 đường 3-2, P. Phú Xá, TP Thái Nguyên"
+      },
+      {
+        "lat": 21.5944628,
+        "lng": 105.8389927,
+        "address": "Số 10 Đường CMT8, P.Phan Đình Phùng, TP Thái Nguyên"
+      },
+      {
+        "lat": 21.8524158,
+        "lng": 106.7581548,
+        "address": "Số 30 Lê Lợi, P.Vĩnh Trại, TP Lạng Sơn"
+      },
+      {
+        "lat": 21.319597,
+        "lng": 103.9137863,
+        "address": "SN 502 Hoàng Quốc Việt"
+      },
+      {
+        "lat": 22.3363608,
+        "lng": 103.8437852,
+        "address": "TT Sa Pa Lào Cai"
+      },
+      {
+        "lat": 10.8967726,
+        "lng": 106.7839283,
+        "address": "Đường Trần Hưng Đạo, P Nam Cường"
       }
     ]
   }

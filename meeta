@@ -1926,302 +1926,6 @@
     ]
   },
   {
-    "name": "ANZ",
-    "image": "anz",
-    "list": [
-      {
-        "lat": 10.8001992,
-        "lng": 106.6688734,
-        "address": "Phường 1, Phú Nhuận, Ho Chi Minh, Vietnam"
-      },
-      {
-        "lat": 10.7231348,
-        "lng": 106.6009663,
-        "address": "1231 QL1, Tân Tạo A, Bình Tân, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.777816,
-        "lng": 106.66494,
-        "address": "138A Tô Hiến Thành, Cư xá Bắc Hải, Phường 15, Quận 10, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8007126,
-        "lng": 106.7153352,
-        "address": "253 Điện Biên Phủ, phường 21, Bình Thạnh, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7567113,
-        "lng": 106.6851918,
-        "address": "74 Nguyễn Văn Cừ, Nguyễn Cư Trinh, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7630914,
-        "lng": 106.6782406,
-        "address": "126 Đường Hùng Vương, phường 12, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.77178,
-        "lng": 106.6929216,
-        "address": "12D Cách Mạng Tháng 8, Bến Thành, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.777005,
-        "lng": 106.6834159,
-        "address": "120 Cach Mang Thang Tam, phường 7, Quận 3, Ho Chi Minh City, Vietnam"
-      },
-      {
-        "lat": 10.7539186,
-        "lng": 106.6582318,
-        "address": "125+125A+125B Châu Văn Liêm, phường 14, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.736005,
-        "lng": 106.719483,
-        "address": "47K Nguyễn Văn Linh, Tân Phú, Quận 7, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 21.0201183,
-        "lng": 105.7840812,
-        "address": "Dương Đình Nghệ, Yên Hoà, Cầu Giấy, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 10.7672829,
-        "lng": 106.6939483,
-        "address": "187 Đề Thám, Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7747686,
-        "lng": 106.6980713,
-        "address": "71 Lý Tự Trọng, Bến Thành, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7583698,
-        "lng": 106.6737074,
-        "address": "28 Sư Vạn Hạnh, 9, 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7833564,
-        "lng": 106.696505,
-        "address": "40 Trần Cao Vân, 6, 3, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8184631,
-        "lng": 106.6588245,
-        "address": "Tan Son Nhat International Airport, Tân Bình, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7751162,
-        "lng": 106.7059656,
-        "address": "Công trường Mê Linh, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7369264,
-        "lng": 106.7128468,
-        "address": "Đường số 31, Tân Phú, Quận 7, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.773747,
-        "lng": 106.700909,
-        "address": "65 Lê Lợi, Bến Nghé, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.766583,
-        "lng": 106.691777,
-        "address": "194 Bùi Viện, Phạm Ngũ Lão, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7681606,
-        "lng": 106.6951096,
-        "address": "161 Nguyễn Thái Học, Phạm Ngũ Lão, 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.770513,
-        "lng": 106.686724,
-        "address": "167A Nguyễn Thị Minh Khai, Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.769305,
-        "lng": 106.6907055,
-        "address": "137 Nguyễn Trãi, Bến Thành, Quận 1, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.798005,
-        "lng": 106.680646,
-        "address": "313 Phan Đình Phùng, phường 15, Phú Nhuận, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7521312,
-        "lng": 106.6650934,
-        "address": "201 Trần Hưng Đạo, phường 10, Quận 5, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8052319,
-        "lng": 106.7361554,
-        "address": "43 Đường Thảo Điền, Thảo Điền, Quận 2, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 21.1189974,
-        "lng": 106.4004475,
-        "address": "Nguyễn Trãi, Cộng Hòa, Tx. Chí Linh, Hải Dương, Vietnam"
-      },
-      {
-        "lat": 10.782291,
-        "lng": 106.653915,
-        "address": "79B Lý Thường Kiệt, phường 8, Tân Bình, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.8051492,
-        "lng": 106.7468766,
-        "address": "53 Võ Trường Toản, Thảo Điền, Quận 2, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.799287,
-        "lng": 106.6689339,
-        "address": "307/4 Nguyễn Văn Trỗi, Phường 1, Tân Bình, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7532004,
-        "lng": 106.6644372,
-        "address": "86 Tản Đà, phường 11, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 10.7293386,
-        "lng": 106.6942863,
-        "address": "702 Nguyen Van Linh, District 7, Ho Chi Minh City, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 21.310201,
-        "lng": 105.6146273,
-        "address": "Mê Linh, Tp. Vĩnh Yên, Vietnam"
-      },
-      {
-        "lat": 21.0068117,
-        "lng": 105.7949254,
-        "address": "Đối diện 222 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0339251,
-        "lng": 105.8526807,
-        "address": "42-, 44 Hàng Bạc, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.033736,
-        "lng": 105.84661,
-        "address": "38 Bát Đàn, Hàng Bồ, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.030375,
-        "lng": 105.815518,
-        "address": "415 Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0313389,
-        "lng": 105.8508307,
-        "address": "Tầng 1, Số 14, Đường Lê Thái Tổ, Phường Hàng Trống, Quận Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.034826,
-        "lng": 105.851639,
-        "address": "40 Lương Ngọc Quyến, Hàng Buồm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0086296,
-        "lng": 105.8204607,
-        "address": "102 Thái Thịnh, Trung Liệt, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0232171,
-        "lng": 105.8577722,
-        "address": "1 Lê Thánh Tông, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.029363,
-        "lng": 105.8288473,
-        "address": "Cát Linh, Đống Đa, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.050484,
-        "lng": 105.8393256,
-        "address": "Số 1, Đường Thanh Niên, Phường Trúc Bạch, Quận Ba Đình, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 20.9799337,
-        "lng": 105.8646344,
-        "address": "Tam Trinh, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 10.8353739,
-        "lng": 106.7300567,
-        "address": "Phạm Văn Đồng, Hồ Chí Minh, Vietnam"
-      },
-      {
-        "lat": 21.0249013,
-        "lng": 105.8567077,
-        "address": "60 Lý Thái Tổ, Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0125244,
-        "lng": 105.8014418,
-        "address": "48 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.2187149,
-        "lng": 105.8041709,
-        "address": "Noi Bai International Airport (HAN), Phú Minh, Sóc Sơn, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.024653,
-        "lng": 105.843014,
-        "address": "34 Phan Bội Châu, Cửa Nam, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0608022,
-        "lng": 105.8324928,
-        "address": "1 Xuân Diệu, Quảng An, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.023457,
-        "lng": 105.8553154,
-        "address": "13 Hai Bà Trưng, Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0085512,
-        "lng": 105.7901157,
-        "address": "29 Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0158976,
-        "lng": 105.7795114,
-        "address": "Mễ Trì, Mễ Trì, Từ Liêm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.02483,
-        "lng": 105.858559,
-        "address": "Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0786522,
-        "lng": 105.802612,
-        "address": "Khu đô thị Ciputra, Phú Thượng, Tây Hồ, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0322903,
-        "lng": 105.8125347,
-        "address": "52 Liễu Giai, Ngọc Khánh, Ba Đình, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.0092832,
-        "lng": 105.8237589,
-        "address": "1 Thái Hà, Trung Liệt, Hà Nội, Vietnam"
-      },
-      {
-        "lat": 21.010956,
-        "lng": 105.849233,
-        "address": "191 Bà Triệu, Lê Đại Hành, Hà Nội, Vietnam"
-      }
-    ]
-  },
-  {
     "name": "BIDV",
     "image": "bidv",
     "list": [
@@ -10720,6 +10424,317 @@
         "lat": 10.8967726,
         "lng": 106.7839283,
         "address": "Đường Trần Hưng Đạo, P Nam Cường"
+      }
+    ]
+  },
+  {
+    "name": "ANZ",
+    "image": "anz",
+    "list": [
+      {
+        "lat": 21.0412709,
+        "lng": 105.844483,
+        "address": "Khách sạn Santa Barbara"
+      },
+      {
+        "lat": 21.0322903,
+        "lng": 105.8125347,
+        "address": "Trường Thực Nghiệm"
+      },
+      {
+        "lat": 21.01791,
+        "lng": 105.783619,
+        "address": "Chi nhánh Trung Hòa"
+      },
+      {
+        "lat": 21.0324335,
+        "lng": 105.7883697,
+        "address": "Chi nhánh Nguyễn Phong Sắc"
+      },
+      {
+        "lat": 21.0303382,
+        "lng": 105.785889,
+        "address": "Tòa Nhà 3D"
+      },
+      {
+        "lat": 21.009714,
+        "lng": 105.823579,
+        "address": "Viet Tower - Parkson"
+      },
+      {
+        "lat": 21.029708,
+        "lng": 105.851194,
+        "address": "Chi nhánh ANZ Hà Nội"
+      },
+      {
+        "lat": 21.026365,
+        "lng": 105.8456406,
+        "address": "Tháp Hà Nội"
+      },
+      {
+        "lat": 21.029708,
+        "lng": 105.851194,
+        "address": "Chi nhánh Hà Nội"
+      },
+      {
+        "lat": 21.0355617,
+        "lng": 105.8529074,
+        "address": "Circle K mart"
+      },
+      {
+        "lat": 21.0318537,
+        "lng": 105.8524062,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 21.025388,
+        "lng": 105.856706,
+        "address": "Hội nhà báo Việt Nam"
+      },
+      {
+        "lat": 21.030862,
+        "lng": 105.849389,
+        "address": "Khách sạn Golden Rice"
+      },
+      {
+        "lat": 21.034776,
+        "lng": 105.853489,
+        "address": "Văn phòng Du lịch"
+      },
+      {
+        "lat": 21.0293756,
+        "lng": 105.8481789,
+        "address": "Khách sạn Lucky Hanoi"
+      },
+      {
+        "lat": 21.025371,
+        "lng": 105.8434331,
+        "address": "Khách sạn Moevenpick"
+      },
+      {
+        "lat": 21.023466,
+        "lng": 105.855284,
+        "address": "Tòa nhà Sun City"
+      },
+      {
+        "lat": 21.034467,
+        "lng": 105.852163,
+        "address": "Khách sạn Essence"
+      },
+      {
+        "lat": 21.033717,
+        "lng": 105.853857,
+        "address": "Văn phòng Du lịch"
+      },
+      {
+        "lat": 21.06374,
+        "lng": 105.828489,
+        "address": "Nhà hàng Linh & Ben"
+      },
+      {
+        "lat": 21.0786522,
+        "lng": 105.802612,
+        "address": "Trường quốc tế UNIS"
+      },
+      {
+        "lat": 21.060828,
+        "lng": 105.832723,
+        "address": "Cửa hàng L's Place"
+      },
+      {
+        "lat": 21.068291,
+        "lng": 105.8259892,
+        "address": "Cửa hàng Veggy's"
+      },
+      {
+        "lat": 10.7733678,
+        "lng": 106.704013,
+        "address": "Nhà hàng Pendolesco"
+      },
+      {
+        "lat": 10.7733678,
+        "lng": 106.704013,
+        "address": "Tòa nhà Saigon Center"
+      },
+      {
+        "lat": 10.7820573,
+        "lng": 106.7055142,
+        "address": "Tòa nhà Germadept"
+      },
+      {
+        "lat": 10.7824968,
+        "lng": 106.705437,
+        "address": "Tòa nhà Vincom"
+      },
+      {
+        "lat": 10.7717333,
+        "lng": 106.6931202,
+        "address": "Khách Sạn Hoàng Gia"
+      },
+      {
+        "lat": 10.767614,
+        "lng": 106.69456,
+        "address": "Thiên Thần spa"
+      },
+      {
+        "lat": 10.768414,
+        "lng": 106.693145,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 10.7744403,
+        "lng": 106.696936,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 10.7735852,
+        "lng": 106.6979417,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 10.777407,
+        "lng": 106.699701,
+        "address": "Nhà hàng Ngon"
+      },
+      {
+        "lat": 10.767436,
+        "lng": 106.693819,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 10.7792359,
+        "lng": 106.704855,
+        "address": "Căn hộ Saigon City Residence"
+      },
+      {
+        "lat": 10.787967,
+        "lng": 106.696397,
+        "address": "Tòa nhà CityView"
+      },
+      {
+        "lat": 10.7717233,
+        "lng": 106.6975865,
+        "address": "Cửa Tây, chợ Bến Thành (mở cửa từ 7:00 tới 21:00)"
+      },
+      {
+        "lat": 10.7689102,
+        "lng": 106.690542,
+        "address": "Khách sạn Vietnam Inn Sài Gòn"
+      },
+      {
+        "lat": 10.77479,
+        "lng": 106.704027,
+        "address": "Khách sạn Tân Hoàng Long"
+      },
+      {
+        "lat": 10.7721318,
+        "lng": 106.6903965,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 10.7813384,
+        "lng": 106.7000003,
+        "address": "Chi nhánh ANZ - Tòa nhà Kumho"
+      },
+      {
+        "lat": 10.7813384,
+        "lng": 106.7000003,
+        "address": "Chi nhánh ANZ - Tòa nhà Kumho"
+      },
+      {
+        "lat": 10.799705,
+        "lng": 106.733073,
+        "address": "Căn hộ Cantavil"
+      },
+      {
+        "lat": 10.8051492,
+        "lng": 106.7468766,
+        "address": "Căn hộ Riverside"
+      },
+      {
+        "lat": 10.8052985,
+        "lng": 106.7365899,
+        "address": "Siêu Thị Citimart An Phú"
+      },
+      {
+        "lat": 10.799705,
+        "lng": 106.733073,
+        "address": "Trung Tâm Thương Mại Vista Walk"
+      },
+      {
+        "lat": 10.786337,
+        "lng": 106.6915549,
+        "address": "Chi Nhánh Phạm Ngọc Thạch"
+      },
+      {
+        "lat": 10.7532009,
+        "lng": 106.664507,
+        "address": "Chi Nhánh Tản Đà"
+      },
+      {
+        "lat": 10.731514,
+        "lng": 106.7085171,
+        "address": "Cửa hàng Circle K"
+      },
+      {
+        "lat": 10.7282743,
+        "lng": 106.7095596,
+        "address": "Chi nhánh Nam Sài Gòn"
+      },
+      {
+        "lat": 10.7282743,
+        "lng": 106.7095596,
+        "address": "Chi nhánh Nam Sài Gòn"
+      },
+      {
+        "lat": 10.7292934,
+        "lng": 106.6950892,
+        "address": "Trường Đại học RMIT"
+      },
+      {
+        "lat": 10.7292934,
+        "lng": 106.6950892,
+        "address": "Cửa hàng Shop&Go"
+      },
+      {
+        "lat": 10.7271046,
+        "lng": 106.7201979,
+        "address": "Tòa nhà Crescent Plaza"
+      },
+      {
+        "lat": 10.7295694,
+        "lng": 106.7218869,
+        "address": "Tòa nhà Saigon Parkson Paragon"
+      },
+      {
+        "lat": 10.7910446,
+        "lng": 106.718995,
+        "address": "Căn hộ Saigon Pearl"
+      },
+      {
+        "lat": 10.7973453,
+        "lng": 106.6734363,
+        "address": "Tòa nhà Centre Point"
+      },
+      {
+        "lat": 10.803215,
+        "lng": 106.685536,
+        "address": "Tòa nhà Gilimex"
+      },
+      {
+        "lat": 10.8081723,
+        "lng": 106.6645657,
+        "address": "Sân bay Tân Sơn Nhất - Cổng Quốc Nội"
+      },
+      {
+        "lat": 10.8081723,
+        "lng": 106.6645657,
+        "address": "Sân bay Tân Sơn Nhất - Cổng Quốc Tế"
+      },
+      {
+        "lat": 10.8012219,
+        "lng": 106.652164,
+        "address": "Phòng giao dịch Tân Bình"
       }
     ]
   }
